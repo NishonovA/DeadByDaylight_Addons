@@ -117,6 +117,7 @@ namespace DeadByDaylight_Addons
             }
 
             //Настраиваем таблицу - вставляем строки
+            AddonSlots.Children.Clear();
             AddonSlots.Height = DEFAULT_ADDONSLOT_HEIGHT * rowCounter;
             for (int count = 0; count < rowCounter; count++)
             {
@@ -216,6 +217,8 @@ namespace DeadByDaylight_Addons
             var starImage = new Image();
             starImage.Width = 52;
             starImage.Height = 49;
+            starImage.VerticalAlignment = VerticalAlignment.Top;
+            starImage.HorizontalAlignment = HorizontalAlignment.Left;
             InsertStars(starImage, path);
             Grid.SetRow(starImage, 0);
             Grid.SetColumn(starImage, 0);
@@ -223,6 +226,8 @@ namespace DeadByDaylight_Addons
             var addonImage = new Image();
             addonImage.Width = 48;
             addonImage.Height = 48;
+            addonImage.VerticalAlignment = VerticalAlignment.Top;
+            addonImage.HorizontalAlignment = HorizontalAlignment.Left;
             InsertAddon(addonImage, Addon.AddonImagePath);
             Grid.SetRow(addonImage, 0);
             Grid.SetColumn(addonImage, 1);
@@ -272,6 +277,7 @@ namespace DeadByDaylight_Addons
             CurAddon.AddonImagePath = path;
         }
 
+        //Инициализируем комбобокс
         private void InitialCmb(ComboBox cmb)
         {
             var path = System.IO.Path.Combine(Directory.GetCurrentDirectory(), "addons", "KillerNames.txt");
