@@ -164,12 +164,12 @@ namespace DeadByDaylight_Addons
                     Grid.SetColumn(addonField, 3);
                 }
 
-                //Заполняем подтаблицу
                 FillInfo(addonsInfo[count], addonField);
                 AddonSlots.Children.Add(addonField);
             }
         }
 
+        //Вставляем картинку аддона
         private void InsertAddon(Image addon, string path)
         {
             if (File.Exists(path))
@@ -190,6 +190,7 @@ namespace DeadByDaylight_Addons
             }
         }
 
+        //Вставляем картинку звёзд
         private void InsertStars(Image stars, string path)
         {
             if (File.Exists(path))
@@ -202,11 +203,13 @@ namespace DeadByDaylight_Addons
             }
         }
 
+        //Вставляем описание аддона
         private void InsertDescription(TextBlock descript, string addonText)
         {
             descript.Text = addonText;
         }
 
+        //Заполняем подтаблицу элементами
         private void FillInfo(AddonInfo Addon, Grid miniGrid)
         {
             var path = System.IO.Path.Combine(Directory.GetCurrentDirectory(), "addons", "Stars", $"star{Addon.Stars}.png");
@@ -235,6 +238,7 @@ namespace DeadByDaylight_Addons
             miniGrid.Children.Add(addonText);
         }
 
+        //Инициализируем объект класса
         private void InsertInfo(AddonInfo CurAddon, string killerName, int number)
         {
             var starCount = DEFAULT_STARS;
