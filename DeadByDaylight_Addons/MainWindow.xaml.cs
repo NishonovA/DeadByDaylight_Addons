@@ -13,6 +13,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using Newtonsoft.Json;
 
 namespace DeadByDaylight_Addons
 {
@@ -48,6 +49,9 @@ namespace DeadByDaylight_Addons
 
         private void RefreshInfo(string killerName)
         {
+            //Инициализируем объект убийцы
+            var killerInfo = new KillerInfo();
+
             //Настройка высоты окна
             var path = System.IO.Path.Combine(Directory.GetCurrentDirectory(), "addons", "Killers", killerName, "pics");
             var picsCounter = DEFAULT_PICSCOUNTER;
@@ -80,6 +84,8 @@ namespace DeadByDaylight_Addons
                     Icon.Source = null;
                 }
             }
+            killerInfo.KillerName = killerName;////////////////////////////////////////////////////////////////////////////////////////////////
+            killerInfo.KillerImagePath = System.IO.Path.Combine("addons", "icon.png");////////////////////////////////////////////////////////////////////////////////////////////////
 
             //Заполняем описание
             Description_1.Text = DEFAULT_MAIN;
@@ -90,11 +96,15 @@ namespace DeadByDaylight_Addons
                 string mainDescription = null;
                 using (var sr = new StreamReader(path, System.Text.Encoding.Default))
                 {
+                    killerInfo.KillerDescription = sr.ReadToEnd();////////////////////////////////////////////////////////////////////////////////
+                }
+                using (var sr = new StreamReader(path, System.Text.Encoding.Default))
+                {
                     string line;
                     int count = 0;
                     while ((count < 10) && ((line = sr.ReadLine()) != null))
                     {
-                        mainDescription += line + "\n";
+                        mainDescription += line + "\r\n";
                         count++;
                     }
                     if (count == 0)
@@ -108,7 +118,7 @@ namespace DeadByDaylight_Addons
                         count = 0;
                         while ((count < 10) && ((line = sr.ReadLine()) != null))
                         {
-                            mainDescription += line + "\n";
+                            mainDescription += line + "\r\n";
                             count++;
                         }
                     }
@@ -137,6 +147,7 @@ namespace DeadByDaylight_Addons
                 InsertInfo(addonInfo, killerName, count);
                 addonsInfo.Add(addonInfo);
             }
+            killerInfo.AddonInfo = addonsInfo;//////////////////////////////////////////////////////////////////////////
 
             //Создаём подтаблицы
             for (int count = 0; count < picsCounter; count++)
@@ -167,6 +178,14 @@ namespace DeadByDaylight_Addons
 
                 FillInfo(addonsInfo[count], addonField);
                 AddonSlots.Children.Add(addonField);
+            }
+
+            //Заполняем json
+            var str = JsonConvert.SerializeObject(killerInfo, Formatting.Indented);
+            path = System.IO.Path.Combine(Directory.GetCurrentDirectory(), "addons", "Killers", killerName, "AllInfo.json");
+            using (StreamWriter file = new StreamWriter(new FileStream(path, FileMode.OpenOrCreate)))
+            {
+                file.Write(str);
             }
         }
 
@@ -261,7 +280,7 @@ namespace DeadByDaylight_Addons
                     int count = 0;
                     while ((count < 4) && ((line = sr.ReadLine()) != null))
                     {
-                        addonText += line + "\n";
+                        addonText += line + "\r\n";
                         count++;
                     }
                 }
