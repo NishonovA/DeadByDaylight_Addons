@@ -1,25 +1,25 @@
-Trapper
-Wraith
-Hillbilly
-Nurse
-Shape
-Hag
-Doctor
-Huntress
-Cannibal
-Nightmare
-Pig
-Clown
-Spirit
-Legion
-Plague
-Ghost_Face
-Demogorgon
-Oni
-Deathslinger
-Executioner
-Blight
-Twins
-Trickster
-Nemesis
-Cenobite
+Охотник (Trapper)
+Призрак (Wraith)
+Деревенщина (Hillbilly)
+Медсестра (Nurse)
+Тень (Shape)
+Ведьма (Hag)
+Доктор (Doctor)
+Охотница (Huntress)
+Каннибал (Cannibal)
+Кошмар (Nightmare)
+Свинья (Pig)
+Клоун (Clown)
+Дух (Spirit)
+Легион (Legion)
+Чума (Plague)
+Гост Фейс (Ghost Face)
+Демогоргон (Demogorgon)
+Они (Oni)
+Стрелок (Deathslinger)
+Палач (Executioner)
+Мор (Blight)
+Близнецы (Twins)
+Трюкач (Trickster)
+Немезис (Nemesis)
+Сенобит (Cenobite)
