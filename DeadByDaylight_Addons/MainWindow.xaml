@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:DeadByDaylight_Addons"
         mc:Ignorable="d"
         WindowStartupLocation="Manual" Top="0" 
-        Title="Addons" Width="1000">
+        Title="Addons (Patch 5.2.0)" Width="1000">
     <Grid x:Name="MainGrid">
         <Grid x:Name="Header" Height="230" VerticalAlignment="Top">
             <Grid.ColumnDefinitions>
