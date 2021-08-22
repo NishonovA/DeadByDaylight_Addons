@@ -66,6 +66,7 @@ namespace DeadByDaylight_Addons
             }
             var rowCounter = (picsCounter - 1) / 2 + 1;
             Application.Current.MainWindow.Height = DEFAULT_HEADER_HEIGHT + DEFAULT_ADDONSLOT_HEIGHT * rowCounter;
+            MinHeight = DEFAULT_HEADER_HEIGHT + DEFAULT_ADDONSLOT_HEIGHT * rowCounter;
 
             //Оформляем шапку
             path = System.IO.Path.Combine(Directory.GetCurrentDirectory(), "addons", "Killers", killerName, "icon.png");
