@@ -36,6 +36,7 @@ namespace DeadByDaylight_Addons
             this.Left = SystemParameters.PrimaryScreenWidth - this.Width;
             KillerName.SelectionChanged += KillerName_SelectionChanged;
             InitialCmb(KillerName);
+            KillerName.Focus();
         }
 
         private void KillerName_SelectionChanged(object sender, SelectionChangedEventArgs e)
@@ -311,6 +312,13 @@ namespace DeadByDaylight_Addons
                     }
                 }
             }
+        }
+
+        //Открывает окно заметок
+        private void NotesButton_Click(object sender, RoutedEventArgs e)
+        {
+            var customMsgBox = new CustomMsgBox();
+            customMsgBox.Show();
         }
     }
 
