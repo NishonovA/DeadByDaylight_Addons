@@ -22,11 +22,17 @@ namespace DeadByDaylight_Addons
     /// </summary>
     public partial class MainWindow : Window
     {
-        private readonly int DEFAULT_STARS = 1;
         private readonly string DEFAULT_DESCRIPTION = "Нет данных";
         private readonly int DEFAULT_HEADER_HEIGHT = 270;
         private readonly int DEFAULT_ADDONSLOT_HEIGHT = 80;
         private readonly int DEFAULT_PICSCOUNTER = 20;
+        private readonly int DEFAULT_DESCRIPTION_LINES = 10;
+        private readonly int DEFAULT_ADDON_HEIGHT = 70;
+        private readonly int DEFAULT_STARS_WIDTH = 52;
+        private readonly int DEFAULT_ADDONICON_WIDTH = 48;
+        private readonly int DEFAULT_STARS_HEIGHT = 49;
+        private readonly int DEFAULT_ADDONICON_HEIGHT = 48;
+        private readonly int DEFAULT_MARGIN = 10;
 
         public MainWindow()
         {
@@ -99,11 +105,11 @@ namespace DeadByDaylight_Addons
             }
             for (int count = 0; count < description.Length; count++)
             {
-                if (count < 10)
+                if (count < DEFAULT_DESCRIPTION_LINES)
                 {
                     Description_1.Text += description[count] + "\r\n";
                 }
-                if ((count >=10) && (count < 20))
+                if ((count >= DEFAULT_DESCRIPTION_LINES) && (count < 2 * DEFAULT_DESCRIPTION_LINES))
                 {
                     Description_2.Text += description[count] + "\r\n";
                 }
@@ -115,10 +121,10 @@ namespace DeadByDaylight_Addons
             for (int count = 0; count < rowCounter; count++)
             {
                 var rowActive = new RowDefinition();
-                rowActive.Height = new GridLength(70);
+                rowActive.Height = new GridLength(DEFAULT_ADDON_HEIGHT);
                 AddonSlots.RowDefinitions.Add(rowActive);
                 var rowPassive = new RowDefinition();
-                rowPassive.Height = new GridLength(10);
+                rowPassive.Height = new GridLength(DEFAULT_ADDONSLOT_HEIGHT - DEFAULT_ADDON_HEIGHT);
                 AddonSlots.RowDefinitions.Add(rowPassive);
             }
 
@@ -131,10 +137,10 @@ namespace DeadByDaylight_Addons
                 var addonField = new Grid();
 
                 var col1 = new ColumnDefinition();
-                col1.Width = new GridLength(62);
+                col1.Width = new GridLength(DEFAULT_STARS_WIDTH + DEFAULT_MARGIN);
                 addonField.ColumnDefinitions.Add(col1);
                 var col2 = new ColumnDefinition();
-                col2.Width = new GridLength(58);
+                col2.Width = new GridLength(DEFAULT_ADDONICON_WIDTH + DEFAULT_MARGIN);
                 addonField.ColumnDefinitions.Add(col2);
                 var col3 = new ColumnDefinition();
                 addonField.ColumnDefinitions.Add(col3);
@@ -202,8 +208,8 @@ namespace DeadByDaylight_Addons
         {
             var path = System.IO.Path.Combine(Directory.GetCurrentDirectory(), "addons", "Stars", $"star{Addon.Stars}.png");
             var starImage = new Image();
-            starImage.Width = 52;
-            starImage.Height = 49;
+            starImage.Width = DEFAULT_STARS_WIDTH;
+            starImage.Height = DEFAULT_STARS_HEIGHT;
             starImage.VerticalAlignment = VerticalAlignment.Top;
             starImage.HorizontalAlignment = HorizontalAlignment.Left;
             InsertStars(starImage, path);
@@ -211,8 +217,8 @@ namespace DeadByDaylight_Addons
             Grid.SetColumn(starImage, 0);
 
             var addonImage = new Image();
-            addonImage.Width = 48;
-            addonImage.Height = 48;
+            addonImage.Width = DEFAULT_ADDONICON_WIDTH;
+            addonImage.Height = DEFAULT_ADDONICON_HEIGHT;
             addonImage.VerticalAlignment = VerticalAlignment.Top;
             addonImage.HorizontalAlignment = HorizontalAlignment.Left;
             path = System.IO.Path.Combine(Directory.GetCurrentDirectory(), Addon.AddonImagePath);
