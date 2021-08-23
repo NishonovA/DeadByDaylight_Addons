@@ -35,14 +35,16 @@ namespace DeadByDaylight_Addons
         private readonly int DEFAULT_MARGIN = 10;
         private readonly int DEFAULT_STARS_COUNT = 1;
 
+        private List<KillerInfo> _allKillers;
+
         public MainWindow()
         {
             InitializeComponent();
             var iconUri = new Uri(Directory.GetCurrentDirectory(), UriKind.RelativeOrAbsolute);
             Left = SystemParameters.PrimaryScreenWidth - Width;
-            var AllKillers = InitialKillers();
+            _allKillers = InitialKillers();
             KillerName.SelectionChanged += KillerName_SelectionChanged;
-            InitialCmb(KillerName, AllKillers);
+            InitialCmb(KillerName, _allKillers);
             KillerName.Focus();
         }
 
@@ -58,9 +60,7 @@ namespace DeadByDaylight_Addons
         private void RefreshInfo(string killerName)
         {
             //Инициализируем объект убийцы
-            var killerInfo = new KillerInfo();
-            var AllKillers = InitialKillers();///////////////////////////////////////////////////////////////////////////////New
-            killerInfo = AllKillers.Find(x => x.KillerName == killerName);
+            var killerInfo = _allKillers.Find(x => x.KillerName == killerName);
 
             //Настройка высоты окна
             var picsCounter = killerInfo.AddonInfo.Count;
@@ -69,8 +69,9 @@ namespace DeadByDaylight_Addons
                 picsCounter = DEFAULT_PICSCOUNTER;
             }
             var rowCounter = (picsCounter - 1) / 2 + 1;
-            Application.Current.MainWindow.Height = DEFAULT_HEADER_HEIGHT + DEFAULT_ADDONSLOT_HEIGHT * rowCounter;
             MinHeight = DEFAULT_HEADER_HEIGHT + DEFAULT_ADDONSLOT_HEIGHT * rowCounter;
+            Application.Current.MainWindow.Height = DEFAULT_HEADER_HEIGHT + DEFAULT_ADDONSLOT_HEIGHT * rowCounter;
+            
 
             InsertKillerIcon(killerInfo.KillerImagePath);
             
