@@ -29,8 +29,8 @@
                     <RowDefinition Height="10"/>
                 </Grid.RowDefinitions>
                 <ComboBox x:Name="KillerName" Grid.Column="0" Grid.Row="1" Width="200" Height="25" HorizontalAlignment="Left" SelectionChanged="KillerName_SelectionChanged" SelectedIndex="0"/>
-                <TextBlock x:Name="Description_1" Grid.Column="0" Grid.Row="3" TextWrapping="Wrap"/>
-                <TextBlock x:Name="Description_2" Grid.Column="2" Grid.Row="3" TextWrapping="Wrap"/>
+                <TextBlock x:Name="Description_1" Grid.Column="0" Grid.Row="3" TextWrapping="WrapWithOverflow"/>
+                <TextBlock x:Name="Description_2" Grid.Column="2" Grid.Row="3" TextWrapping="WrapWithOverflow"/>
                 <Button x:Name="NotesButton" Grid.Column="1" Grid.Row="1" Click="NotesButton_Click" BorderThickness="0" Background="White" HorizontalAlignment="Center" Width="25">
                     <Image Source="addons/NotesIcon.png" Stretch="Uniform" HorizontalAlignment="Center" VerticalAlignment="Center"/>
                 </Button>

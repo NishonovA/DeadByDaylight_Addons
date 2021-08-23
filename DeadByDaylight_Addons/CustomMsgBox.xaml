@@ -21,7 +21,7 @@
                 <RowDefinition Height="30"/>
                 <RowDefinition Height="10"/>
             </Grid.RowDefinitions>
-            <TextBlock x:Name="notesText" Grid.Column="1" Grid.Row="1" TextWrapping="Wrap"/>
+            <TextBlock x:Name="notesText" Grid.Column="1" Grid.Row="1" TextWrapping="WrapWithOverflow"/>
             <Button x:Name="OK" Grid.Column="1" Grid.Row="3" Content="Понятно" Width="80" HorizontalAlignment="Right" Click="OK_Click"/>
         </Grid>
     </Grid>
