@@ -25,7 +25,7 @@ namespace DeadByDaylight_Addons
         public CustomMsgBox()
         {
             InitializeComponent();
-            this.Left = SystemParameters.PrimaryScreenWidth - this.Width - DEFAULT_RIGHT_MARGIN;
+            Left = SystemParameters.PrimaryScreenWidth - Width - DEFAULT_RIGHT_MARGIN;
             AddText();
             OK.Focus();
         }
@@ -37,12 +37,12 @@ namespace DeadByDaylight_Addons
             var path = System.IO.Path.Combine(Directory.GetCurrentDirectory(), "addons", "Notes.txt");
             if (File.Exists(path))
             {
-                using (var sr = new StreamReader(path, System.Text.Encoding.Default))
+                using (var sr = new StreamReader(path, Encoding.Default))
                 {
                     text = sr.ReadToEnd();
                 }
             }
-            if (String.IsNullOrEmpty(text))
+            if (string.IsNullOrEmpty(text))
             {
                 text = "Нет данных.\r\nПроверьте в новом патче.";
             }
@@ -52,7 +52,7 @@ namespace DeadByDaylight_Addons
         //Закрываем окно
         private void OK_Click(object sender, RoutedEventArgs e)
         {
-            this.Close();
+            Close();
         }
     }
 }

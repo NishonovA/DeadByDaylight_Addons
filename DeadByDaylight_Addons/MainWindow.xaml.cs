@@ -33,6 +33,7 @@ namespace DeadByDaylight_Addons
         private readonly int DEFAULT_STARS_HEIGHT = 49;
         private readonly int DEFAULT_ADDONICON_HEIGHT = 48;
         private readonly int DEFAULT_MARGIN = 10;
+        private readonly int DEFAULT_STARS_COUNT = 1;
 
         public MainWindow()
         {
@@ -62,22 +63,28 @@ namespace DeadByDaylight_Addons
             killerInfo = AllKillers.Find(x => x.KillerName == killerName);
 
             //Настройка высоты окна
-            var path = System.IO.Path.Combine(Directory.GetCurrentDirectory(), "addons", "Killers", killerName, "pics");
-            var picsCounter = DEFAULT_PICSCOUNTER;
-            if (Directory.Exists(path))
+            var picsCounter = killerInfo.AddonInfo.Count;
+            if (picsCounter == 0)
             {
-                picsCounter = Directory.GetFiles(path).Length;
-                if (picsCounter == 0)
-                {
-                    picsCounter = DEFAULT_PICSCOUNTER;
-                }
+                picsCounter = DEFAULT_PICSCOUNTER;
             }
             var rowCounter = (picsCounter - 1) / 2 + 1;
             Application.Current.MainWindow.Height = DEFAULT_HEADER_HEIGHT + DEFAULT_ADDONSLOT_HEIGHT * rowCounter;
             MinHeight = DEFAULT_HEADER_HEIGHT + DEFAULT_ADDONSLOT_HEIGHT * rowCounter;
 
-            //Оформляем шапку
-            path = System.IO.Path.Combine(Directory.GetCurrentDirectory(), killerInfo.KillerImagePath);
+            InsertKillerIcon(killerInfo.KillerImagePath);
+            
+            FillDescription(killerInfo.KillerDescription);
+            
+            GridSetting(rowCounter);
+            
+            CreateMiniGrid(picsCounter, rowCounter, killerInfo.AddonInfo);
+        }
+
+        //Оформляем шапку
+        private void InsertKillerIcon(string halfPath)
+        {
+            var path = System.IO.Path.Combine(Directory.GetCurrentDirectory(), halfPath);
             if (File.Exists(path))
             {
                 Icon.Source = new BitmapImage(new Uri(path, UriKind.Absolute));
@@ -94,11 +101,14 @@ namespace DeadByDaylight_Addons
                     Icon.Source = null;
                 }
             }
-            
-            //Заполняем описание
+        }
+
+        //Заполняем описание шапки
+        private void FillDescription (string mainData)
+        {
             Description_1.Text = null;
             Description_2.Text = null;
-            string[] description = killerInfo.KillerDescription.Split("\r\n");
+            string[] description = mainData.Split("\r\n");
             if (description.Length == 0)
             {
                 Description_1.Text = DEFAULT_DESCRIPTION;
@@ -114,8 +124,11 @@ namespace DeadByDaylight_Addons
                     Description_2.Text += description[count] + "\r\n";
                 }
             }
-            
-            //Настраиваем таблицу - вставляем строки
+        }
+
+        //Настраиваем таблицу - вставляем строки
+        private void GridSetting (int rowCounter)
+        {
             AddonSlots.Children.Clear();
             AddonSlots.Height = DEFAULT_ADDONSLOT_HEIGHT * rowCounter;
             for (int count = 0; count < rowCounter; count++)
@@ -127,11 +140,11 @@ namespace DeadByDaylight_Addons
                 rowPassive.Height = new GridLength(DEFAULT_ADDONSLOT_HEIGHT - DEFAULT_ADDON_HEIGHT);
                 AddonSlots.RowDefinitions.Add(rowPassive);
             }
+        }
 
-            //Изучаем аддоны
-            var addonsInfo = killerInfo.AddonInfo;
-
-            //Создаём подтаблицы
+        //Создаём подтаблицы
+        private void CreateMiniGrid (int picsCounter, int rowCounter, List<AddonInfo> addonInfo)
+        {
             for (int count = 0; count < picsCounter; count++)
             {
                 var addonField = new Grid();
@@ -157,8 +170,7 @@ namespace DeadByDaylight_Addons
                     Grid.SetRow(addonField, (count - rowCounter) * 2);
                     Grid.SetColumn(addonField, 3);
                 }
-
-                FillInfo(addonsInfo[count], addonField);
+                FillInfo(addonInfo[count], addonField);
                 AddonSlots.Children.Add(addonField);
             }
         }
@@ -200,13 +212,25 @@ namespace DeadByDaylight_Addons
         //Вставляем описание аддона
         private void InsertDescription(TextBlock descript, string addonText)
         {
-            descript.Text = addonText;
+            if (string.IsNullOrEmpty(addonText))
+            {
+                descript.Text = DEFAULT_DESCRIPTION;
+            }
+            else
+            {
+                descript.Text = addonText;
+            }
         }
 
         //Заполняем подтаблицу элементами
         private void FillInfo(AddonInfo Addon, Grid miniGrid)
         {
-            var path = System.IO.Path.Combine(Directory.GetCurrentDirectory(), "addons", "Stars", $"star{Addon.Stars}.png");
+            var stars = Addon.Stars;
+            if ((Addon.Stars < 1) || (Addon.Stars > 5))
+            {
+                stars = DEFAULT_STARS_COUNT;
+            }
+            var path = System.IO.Path.Combine(Directory.GetCurrentDirectory(), "addons", "Stars", $"star{stars}.png");
             var starImage = new Image();
             starImage.Width = DEFAULT_STARS_WIDTH;
             starImage.Height = DEFAULT_STARS_HEIGHT;
@@ -249,7 +273,7 @@ namespace DeadByDaylight_Addons
                     text = sr.ReadToEnd();
                 }
             }
-            if (!String.IsNullOrEmpty(text))
+            if (!string.IsNullOrEmpty(text))
             {
                 return JsonConvert.DeserializeObject<List<KillerInfo>>(text);
             }
