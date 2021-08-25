@@ -14,6 +14,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 using Newtonsoft.Json;
+using System.Configuration;
 
 namespace DeadByDaylight_Addons
 {
@@ -34,6 +35,7 @@ namespace DeadByDaylight_Addons
         private readonly int DEFAULT_ADDONICON_HEIGHT = 48;
         private readonly int DEFAULT_MARGIN = 10;
         private readonly int DEFAULT_STARS_COUNT = 1;
+        private readonly string PATCH_MACROS = "%PATCH%";
 
         private List<KillerInfo> _allKillers;
 
@@ -46,6 +48,8 @@ namespace DeadByDaylight_Addons
             KillerName.SelectionChanged += KillerName_SelectionChanged;
             InitialCmb(KillerName, _allKillers);
             KillerName.Focus();
+
+            Title = Title.Replace(PATCH_MACROS, AppSettinsManager.GetPatchNumber());
         }
 
         private void KillerName_SelectionChanged(object sender, SelectionChangedEventArgs e)
