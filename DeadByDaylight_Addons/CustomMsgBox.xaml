@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:DeadByDaylight_Addons"
         mc:Ignorable="d"
         WindowStartupLocation="Manual" Top="30"
-        Title="Заметки" Height="720" Width="700" MinHeight="720" MinWidth="700">
+        Title="Заметки" Width="700" MinWidth="700">
     <Grid x:Name="CustomGrid">
         <Grid x:Name="MessageGrid">
             <Grid.ColumnDefinitions>
