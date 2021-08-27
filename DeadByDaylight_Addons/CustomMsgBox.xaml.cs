@@ -30,6 +30,8 @@ namespace DeadByDaylight_Addons
         {
             InitializeComponent();
             Left = SystemParameters.PrimaryScreenWidth - Width - DEFAULT_RIGHT_MARGIN;
+            MaxHeight = SystemParameters.PrimaryScreenHeight + 10;
+            MaxWidth = SystemParameters.PrimaryScreenWidth + 15;
             AddText();
             var bc = new BrushConverter();
             var manualBckgr = (Brush)bc.ConvertFrom(AppSettingsManager.GetBackgroundColor());
@@ -59,8 +61,7 @@ namespace DeadByDaylight_Addons
             }
             notesText.Text = text;
             notesText.FontSize = DEFAULT_FONT_SIZE;
-            MinHeight = text.Split(Environment.NewLine).Length * (DEFAULT_FONT_SIZE + DEFAULT_BETWEEN_LINES) + DEFAULT_MARGIN;
-            Height = MinHeight;
+            Height = text.Split(Environment.NewLine).Length * (DEFAULT_FONT_SIZE + DEFAULT_BETWEEN_LINES) + DEFAULT_MARGIN;
         }
 
         //Закрываем окно

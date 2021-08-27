@@ -46,6 +46,8 @@ namespace DeadByDaylight_Addons
             InitializeComponent();
             var iconUri = new Uri(Directory.GetCurrentDirectory(), UriKind.RelativeOrAbsolute);
             Left = SystemParameters.PrimaryScreenWidth - Width;
+            MaxHeight = SystemParameters.PrimaryScreenHeight + 10;
+            MaxWidth = SystemParameters.PrimaryScreenWidth + 15;
             _allKillers = InitialKillers();
             KillerName.SelectionChanged += KillerName_SelectionChanged;
             SortAddons.SelectionChanged += KillerName_SelectionChanged;
@@ -90,7 +92,7 @@ namespace DeadByDaylight_Addons
             }
             if (Width != MainGrid.Width)
             {
-                MainGrid.Width = Width;
+                MainGrid.Width = Width - 10;
             }
         }
 
