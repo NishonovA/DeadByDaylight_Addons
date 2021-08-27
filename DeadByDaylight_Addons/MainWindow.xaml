@@ -6,10 +6,10 @@
         xmlns:local="clr-namespace:DeadByDaylight_Addons"
         mc:Ignorable="d"
         WindowStartupLocation="Manual" Top="0" 
-        Title="Addons (Patch %PATCH%)" Width="1000" MinWidth="1000">
+        Title="Addons (Patch %PATCH%)" Width="1030">
     <Grid>
-        <ScrollViewer VerticalScrollBarVisibility="Auto">
-            <Grid x:Name="MainGrid">
+        <ScrollViewer x:Name="mainScroll" VerticalScrollBarVisibility="Auto">
+            <Grid x:Name="MainGrid" MinWidth="1000">
                 <Grid.RowDefinitions>
                     <RowDefinition Height="230"/>
                     <RowDefinition Height="*"/>

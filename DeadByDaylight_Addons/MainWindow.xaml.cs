@@ -49,12 +49,13 @@ namespace DeadByDaylight_Addons
             _allKillers = InitialKillers();
             KillerName.SelectionChanged += KillerName_SelectionChanged;
             SortAddons.SelectionChanged += KillerName_SelectionChanged;
+            DbD_Addons.SizeChanged += Window_SizeChanged;
             InitialKillerCmb(KillerName, _allKillers);
             InitialSortCmb(SortAddons);
             KillerName.Focus();
 
             Title = Title.Replace(PATCH_MACROS, AppSettingsManager.GetPatchNumber());
-            Application.Current.MainWindow.Height = DEFAULT_HEADER_HEIGHT + DEFAULT_ADDONSLOT_HEIGHT * DEFAULT_PICSCOUNTER/2;
+            Height = DEFAULT_HEADER_HEIGHT + DEFAULT_ADDONSLOT_HEIGHT * DEFAULT_PICSCOUNTER/2;
 
             var bc = new BrushConverter();
             var manualBckgr = (Brush)bc.ConvertFrom(AppSettingsManager.GetBackgroundColor());
@@ -73,6 +74,23 @@ namespace DeadByDaylight_Addons
             if (selectedKiller != null)
             {
                 RefreshInfo(selectedKiller, selectedSort);
+            }
+        }
+
+        //Изменение ширины окна
+        private void Window_SizeChanged (object sender, SizeChangedEventArgs e)
+        {
+            if (Width < MainGrid.MinWidth)
+            {
+                mainScroll.HorizontalScrollBarVisibility = ScrollBarVisibility.Visible;
+            }
+            else
+            {
+                mainScroll.HorizontalScrollBarVisibility = ScrollBarVisibility.Hidden;
+            }
+            if (Width != MainGrid.Width)
+            {
+                MainGrid.Width = Width;
             }
         }
 
