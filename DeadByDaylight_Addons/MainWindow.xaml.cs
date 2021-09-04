@@ -38,8 +38,8 @@ namespace DeadByDaylight_Addons
         private readonly string PATCH_MACROS = "%PATCH%";
 
         private List<KillerInfo> _allKillers;
-        private string selectedKiller;
-        private string selectedSort;
+        private string _selectedKiller;
+        private string _selectedSort;
 
         public MainWindow()
         {
@@ -67,15 +67,17 @@ namespace DeadByDaylight_Addons
             NotesLabel.Foreground = manualFrgr;
             Sorting.Foreground = manualFrgr;
             NotesButton.Background = manualBckgr;
+            KillerName.Foreground = manualFrgr;
+            SortAddons.Foreground = manualFrgr;
         }
 
         private void KillerName_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
-            selectedKiller = KillerName.SelectedItem as string;
-            selectedSort = SortAddons.SelectedItem as string;
-            if (selectedKiller != null)
+            _selectedKiller = KillerName.SelectedItem as string;
+            _selectedSort = SortAddons.SelectedItem as string;
+            if ((_selectedKiller != null) && (_selectedSort != null))
             {
-                RefreshInfo(selectedKiller, selectedSort);
+                RefreshInfo(_selectedKiller, _selectedSort);
             }
         }
 
@@ -306,7 +308,10 @@ namespace DeadByDaylight_Addons
             if (!String.IsNullOrEmpty(Addon.Tips))
             {
                 var tip = new ToolTip();
+                var bc = new BrushConverter();
                 tip.Content = Addon.Tips;
+                tip.Background = (Brush)bc.ConvertFrom(AppSettingsManager.GetBackgroundColor());
+                tip.Foreground = (Brush)bc.ConvertFrom(AppSettingsManager.GetTextColor());
                 starImage.ToolTip = tip;
             }
 
