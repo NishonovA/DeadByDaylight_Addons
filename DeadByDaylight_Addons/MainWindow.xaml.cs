@@ -38,8 +38,6 @@ namespace DeadByDaylight_Addons
         private readonly string PATCH_MACROS = "%PATCH%";
 
         private List<KillerInfo> _allKillers;
-        private string _selectedKiller;
-        private string _selectedSort;
 
         public MainWindow()
         {
@@ -73,8 +71,8 @@ namespace DeadByDaylight_Addons
 
         private void KillerName_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
-            _selectedKiller = KillerName.SelectedItem as string;
-            _selectedSort = SortAddons.SelectedItem as string;
+            var _selectedKiller = KillerName.SelectedItem as string;
+            var _selectedSort = SortAddons.SelectedItem as string;
             if ((_selectedKiller != null) && (_selectedSort != null))
             {
                 RefreshInfo(_selectedKiller, _selectedSort);
