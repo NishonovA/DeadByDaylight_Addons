@@ -21,6 +21,13 @@ namespace DeadByDaylight_Addons
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>
+    
+    enum Sorts
+    {
+        standart,   //Стандартно
+        quality     //По качеству
+    }
+
     public partial class MainWindow : Window
     {
         private readonly string DEFAULT_DESCRIPTION = "Нет данных";
@@ -310,6 +317,7 @@ namespace DeadByDaylight_Addons
                 tip.Content = Addon.Tips;
                 tip.Background = (Brush)bc.ConvertFrom(AppSettingsManager.GetBackgroundColor());
                 tip.Foreground = (Brush)bc.ConvertFrom(AppSettingsManager.GetTextColor());
+                ToolTipService.SetShowDuration(starImage, 30000);
                 starImage.ToolTip = tip;
             }
 
