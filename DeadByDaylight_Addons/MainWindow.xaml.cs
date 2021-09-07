@@ -3,30 +3,17 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
-using System.Windows.Data;
-using System.Windows.Documents;
-using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
-using System.Windows.Shapes;
 using Newtonsoft.Json;
-using System.Configuration;
 
 namespace DeadByDaylight_Addons
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>
-    
-    enum Sorts
-    {
-        standart,   //Стандартно
-        quality     //По качеству
-    }
 
     public partial class MainWindow : Window
     {
@@ -62,7 +49,7 @@ namespace DeadByDaylight_Addons
             KillerName.Focus();
 
             Title = Title.Replace(PATCH_MACROS, AppSettingsManager.GetPatchNumber());
-            Height = DEFAULT_HEADER_HEIGHT + DEFAULT_ADDONSLOT_HEIGHT * DEFAULT_PICSCOUNTER/2;
+            Height = DEFAULT_HEADER_HEIGHT + DEFAULT_ADDONSLOT_HEIGHT * DEFAULT_PICSCOUNTER / 2;
 
             var bc = new BrushConverter();
             var manualBckgr = (Brush)bc.ConvertFrom(AppSettingsManager.GetBackgroundColor());
@@ -79,15 +66,15 @@ namespace DeadByDaylight_Addons
         private void KillerName_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
             var _selectedKiller = KillerName.SelectedItem as string;
-            var _selectedSort = SortAddons.SelectedItem as string;
+            var _selectedSort = SortAddons.SelectedItem as CustomComboboxItem;
             if ((_selectedKiller != null) && (_selectedSort != null))
             {
-                RefreshInfo(_selectedKiller, _selectedSort);
+                RefreshInfo(_selectedKiller, _selectedSort.Order);
             }
         }
 
         //Изменение ширины окна
-        private void Window_SizeChanged (object sender, SizeChangedEventArgs e)
+        private void Window_SizeChanged(object sender, SizeChangedEventArgs e)
         {
             if (Width < MainGrid.MinWidth)
             {
@@ -103,7 +90,7 @@ namespace DeadByDaylight_Addons
             }
         }
 
-        private void RefreshInfo(string killerName, string sortion)
+        private void RefreshInfo(string killerName, KindSortEnum sortion)
         {
             //Инициализируем объект убийцы
             var killerInfo = _allKillers.Find(x => x.KillerName == killerName);
@@ -117,11 +104,11 @@ namespace DeadByDaylight_Addons
             var rowCounter = (picsCounter - 1) / 2 + 1;
 
             InsertKillerIcon(killerInfo.KillerImagePath);
-            
+
             FillDescription(killerInfo.KillerDescription);
-            
+
             GridSetting(rowCounter);
-            
+
             CreateMiniGrid(picsCounter, rowCounter, killerInfo.AddonInfo, sortion);
         }
 
@@ -148,7 +135,7 @@ namespace DeadByDaylight_Addons
         }
 
         //Заполняем описание шапки
-        private void FillDescription (string mainData)
+        private void FillDescription(string mainData)
         {
             Description_1.Text = null;
             Description_2.Text = null;
@@ -171,7 +158,7 @@ namespace DeadByDaylight_Addons
         }
 
         //Настраиваем таблицу - вставляем строки
-        private void GridSetting (int rowCounter)
+        private void GridSetting(int rowCounter)
         {
             AddonSlots.Children.Clear();
             AddonSlots.Height = DEFAULT_ADDONSLOT_HEIGHT * rowCounter;
@@ -187,13 +174,13 @@ namespace DeadByDaylight_Addons
         }
 
         //Создаём подтаблицы
-        private void CreateMiniGrid (int picsCounter, int rowCounter, List<AddonInfo> addonInfo, string sortion)
+        private void CreateMiniGrid(int picsCounter, int rowCounter, List<AddonInfo> addonInfo, KindSortEnum sortion)
         {
-            if (sortion == "По порядку")
+            if (sortion == KindSortEnum.Standart)
             {
                 addonInfo = addonInfo.OrderBy(x => x.Order).ToList();
             }
-            if (sortion == "По качеству")
+            else if (sortion == KindSortEnum.Rate)
             {
                 addonInfo = addonInfo.OrderByDescending(x => x.Stars).ToList();
             }
@@ -213,7 +200,7 @@ namespace DeadByDaylight_Addons
                 var row = new RowDefinition();
                 addonField.RowDefinitions.Add(row);
 
-                if (sortion == "По порядку")
+                if (sortion == KindSortEnum.Standart)
                 {
                     if (count < rowCounter)
                     {
@@ -226,8 +213,7 @@ namespace DeadByDaylight_Addons
                         Grid.SetColumn(addonField, 3);
                     }
                 }
-
-                if (sortion == "По качеству")
+                else if (sortion == KindSortEnum.Rate)
                 {
                     if (count % 2 == 0)
                     {
@@ -343,7 +329,7 @@ namespace DeadByDaylight_Addons
         }
 
         //Инициализация всех убийц
-        private List<KillerInfo> InitialKillers ()
+        private List<KillerInfo> InitialKillers()
         {
             var path = System.IO.Path.Combine(Directory.GetCurrentDirectory(), "addons", "AllDescriptions.json");
             string text = null;
@@ -373,10 +359,16 @@ namespace DeadByDaylight_Addons
         }
 
         //Инициализируем комбобокс сортировки
-        private void InitialSortCmb (ComboBox cmb)
+        private void InitialSortCmb(ComboBox cmb)
         {
-            cmb.Items.Add("По порядку");
-            cmb.Items.Add("По качеству");
+            foreach (KindSortEnum value in Enum.GetValues(typeof(KindSortEnum)))
+            {
+                var item = new CustomComboboxItem()
+                {
+                    Order = value
+                };
+                cmb.Items.Add(item);
+            };
         }
 
         //Открывает окно заметок
