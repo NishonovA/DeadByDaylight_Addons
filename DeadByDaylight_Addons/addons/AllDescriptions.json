@@ -7,102 +7,122 @@
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Охотник (Trapper)\\pics\\1.png",
-            "AddonDescription": "Увеличивает количество переносимых капканов на 1.\r\nДаёт 1 дополнительный капкан.\r\n"
+            "AddonDescription": "Увеличивает количество переносимых капканов на 1.\r\nДаёт 1 дополнительный капкан.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Охотник (Trapper)\\pics\\2.png",
-            "AddonDescription": "*Время установки -0,25 с.\r\n"
+            "AddonDescription": "*Время установки -0,25 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Охотник (Trapper)\\pics\\3.png",
-            "AddonDescription": "*Увеличивает время обезвреживания на 0,9 с.\r\n"
+            "AddonDescription": "*Увеличивает время обезвреживания на 0,9 с.\r\n",
+            "Tips": ""
           },
           {
-            "Stars": 1,
+            "Stars": 0,
             "AddonImagePath": "addons\\Killers\\Охотник (Trapper)\\pics\\4.png",
-            "AddonDescription": "Не даёт ранение.\r\nНа 100% больше очков.\r\n"
+            "AddonDescription": "Не даёт ранение.\r\nНа 100% больше очков.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Охотник (Trapper)\\pics\\5.png",
-            "AddonDescription": "Увеличивает количество переносимых капканов на 2.\r\nДаёт 1 дополнительный капкан.\r\n"
+            "AddonDescription": "Увеличивает количество переносимых капканов на 2.\r\nДаёт 1 дополнительный капкан.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Охотник (Trapper)\\pics\\6.png",
-            "AddonDescription": "*Время установки -0,35 с.\r\n"
+            "AddonDescription": "*Время установки -0,35 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Охотник (Trapper)\\pics\\7.png",
-            "AddonDescription": "Эффект \"Кровотечение\".\r\n"
+            "AddonDescription": "Эффект \"Кровотечение\".\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Охотник (Trapper)\\pics\\8.png",
-            "AddonDescription": "Делает капканы немного темнее.\r\n"
+            "AddonDescription": "Делает капканы немного темнее.\r\n",
+            "Tips": "Опытные выжившие смотрят в траву, чтобы не наступить в капкан.\r\nУсложняет этот процесс, но не на светлых картах."
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Охотник (Trapper)\\pics\\9.png",
-            "AddonDescription": "*Увеличивает время обезвреживания на 1,2 с.\r\n"
+            "AddonDescription": "*Увеличивает время обезвреживания на 1,2 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 5,
             "AddonImagePath": "addons\\Killers\\Охотник (Trapper)\\pics\\10.png",
-            "AddonDescription": "Каждые 30 секунд открывается случайный закрытый капкан.\r\n"
+            "AddonDescription": "Каждые 30 секунд открывается случайный закрытый капкан.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Охотник (Trapper)\\pics\\11.png",
-            "AddonDescription": "Снижает шанс выбраться из капкана на 5%.\r\n"
+            "AddonDescription": "Снижает шанс выбраться из капкана на 5%.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Охотник (Trapper)\\pics\\12.png",
-            "AddonDescription": "Делает капканы намного темнее.\r\n"
+            "AddonDescription": "Делает капканы намного темнее.\r\n",
+            "Tips": "Опытные выжившие смотрят в траву, чтобы не наступить в капкан.\r\nУсложняет этот процесс, но не на светлых картах."
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Охотник (Trapper)\\pics\\13.png",
-            "AddonDescription": "*Время установки -0,4 с.\r\n*Время освобождения/спасения +0,3/0,2 с.\r\n"
+            "AddonDescription": "*Время установки -0,4 с.\r\n*Время освобождения/спасения +0,3/0,2 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Охотник (Trapper)\\pics\\14.png",
-            "AddonDescription": "*Увеличивает время обезвреживания на 1,5 с.\r\n"
+            "AddonDescription": "*Увеличивает время обезвреживания на 1,5 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Охотник (Trapper)\\pics\\15.png",
-            "AddonDescription": "Эффект \"Травма\" на 2 минуты.\r\n"
+            "AddonDescription": "Эффект \"Травма\" на 2 минуты.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 5,
             "AddonImagePath": "addons\\Killers\\Охотник (Trapper)\\pics\\16.png",
-            "AddonDescription": "Увеличивает количество переносимых капканов на 2.\r\nДаёт 2 дополнительных капкана.\r\n"
+            "AddonDescription": "Увеличивает количество переносимых капканов на 2.\r\nДаёт 2 дополнительных капкана.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Охотник (Trapper)\\pics\\17.png",
-            "AddonDescription": "*Увеличивает время обезвреживания на 1,9 с.\r\n"
+            "AddonDescription": "*Увеличивает время обезвреживания на 1,9 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Охотник (Trapper)\\pics\\18.png",
-            "AddonDescription": "Самостоятельное освобождение из капкана переводит в предсмертное состояние.\r\n"
+            "AddonDescription": "Самостоятельное освобождение из капкана переводит в предсмертное состояние.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Охотник (Trapper)\\pics\\19.png",
-            "AddonDescription": "*Время установки -0,5 с.\r\n*Время освобождения/спасения +0,3/0,2 с.\r\nСнижает шанс выбраться из капкана на 5%.\r\n"
+            "AddonDescription": "*Время установки -0,5 с.\r\n*Время освобождения/спасения +0,3/0,2 с.\r\nСнижает шанс выбраться из капкана на 5%.\r\n",
+            "Tips": "Длительность установки не сильно влияет на скорость игры, хотя процесс становится приятнее.\r\nОсвобождение становится незначительно труднее, но недостаточно, чтобы успеть пройти\r\nчерез всю карту и вытащить выжившего."
           },
           {
             "Stars": 5,
             "AddonImagePath": "addons\\Killers\\Охотник (Trapper)\\pics\\20.png",
-            "AddonDescription": "*Увеличивает время обезвреживания на 0,9 с.\r\nПереводит в раненное состояние при обезвреживании.\r\n"
+            "AddonDescription": "*Увеличивает время обезвреживания на 0,9 с.\r\nПереводит в раненное состояние при обезвреживании.\r\n",
+            "Tips": ""
           }
         ]
     },
@@ -114,102 +134,122 @@
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Призрак (Wraith)\\pics\\1.png",
-            "AddonDescription": "Моментальный выход из невидимости при поломке доски или генератора.\r\n"
+            "AddonDescription": "Моментальный выход из невидимости при поломке доски или генератора.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 1,
             "AddonImagePath": "addons\\Killers\\Призрак (Wraith)\\pics\\2.png",
-            "AddonDescription": "Следы крови становятся ярче.\r\n"
+            "AddonDescription": "Следы крови становятся ярче.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Призрак (Wraith)\\pics\\3.png",
-            "AddonDescription": "Эффект незаметности сохраняется 6 секунд после выхода из невидимости.\r\n"
+            "AddonDescription": "Эффект незаметности сохраняется 6 секунд после выхода из невидимости.\r\n",
+            "Tips": ""
           },
           {
-            "Stars": 1,
+            "Stars": 0,
             "AddonImagePath": "addons\\Killers\\Призрак (Wraith)\\pics\\4.png",
-            "AddonDescription": "Аура террора не пропадает в невидимости.\r\nНа 100% больше очков.\r\n"
+            "AddonDescription": "Аура террора не пропадает в невидимости.\r\nНа 100% больше очков.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 5,
             "AddonImagePath": "addons\\Killers\\Призрак (Wraith)\\pics\\5.png",
-            "AddonDescription": "Дальность и направление колокола нельзя определить.\r\n"
+            "AddonDescription": "Дальность и направление колокола нельзя определить.\r\n",
+            "Tips": "Выжившие будут каждый раз отвлекаться от действий при звуке колокольчика.\r\nА со временем могут потерять бдительность."
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Призрак (Wraith)\\pics\\6.png",
-            "AddonDescription": "*Уход в невидимость -0,6 с.\r\n"
+            "AddonDescription": "*Уход в невидимость -0,6 с.\r\n",
+            "Tips": "Скорость передвижения во время ухода в невидимость не уменьшается,\r\nа сам процесс и без того достаточно быстрый."
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Призрак (Wraith)\\pics\\7.png",
-            "AddonDescription": "*Скорость в невидимости +0,23 м/с.\r\n"
+            "AddonDescription": "*Скорость в невидимости +0,23 м/с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Призрак (Wraith)\\pics\\8.png",
-            "AddonDescription": "*Выход из невидимости -0,24 с.\r\n"
+            "AddonDescription": "*Выход из невидимости -0,24 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Призрак (Wraith)\\pics\\9.png",
-            "AddonDescription": "Удар после выхода из невидимости накладывает эффект \"Слепота\" на 60 с.\r\n"
+            "AddonDescription": "Удар после выхода из невидимости накладывает эффект \"Слепота\" на 60 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 5,
             "AddonImagePath": "addons\\Killers\\Призрак (Wraith)\\pics\\10.png",
-            "AddonDescription": "Колокол беззвучен.\r\n"
+            "AddonDescription": "Колокол беззвучен.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Призрак (Wraith)\\pics\\11.png",
-            "AddonDescription": "*Скорость в невидимости +0,3 м/с.\r\n"
+            "AddonDescription": "*Скорость в невидимости +0,3 м/с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Призрак (Wraith)\\pics\\12.png",
-            "AddonDescription": "*Выход из невидимости -0,3 с.\r\n"
+            "AddonDescription": "*Выход из невидимости -0,3 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Призрак (Wraith)\\pics\\13.png",
-            "AddonDescription": "Скорость поломки, открытия шкафчика и перешагивания окна в невидимости +40%.\r\n"
+            "AddonDescription": "Скорость поломки, открытия шкафчика и перешагивания окна в невидимости +40%.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Призрак (Wraith)\\pics\\14.png",
-            "AddonDescription": "*Уход в невидимость -0,9 с.\r\n"
+            "AddonDescription": "*Уход в невидимость -0,9 с.\r\n",
+            "Tips": "Скорость передвижения во время ухода в невидимость не уменьшается,\r\nа сам процесс и без того достаточно быстрый."
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Призрак (Wraith)\\pics\\15.png",
-            "AddonDescription": "Удар после выхода из невидимости накладывает эффекты \"Травма\" и \"Кровотечение\" до полного исцеления.\r\n"
+            "AddonDescription": "Удар после выхода из невидимости накладывает эффекты \"Травма\" и \"Кровотечение\" до полного исцеления.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Призрак (Wraith)\\pics\\16.png",
-            "AddonDescription": "*Скорость в невидимости +0,38 м/с.\r\n"
+            "AddonDescription": "*Скорость в невидимости +0,38 м/с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Призрак (Wraith)\\pics\\17.png",
-            "AddonDescription": "*Выход из невидимости -12% (-0,36 с).\r\n"
+            "AddonDescription": "*Выход из невидимости -12% (-0,36 с).\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Призрак (Wraith)\\pics\\18.png",
-            "AddonDescription": "Скорость поломки, открытия шкафчика и перешагивания окна в невидимости +60%.\r\n"
+            "AddonDescription": "Скорость поломки, открытия шкафчика и перешагивания окна в невидимости +60%.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 5,
             "AddonImagePath": "addons\\Killers\\Призрак (Wraith)\\pics\\19.png",
-            "AddonDescription": "В невидимости видны ауры выживших в радиусе 12 м.\r\n"
+            "AddonDescription": "В невидимости видны ауры выживших в радиусе 12 м.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Призрак (Wraith)\\pics\\20.png",
-            "AddonDescription": "В невидимости виден прогресс генераторов (от белого к красному).\r\n"
+            "AddonDescription": "В невидимости виден прогресс генераторов (от белого к красному).\r\n",
+            "Tips": ""
           }
         ]
     },
@@ -221,102 +261,122 @@
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Деревенщина (Hillbilly)\\pics\\1.png",
-            "AddonDescription": "*Задержка после столкновения -0,36 с.\r\n"
+            "AddonDescription": "*Задержка после столкновения -0,36 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Деревенщина (Hillbilly)\\pics\\2.png",
-            "AddonDescription": "Предел перегрева +20 зарядов.\r\n"
+            "AddonDescription": "Предел перегрева +20 зарядов.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Деревенщина (Hillbilly)\\pics\\3.png",
-            "AddonDescription": "Уменьшает область столкновения с объектами.\r\n"
+            "AddonDescription": "Уменьшает область столкновения с объектами.\r\n",
+            "Tips": ""
           },
           {
-            "Stars": 1,
+            "Stars": 0,
             "AddonImagePath": "addons\\Killers\\Деревенщина (Hillbilly)\\pics\\4.png",
-            "AddonDescription": "Удар пилой наносит урон в одно состояние здоровья.\r\nНа 100% больше очков.\r\n"
+            "AddonDescription": "Удар пилой наносит урон в одно состояние здоровья.\r\nНа 100% больше очков.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Деревенщина (Hillbilly)\\pics\\5.png",
-            "AddonDescription": "*Скорость поворота +9 град/с.\r\n"
+            "AddonDescription": "*Скорость поворота +9 град/с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Деревенщина (Hillbilly)\\pics\\6.png",
-            "AddonDescription": "Скорость охлаждения увеличивается на 1,5 заряда/с.\r\n"
+            "AddonDescription": "Скорость охлаждения увеличивается на 1,5 заряда/с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Деревенщина (Hillbilly)\\pics\\7.png",
-            "AddonDescription": "*Дальность слышимости пилы -18 м.\r\n"
+            "AddonDescription": "*Дальность слышимости пилы -18 м.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Деревенщина (Hillbilly)\\pics\\8.png",
-            "AddonDescription": "*Скорость спринта +1,38 м/с.\r\n*Время заведения пилы +0,3 с.\r\n"
+            "AddonDescription": "*Скорость спринта +1,38 м/с.\r\n*Время заведения пилы +0,3 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Деревенщина (Hillbilly)\\pics\\9.png",
-            "AddonDescription": "При перегреве радиус террора -8 м.\r\n"
+            "AddonDescription": "При перегреве радиус террора -8 м.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 5,
             "AddonImagePath": "addons\\Killers\\Деревенщина (Hillbilly)\\pics\\10.png",
-            "AddonDescription": "Пила беззвучна вне радиуса террора.\r\n"
+            "AddonDescription": "Пила беззвучна вне радиуса террора.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Деревенщина (Hillbilly)\\pics\\11.png",
-            "AddonDescription": "*После стана доской на 30 секунд время заведения пилы -0,3 с.\r\n"
+            "AddonDescription": "*После стана доской на 30 секунд время заведения пилы -0,3 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Деревенщина (Hillbilly)\\pics\\12.png",
-            "AddonDescription": "*Задержка после столкновения -0,84 с.\r\n"
+            "AddonDescription": "*Задержка после столкновения -0,84 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Деревенщина (Hillbilly)\\pics\\13.png",
-            "AddonDescription": "Эффект \"Незаметность\" на 15 секунд после попадания пилой.\r\n"
+            "AddonDescription": "Эффект \"Незаметность\" на 15 секунд после попадания пилой.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Деревенщина (Hillbilly)\\pics\\14.png",
-            "AddonDescription": "*Скорость спринта +2,84 м/с.\r\n*Время заведения пилы +0,3 с.\r\n"
+            "AddonDescription": "*Скорость спринта +2,84 м/с.\r\n*Время заведения пилы +0,3 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 1,
             "AddonImagePath": "addons\\Killers\\Деревенщина (Hillbilly)\\pics\\15.png",
-            "AddonDescription": "Скорость охлаждения увеличивается на 5 зарядов/с, когда на Деревенщину светят фонариком.\r\n"
+            "AddonDescription": "Скорость охлаждения увеличивается на 5 зарядов/с, когда на Деревенщину светят фонариком.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Деревенщина (Hillbilly)\\pics\\16.png",
-            "AddonDescription": "*Время заведения пилы -0,6 с.\r\nБазовая скорость - 4,4 м/с.\r\n"
+            "AddonDescription": "*Время заведения пилы -0,6 с.\r\nБазовая скорость - 4,4 м/с.\r\n",
+            "Tips": "Позволяет эффективнее использовать способность,\r\nно при этом в сложных конструкциях теряется мобильность."
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Деревенщина (Hillbilly)\\pics\\17.png",
-            "AddonDescription": "*Скорость поворота +14 град/с.\r\n*Задержка после столкновения +0,84 с.\r\n"
+            "AddonDescription": "*Скорость поворота +14 град/с.\r\n*Задержка после столкновения +0,84 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Деревенщина (Hillbilly)\\pics\\18.png",
-            "AddonDescription": "Использование пилы даёт +3 заряда (вместо +5).\r\n"
+            "AddonDescription": "Использование пилы даёт +3 заряда (вместо +5).\r\n",
+            "Tips": ""
           },
           {
             "Stars": 5,
             "AddonImagePath": "addons\\Killers\\Деревенщина (Hillbilly)\\pics\\19.png",
-            "AddonDescription": "Спринт не прерывается после распила доски или ломаемой стены.\r\nВ течение 5 секунд после этого пила наносит урон в одно состояние здоровья.\r\n"
+            "AddonDescription": "Спринт не прерывается после распила доски или ломаемой стены.\r\nВ течение 5 секунд после этого пила наносит урон в одно состояние здоровья.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Деревенщина (Hillbilly)\\pics\\20.png",
-            "AddonDescription": "Эффект \"Незаметность\" после 2 секунд спринта.\r\n"
+            "AddonDescription": "Эффект \"Незаметность\" после 2 секунд спринта.\r\n",
+            "Tips": ""
           }
         ]
     },
@@ -328,102 +388,122 @@
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Медсестра (Nurse)\\pics\\1.png",
-            "AddonDescription": "Длительность усталости после скачка с атакой -0,5 с.\r\n"
+            "AddonDescription": "Длительность усталости после скачка с атакой -0,5 с.\r\n",
+            "Tips": ""
           },
           {
-            "Stars": 1,
+            "Stars": 0,
             "AddonImagePath": "addons\\Killers\\Медсестра (Nurse)\\pics\\2.png",
-            "AddonDescription": "Дальность выпада после скачка -1 м.\r\nНа 100% больше очков за удар после скачка.\r\n"
+            "AddonDescription": "Дальность выпада после скачка -1 м.\r\nНа 100% больше очков за удар после скачка.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Медсестра (Nurse)\\pics\\3.png",
-            "AddonDescription": "Показывает место, куда будет совершён скачок.\r\n"
+            "AddonDescription": "Показывает место, куда будет совершён скачок.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Медсестра (Nurse)\\pics\\4.png",
-            "AddonDescription": "Атака после скачка на 100% увеличивает громкость стонов в течение 60 с.\r\n"
+            "AddonDescription": "Атака после скачка на 100% увеличивает громкость стонов в течение 60 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Медсестра (Nurse)\\pics\\5.png",
-            "AddonDescription": "*Длительность интервала между скачками +0,2 с.\r\n"
+            "AddonDescription": "*Длительность интервала между скачками +0,2 с.\r\n",
+            "Tips": ""
           },
           {
-            "Stars": 1,
+            "Stars": 0,
             "AddonImagePath": "addons\\Killers\\Медсестра (Nurse)\\pics\\6.png",
-            "AddonDescription": "Максимальная дальность -4 м.\r\nНа 100% больше очков за точный скачок.\r\n"
+            "AddonDescription": "Максимальная дальность -4 м.\r\nНа 100% больше очков за точный скачок.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Медсестра (Nurse)\\pics\\7.png",
-            "AddonDescription": "Перезарядка скачка -0,4 с.\r\n"
+            "AddonDescription": "Перезарядка скачка -0,4 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 5,
             "AddonImagePath": "addons\\Killers\\Медсестра (Nurse)\\pics\\8.png",
-            "AddonDescription": "Усталость после цепочки скачков -1 с.\r\n"
+            "AddonDescription": "Усталость после цепочки скачков -1 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Медсестра (Nurse)\\pics\\9.png",
-            "AddonDescription": "Раскрывает ауру лечащего выжившего в радиусе 28 м в течение 60 секунд после атаки со скачком.\r\n"
+            "AddonDescription": "Раскрывает ауру лечащего выжившего в радиусе 28 м в течение 60 секунд после атаки со скачком.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Медсестра (Nurse)\\pics\\10.png",
-            "AddonDescription": "Количество скачков +1.\r\nПропадает способность преодолевать препятствия, загораживающие обзор.\r\n"
+            "AddonDescription": "Количество скачков +1.\r\nПропадает способность преодолевать препятствия, загораживающие обзор.\r\n",
+            "Tips": "Теряется основное преимущество - способность игнорировать препятствия,\r\nно в низких конструкциях повышается точность скачков.\r\nПлюс эффект неожиданности."
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Медсестра (Nurse)\\pics\\11.png",
-            "AddonDescription": "Базовая скорость 4,6 м/с в течение 60 с после атаки со скачком.\r\nНа это время отключается способность.\r\n"
+            "AddonDescription": "Базовая скорость 4,6 м/с в течение 60 с после атаки со скачком.\r\nНа это время отключается способность.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 5,
             "AddonImagePath": "addons\\Killers\\Медсестра (Nurse)\\pics\\12.png",
-            "AddonDescription": "Дальность скачка +4 м.\r\n*Время для полной зарядки +0,4 с.\r\n"
+            "AddonDescription": "Дальность скачка +4 м.\r\n*Время для полной зарядки +0,4 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 5,
             "AddonImagePath": "addons\\Killers\\Медсестра (Nurse)\\pics\\13.png",
-            "AddonDescription": "Перезарядка скачка -0,6 с.\r\n"
+            "AddonDescription": "Перезарядка скачка -0,6 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Медсестра (Nurse)\\pics\\14.png",
-            "AddonDescription": "Длительность усталости -0,25 с.\r\n"
+            "AddonDescription": "Длительность усталости -0,25 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Медсестра (Nurse)\\pics\\15.png",
-            "AddonDescription": "Скачок через выжившего заставляет его вскрикнуть.\r\nПри этом бонус в 200 очков.\r\n"
+            "AddonDescription": "Скачок через выжившего заставляет его вскрикнуть.\r\nПри этом бонус в 200 очков.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 5,
             "AddonImagePath": "addons\\Killers\\Медсестра (Nurse)\\pics\\16.png",
-            "AddonDescription": "Дальность скачка +6 м.\r\n*Время для полной зарядки +0,6 с.\r\n"
+            "AddonDescription": "Дальность скачка +6 м.\r\n*Время для полной зарядки +0,6 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Медсестра (Nurse)\\pics\\17.png",
-            "AddonDescription": "Между прыжками появляется возможность вернуться в изначальное положение при нажатии кнопки активной способности.\r\n"
+            "AddonDescription": "Между прыжками появляется возможность вернуться в изначальное положение при нажатии кнопки активной способности.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Медсестра (Nurse)\\pics\\18.png",
-            "AddonDescription": "После полностью заряженного скачка происходит половинный скачок в направлении взгляда.\r\n"
+            "AddonDescription": "После полностью заряженного скачка происходит половинный скачок в направлении взгляда.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Медсестра (Nurse)\\pics\\19.png",
-            "AddonDescription": "Эффект \"Незаметность\" на 16 секунд после удара со скачком.\r\nПерезарядка 60 с.\r\n"
+            "AddonDescription": "Эффект \"Незаметность\" на 16 секунд после удара со скачком.\r\nПерезарядка 60 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 1,
             "AddonImagePath": "addons\\Killers\\Медсестра (Nurse)\\pics\\20.png",
-            "AddonDescription": "Базовая скорость - 4,2 м/с.\r\nКоличество скачков -1.\r\n"
+            "AddonDescription": "Базовая скорость - 4,2 м/с.\r\nКоличество скачков -1.\r\n",
+            "Tips": "Теряется точность скачков.\r\nНезначительная прибавка к скорости не компенсирует этот большой недостаток."
           }
         ]
     },
@@ -435,102 +515,122 @@
           {
             "Stars": 1,
             "AddonImagePath": "addons\\Killers\\Тень (Shape)\\pics\\1.png",
-            "AddonDescription": "*Скорость во время слежки +0,46 м/с.\r\n"
+            "AddonDescription": "*Скорость во время слежки +0,46 м/с.\r\n",
+            "Tips": "Никак не помогает сократить дистанцию до выжившего при слежке."
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Тень (Shape)\\pics\\2.png",
-            "AddonDescription": "*Длительность выпада на 1 стадии +0,2 с.\r\n"
+            "AddonDescription": "*Длительность выпада на 1 стадии +0,2 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Тень (Shape)\\pics\\3.png",
-            "AddonDescription": "Длительность 3 стадии +10 с.\r\nКоличество очков для первого получения 3 стадии +2,5.\r\n"
+            "AddonDescription": "Длительность 3 стадии +10 с.\r\nКоличество очков для первого получения 3 стадии +2,5.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Тень (Shape)\\pics\\4.png",
-            "AddonDescription": "На 2 секунды раскрывает ауру того, за кем велась слежка 1 секунду.\r\n"
+            "AddonDescription": "На 2 секунды раскрывает ауру того, за кем велась слежка 1 секунду.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Тень (Shape)\\pics\\5.png",
-            "AddonDescription": "*Скорость накопления +11%.\r\n"
+            "AddonDescription": "*Скорость накопления +11%.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 1,
             "AddonImagePath": "addons\\Killers\\Тень (Shape)\\pics\\6.png",
-            "AddonDescription": "*Скорость при слежке +0,92 м/с.\r\n"
+            "AddonDescription": "*Скорость при слежке +0,92 м/с.\r\n",
+            "Tips": "Никак не помогает сократить дистанцию до выжившего при слежке."
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Тень (Shape)\\pics\\7.png",
-            "AddonDescription": "Длительность 3 стадии +20 с.\r\nКоличество очков для первого получения 3 стадии +2,5.\r\n"
+            "AddonDescription": "Длительность 3 стадии +20 с.\r\nКоличество очков для первого получения 3 стадии +2,5.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Тень (Shape)\\pics\\8.png",
-            "AddonDescription": "На 3 секунды раскрывает ауру того, за кем велась слежка 1 секунду.\r\n"
+            "AddonDescription": "На 3 секунды раскрывает ауру того, за кем велась слежка 1 секунду.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Тень (Shape)\\pics\\9.png",
-            "AddonDescription": "Радиус террора на 2 стадии -25%.\r\nРадиус террора на 3 стадии +25%.\r\n"
+            "AddonDescription": "Радиус террора на 2 стадии -25%.\r\nРадиус террора на 3 стадии +25%.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 5,
             "AddonImagePath": "addons\\Killers\\Тень (Shape)\\pics\\10.png",
-            "AddonDescription": "Возможность лично убить на 3 стадии.\r\nСкорость -0,41 м/с.\r\nКоличество очков для получения 3 стадии +10.\r\n"
+            "AddonDescription": "Возможность лично убить на 3 стадии.\r\nСкорость -0,41 м/с.\r\nКоличество очков для получения 3 стадии +10.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Тень (Shape)\\pics\\11.png",
-            "AddonDescription": "На 6 секунд раскрывает ауру того, за кем велась слежка 1 секунду.\r\n"
+            "AddonDescription": "На 6 секунд раскрывает ауру того, за кем велась слежка 1 секунду.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Тень (Shape)\\pics\\12.png",
-            "AddonDescription": "Скорость накопления +40% при слежке за Одержимостью.\r\n"
+            "AddonDescription": "Скорость накопления +40% при слежке за Одержимостью.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Тень (Shape)\\pics\\13.png",
-            "AddonDescription": "*Скорость во время слежки +1,38 м/с.\r\n"
+            "AddonDescription": "*Скорость во время слежки +1,38 м/с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 5,
             "AddonImagePath": "addons\\Killers\\Тень (Shape)\\pics\\14.png",
-            "AddonDescription": "Скорость накопления +25%.\r\n"
+            "AddonDescription": "Скорость накопления +25%.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 5,
             "AddonImagePath": "addons\\Killers\\Тень (Shape)\\pics\\15.png",
-            "AddonDescription": "Длительность 3 стадии +30 с.\r\nКоличество очков для первого получения 3 стадии +2,5.\r\n"
+            "AddonDescription": "Длительность 3 стадии +30 с.\r\nКоличество очков для первого получения 3 стадии +2,5.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Тень (Shape)\\pics\\16.png",
-            "AddonDescription": "На 2 стадии раскрывает ауры выживших в радиусе 16 м.\r\nМаксимальная стадия - 2.\r\nСкорость -0,32 м/с.\r\nБольше очков за удары.\r\n"
+            "AddonDescription": "На 2 стадии раскрывает ауры выживших в радиусе 16 м.\r\nМаксимальная стадия - 2.\r\nСкорость -0,32 м/с.\r\nБольше очков за удары.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 5,
             "AddonImagePath": "addons\\Killers\\Тень (Shape)\\pics\\17.png",
-            "AddonDescription": "Возможность лично убить на 3 стадии.\r\nПосле убийства уменьшает количество зарядов на 10.\r\nКоличество очков для получения 3 стадии +7,5.\r\n"
+            "AddonDescription": "Возможность лично убить на 3 стадии.\r\nПосле убийства уменьшает количество зарядов на 10.\r\nКоличество очков для получения 3 стадии +7,5.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Тень (Shape)\\pics\\18.png",
-            "AddonDescription": "На 1 стадии раскрывает ауры выживших в радиусе 32 м.\r\nМаксимальная стадия - 1.\r\nБольше очков за удары.\r\n"
+            "AddonDescription": "На 1 стадии раскрывает ауры выживших в радиусе 32 м.\r\nМаксимальная стадия - 1.\r\nБольше очков за удары.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Тень (Shape)\\pics\\19.png",
-            "AddonDescription": "Длительность 3 стадии +40 с.\r\nКоличество очков для первого получения 3 стадии +5.\r\n"
+            "AddonDescription": "Длительность 3 стадии +40 с.\r\nКоличество очков для первого получения 3 стадии +5.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 5,
             "AddonImagePath": "addons\\Killers\\Тень (Shape)\\pics\\20.png",
-            "AddonDescription": "Бесконечная 3 стадия.\r\nКоличество очков для получения 3 стадии +10.\r\n"
+            "AddonDescription": "Бесконечная 3 стадия.\r\nКоличество очков для получения 3 стадии +10.\r\n",
+            "Tips": ""
           }
         ]
     },
@@ -542,102 +642,122 @@
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Ведьма (Hag)\\pics\\1.png",
-            "AddonDescription": "*Длительность установки -0,25 с.\r\n"
+            "AddonDescription": "*Длительность установки -0,25 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Ведьма (Hag)\\pics\\2.png",
-            "AddonDescription": "*Длительность существования копии +1 с.\r\n"
+            "AddonDescription": "*Длительность существования копии +1 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Ведьма (Hag)\\pics\\3.png",
-            "AddonDescription": "*Дальность телепортации +8 м.\r\n"
+            "AddonDescription": "*Дальность телепортации +8 м.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 1,
             "AddonImagePath": "addons\\Killers\\Ведьма (Hag)\\pics\\4.png",
-            "AddonDescription": "*Дальность срабатывания ловушки +0,3 м.\r\n"
+            "AddonDescription": "*Дальность срабатывания ловушки +0,3 м.\r\n",
+            "Tips": "Чем ближе выживший к активированной ловушке,\r\nтем проще ударить его сразу после телепортации."
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Ведьма (Hag)\\pics\\5.png",
-            "AddonDescription": "Аура выжившего, активировавшего ловушку, видна 3 секунды.\r\n"
+            "AddonDescription": "Аура выжившего, активировавшего ловушку, видна 3 секунды.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Ведьма (Hag)\\pics\\6.png",
-            "AddonDescription": "*Длительность существования копии +2 с.\r\n"
+            "AddonDescription": "*Длительность существования копии +2 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Ведьма (Hag)\\pics\\7.png",
-            "AddonDescription": "*Дальность телепортации +10 м.\r\n"
+            "AddonDescription": "*Дальность телепортации +10 м.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Ведьма (Hag)\\pics\\8.png",
-            "AddonDescription": "*Длительность установки -0,3 с.\r\n"
+            "AddonDescription": "*Длительность установки -0,3 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 1,
             "AddonImagePath": "addons\\Killers\\Ведьма (Hag)\\pics\\9.png",
-            "AddonDescription": "*Дальность срабатывания ловушки +0,6 м.\r\n"
+            "AddonDescription": "*Дальность срабатывания ловушки +0,6 м.\r\n",
+            "Tips": "Чем ближе выживший к активированной ловушке,\r\nтем проще ударить его сразу после телепортации."
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Ведьма (Hag)\\pics\\10.png",
-            "AddonDescription": "Скорость Ведьмы - 4,5 м/с.\r\nОтключается способность телепортироваться.\r\nЛовушки замедляют выживших на 15% (-0,6 м/с) в радиусе активации.\r\n"
+            "AddonDescription": "Скорость Ведьмы - 4,5 м/с.\r\nОтключается способность телепортироваться.\r\nЛовушки замедляют выживших на 15% (-0,6 м/с) в радиусе активации.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 5,
             "AddonImagePath": "addons\\Killers\\Ведьма (Hag)\\pics\\11.png",
-            "AddonDescription": "Аура выжившего, активировавшего ловушку, видна 5 секунд.\r\n"
+            "AddonDescription": "Аура выжившего, активировавшего ловушку, видна 5 секунд.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Ведьма (Hag)\\pics\\12.png",
-            "AddonDescription": "*Длительность установки -0,35 с.\r\n"
+            "AddonDescription": "*Длительность установки -0,35 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 5,
             "AddonImagePath": "addons\\Killers\\Ведьма (Hag)\\pics\\13.png",
-            "AddonDescription": "*Дальность телепортации +12 м.\r\n"
+            "AddonDescription": "*Дальность телепортации +12 м.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 5,
             "AddonImagePath": "addons\\Killers\\Ведьма (Hag)\\pics\\14.png",
-            "AddonDescription": "*Длительность существования копии +3 с.\r\n"
+            "AddonDescription": "*Длительность существования копии +3 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 1,
             "AddonImagePath": "addons\\Killers\\Ведьма (Hag)\\pics\\15.png",
-            "AddonDescription": "*Дальность срабатывания ловушки +0,9 м.\r\n"
+            "AddonDescription": "*Дальность срабатывания ловушки +0,9 м.\r\n",
+            "Tips": "Чем ближе выживший к активированной ловушке,\r\nтем проще ударить его сразу после телепортации."
           },
           {
             "Stars": 1,
             "AddonImagePath": "addons\\Killers\\Ведьма (Hag)\\pics\\16.png",
-            "AddonDescription": "Копии непроходимы.\r\nОтключается способность телепортироваться.\r\nНа 200% больше очков.\r\n"
+            "AddonDescription": "Копии непроходимы.\r\nОтключается способность телепортироваться.\r\nНа 200% больше очков.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 5,
             "AddonImagePath": "addons\\Killers\\Ведьма (Hag)\\pics\\17.png",
-            "AddonDescription": "Активация ловушек не даёт оповещений выжившим.\r\nКопия не появляется.\r\n"
+            "AddonDescription": "Активация ловушек не даёт оповещений выжившим.\r\nКопия не появляется.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Ведьма (Hag)\\pics\\18.png",
-            "AddonDescription": "При активации ловушки радиус террора у Ведьмы уменьшается до 0, а у копии увеличивается на 16.\r\n"
+            "AddonDescription": "При активации ловушки радиус террора у Ведьмы уменьшается до 0, а у копии увеличивается на 16.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Ведьма (Hag)\\pics\\19.png",
-            "AddonDescription": "При активации ловушки выживший оглушается на 6 секунд.\r\n"
+            "AddonDescription": "При активации ловушки выживший оглушается на 6 секунд.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 5,
             "AddonImagePath": "addons\\Killers\\Ведьма (Hag)\\pics\\20.png",
-            "AddonDescription": "Появляется возможность телепортироваться на любую ловушку раз в 15 секунд.\r\n"
+            "AddonDescription": "Появляется возможность телепортироваться на любую ловушку раз в 15 секунд.\r\n",
+            "Tips": ""
           }
         ]
     },
@@ -649,102 +769,122 @@
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Доктор (Doctor)\\pics\\1.png",
-            "AddonDescription": "Дальность шоковой терапии +2 м.\r\n"
+            "AddonDescription": "Дальность шоковой терапии +2 м.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 1,
             "AddonImagePath": "addons\\Killers\\Доктор (Doctor)\\pics\\2.png",
-            "AddonDescription": "Показывает область применения шоковой терапии.\r\n"
+            "AddonDescription": "Показывает область применения шоковой терапии.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Доктор (Doctor)\\pics\\3.png",
-            "AddonDescription": "Перезарядка статического взрыва -2 с.\r\nКаждые 20 секунд заменяет сломанную доску иллюзорной доской.\r\n"
+            "AddonDescription": "Перезарядка статического взрыва -2 с.\r\nКаждые 20 секунд заменяет сломанную доску иллюзорной доской.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Доктор (Doctor)\\pics\\4.png",
-            "AddonDescription": "Радиус террора при готовом статическом взрыве +4 м.\r\nРадиус террора, когда статический взрыв не готов, -4 м.\r\nНа 2/3 стадии безумия выжившие слышат периодический/постоянный отдалённый звук террора.\r\n"
+            "AddonDescription": "Радиус террора при готовом статическом взрыве +4 м.\r\nРадиус террора, когда статический взрыв не готов, -4 м.\r\nНа 2/3 стадии безумия выжившие слышат периодический/постоянный отдалённый звук террора.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Доктор (Doctor)\\pics\\5.png",
-            "AddonDescription": "Дальность шоковой терапии +3 м.\r\n"
+            "AddonDescription": "Дальность шоковой терапии +3 м.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Доктор (Doctor)\\pics\\6.png",
-            "AddonDescription": "Аура выживших раскрывается на 1 секунду при повышении уровня безумия.\r\nДлительность иллюзии доктора - 8 с.\r\nАура иллюзии видна через всю карту.\r\n"
+            "AddonDescription": "Аура выживших раскрывается на 1 секунду при повышении уровня безумия.\r\nДлительность иллюзии доктора - 8 с.\r\nАура иллюзии видна через всю карту.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Доктор (Doctor)\\pics\\7.png",
-            "AddonDescription": "Перезарядка статического взрыва -4 с.\r\nКаждые 20 секунд заменяет сломанную доску иллюзорной доской.\r\n"
+            "AddonDescription": "Перезарядка статического взрыва -4 с.\r\nКаждые 20 секунд заменяет сломанную доску иллюзорной доской.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Доктор (Doctor)\\pics\\8.png",
-            "AddonDescription": "Задержка шоковой терапии -0,1 с.\r\nВо время 2/3 стадии безумия накладывает красное свечение во время погони (+6 с)/постоянно.\r\nДоктор видит красное свечение.\r\n"
+            "AddonDescription": "Задержка шоковой терапии -0,1 с.\r\nВо время 2/3 стадии безумия накладывает красное свечение во время погони (+6 с)/постоянно.\r\nДоктор видит красное свечение.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Доктор (Doctor)\\pics\\9.png",
-            "AddonDescription": "Радиус террора при готовом статическом взрыве +6 м.\r\nРадиус террора, когда статический взрыв не готов, -6 м.\r\nНа 2/3 стадии безумия выжившие слышат периодический/постоянный отдалённый звук террора.\r\n"
+            "AddonDescription": "Радиус террора при готовом статическом взрыве +6 м.\r\nРадиус террора, когда статический взрыв не готов, -6 м.\r\nНа 2/3 стадии безумия выжившие слышат периодический/постоянный отдалённый звук террора.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 5,
             "AddonImagePath": "addons\\Killers\\Доктор (Doctor)\\pics\\10.png",
-            "AddonDescription": "На выжившего, получившего разряд, наклыдвается эффект статического заряда.\r\nПри приближении к другому выжившему на 4 м, он получает разряд.\r\n"
+            "AddonDescription": "На выжившего, получившего разряд, наклыдвается эффект статического заряда.\r\nПри приближении к другому выжившему на 4 м, он получает разряд.\r\n",
+            "Tips": ""
           },
           {
-            "Stars": 1,
+            "Stars": 0,
             "AddonImagePath": "addons\\Killers\\Доктор (Doctor)\\pics\\11.png",
-            "AddonDescription": "Область шоковой терапии становится кольцом радиусом 4,2 м с внутренним радиусом 3 м на расстоянии 8 м от Доктора.\r\n"
+            "AddonDescription": "Область шоковой терапии становится кольцом радиусом 4,2 м с внутренним радиусом 3 м на расстоянии 8 м от Доктора.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Доктор (Doctor)\\pics\\12.png",
-            "AddonDescription": "Область шоковой терапии становится полосой длиной 24 м и шириной 2 м.\r\n"
+            "AddonDescription": "Область шоковой терапии становится полосой длиной 24 м и шириной 2 м.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Доктор (Doctor)\\pics\\13.png",
-            "AddonDescription": "Дальность шоковой терапии +4 м.\r\n"
+            "AddonDescription": "Дальность шоковой терапии +4 м.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Доктор (Doctor)\\pics\\14.png",
-            "AddonDescription": "Аура выживших раскрывается на 2 секунды при повышении уровня безумия.\r\nДлительность иллюзии доктора - 8 с.\r\nАура иллюзии видна через всю карту.\r\n"
+            "AddonDescription": "Аура выживших раскрывается на 2 секунды при повышении уровня безумия.\r\nДлительность иллюзии доктора - 8 с.\r\nАура иллюзии видна через всю карту.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Доктор (Doctor)\\pics\\15.png",
-            "AddonDescription": "Задержка шоковой терапии -0,2 с.\r\nВо время 2/3 стадии безумия накладывает красное свечение во время погони (+6 с)/постоянно.\r\nДоктор видит красное свечение.\r\n"
+            "AddonDescription": "Задержка шоковой терапии -0,2 с.\r\nВо время 2/3 стадии безумия накладывает красное свечение во время погони (+6 с)/постоянно.\r\nДоктор видит красное свечение.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Доктор (Doctor)\\pics\\16.png",
-            "AddonDescription": "Аура выживших раскрывается на 3 секунды при повышении уровня безумия.\r\nДлительность иллюзии доктора - 8 с.\r\nАура иллюзии видна через всю карту.\r\n"
+            "AddonDescription": "Аура выживших раскрывается на 3 секунды при повышении уровня безумия.\r\nДлительность иллюзии доктора - 8 с.\r\nАура иллюзии видна через всю карту.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Доктор (Doctor)\\pics\\17.png",
-            "AddonDescription": "Перезарядка статического взрыва -6 с.\r\nКаждые 20 секунд заменяет сломанную доску иллюзорной доской.\r\n"
+            "AddonDescription": "Перезарядка статического взрыва -6 с.\r\nКаждые 20 секунд заменяет сломанную доску иллюзорной доской.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 5,
             "AddonImagePath": "addons\\Killers\\Доктор (Doctor)\\pics\\18.png",
-            "AddonDescription": "Задержка шоковой терапии -0,3 с.\r\nВо время 2/3 стадии безумия накладывает красное свечение во время погони (+6 с)/постоянно.\r\nДоктор видит красное свечение.\r\n"
+            "AddonDescription": "Задержка шоковой терапии -0,3 с.\r\nВо время 2/3 стадии безумия накладывает красное свечение во время погони (+6 с)/постоянно.\r\nДоктор видит красное свечение.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Доктор (Doctor)\\pics\\19.png",
-            "AddonDescription": "Радиус террора при готовом статическом взрыве +8 м.\r\nРадиус террора, когда статический взрыв не готов, -8 м.\r\nНа 2/3 стадии безумия выжившие слышат периодический/постоянный отдалённый звук террора.\r\n"
+            "AddonDescription": "Радиус террора при готовом статическом взрыве +8 м.\r\nРадиус террора, когда статический взрыв не готов, -8 м.\r\nНа 2/3 стадии безумия выжившие слышат периодический/постоянный отдалённый звук террора.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 5,
             "AddonImagePath": "addons\\Killers\\Доктор (Doctor)\\pics\\20.png",
-            "AddonDescription": "Накладывает на выжившего все эффекты безумия: иллюзорные доски; красное свечение; отдалённый террор; длительные иллюзии Доктора.\r\n"
+            "AddonDescription": "Накладывает на выжившего все эффекты безумия: иллюзорные доски; красное свечение; отдалённый террор; длительные иллюзии Доктора.\r\n",
+            "Tips": ""
           }
         ]
     },
@@ -756,102 +896,122 @@
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Охотница (Huntress)\\pics\\1.png",
-            "AddonDescription": "Скорость топора +2,5-4 м/с.\r\n"
+            "AddonDescription": "Скорость топора +2,5-4 м/с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Охотница (Huntress)\\pics\\2.png",
-            "AddonDescription": "Стоны выживших, раненных топором, слышны на 50% громче.\r\n"
+            "AddonDescription": "Стоны выживших, раненных топором, слышны на 50% громче.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Охотница (Huntress)\\pics\\3.png",
-            "AddonDescription": "*Задержка после броска -0,2 с.\r\n"
+            "AddonDescription": "*Задержка после броска -0,2 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Охотница (Huntress)\\pics\\4.png",
-            "AddonDescription": "На выживших, поражённых топором, накладывается эффект \"Слепота\" на 60 с.\r\n"
+            "AddonDescription": "На выживших, поражённых топором, накладывается эффект \"Слепота\" на 60 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Охотница (Huntress)\\pics\\5.png",
-            "AddonDescription": "На выживших, поражённых топором, накладывается эффект \"Обездвиживание\" на 10 с.\r\n"
+            "AddonDescription": "На выживших, поражённых топором, накладывается эффект \"Обездвиживание\" на 10 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Охотница (Huntress)\\pics\\6.png",
-            "AddonDescription": "*Скорость при замахе топором +0,22 м/с.\r\n"
+            "AddonDescription": "*Скорость при замахе топором +0,22 м/с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Охотница (Huntress)\\pics\\7.png",
-            "AddonDescription": "*Задержка после броска -0,4 с.\r\n"
+            "AddonDescription": "*Задержка после броска -0,4 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Охотница (Huntress)\\pics\\8.png",
-            "AddonDescription": "*Время замаха топором меньше на 1,15-2,76 с.\r\n"
+            "AddonDescription": "*Время замаха топором меньше на 1,15-2,76 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Охотница (Huntress)\\pics\\9.png",
-            "AddonDescription": "Количество переносимых топоров +1.\r\n"
+            "AddonDescription": "Количество переносимых топоров +1.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Охотница (Huntress)\\pics\\10.png",
-            "AddonDescription": "Скорость при отсутствии топоров - 4,6 м/с.\r\n"
+            "AddonDescription": "Скорость при отсутствии топоров - 4,6 м/с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 5,
             "AddonImagePath": "addons\\Killers\\Охотница (Huntress)\\pics\\11.png",
-            "AddonDescription": "На выживших, поражённых топором, накладывается эффект \"Усталость\" на 5 с.\r\n"
+            "AddonDescription": "На выживших, поражённых топором, накладывается эффект \"Усталость\" на 5 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Охотница (Huntress)\\pics\\12.png",
-            "AddonDescription": "На выживших, поражённых топором, накладывается эффект \"Травма\" до исцеления.\r\n"
+            "AddonDescription": "На выживших, поражённых топором, накладывается эффект \"Травма\" до исцеления.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Охотница (Huntress)\\pics\\13.png",
-            "AddonDescription": "Скорость топора +5-8 м/с.\r\n"
+            "AddonDescription": "Скорость топора +5-8 м/с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Охотница (Huntress)\\pics\\14.png",
-            "AddonDescription": "*Время замаха топором меньше на 1,1-2,64 с.\r\n"
+            "AddonDescription": "*Время замаха топором меньше на 1,1-2,64 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Охотница (Huntress)\\pics\\15.png",
-            "AddonDescription": "*Перезарядка в шкафу -0,8 с.\r\n"
+            "AddonDescription": "*Перезарядка в шкафу -0,8 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Охотница (Huntress)\\pics\\16.png",
-            "AddonDescription": "Эффект \"Незаметность\" на 15 секунд после перезарядки в шкафу.\r\n"
+            "AddonDescription": "Эффект \"Незаметность\" на 15 секунд после перезарядки в шкафу.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 5,
             "AddonImagePath": "addons\\Killers\\Охотница (Huntress)\\pics\\17.png",
-            "AddonDescription": "Количество переносимых топоров +2.\r\n"
+            "AddonDescription": "Количество переносимых топоров +2.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Охотница (Huntress)\\pics\\18.png",
-            "AddonDescription": "После поражения топором аура выжившего видна 5 секунд.\r\n"
+            "AddonDescription": "После поражения топором аура выжившего видна 5 секунд.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Охотница (Huntress)\\pics\\19.png",
-            "AddonDescription": "На выживших, поражённых топором, накладываются эффекты \"Травма\" и \"Кровотечения\" до исцеления.\r\n"
+            "AddonDescription": "На выживших, поражённых топором, накладываются эффекты \"Травма\" и \"Кровотечения\" до исцеления.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 5,
             "AddonImagePath": "addons\\Killers\\Охотница (Huntress)\\pics\\20.png",
-            "AddonDescription": "Попадание топором переводит в предсмертное состояние.\r\nКоличество топоров - 1.\r\nНельзя увеличить это количество.\r\n"
+            "AddonDescription": "Попадание топором переводит в предсмертное состояние.\r\nКоличество топоров - 1.\r\nНельзя увеличить это количество.\r\n",
+            "Tips": ""
           }
         ]
     },
@@ -863,102 +1023,122 @@
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Каннибал (Cannibal)\\pics\\1.png",
-            "AddonDescription": "*Уменьшает задержку после попадания на 0,42-1,26 с.\r\n"
+            "AddonDescription": "*Уменьшает задержку после попадания на 0,42-1,26 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Каннибал (Cannibal)\\pics\\2.png",
-            "AddonDescription": "Длительность восстановления заряда -0,5 с.\r\n"
+            "AddonDescription": "Длительность восстановления заряда -0,5 с.\r\n",
+            "Tips": ""
           },
           {
-            "Stars": 1,
+            "Stars": 0,
             "AddonImagePath": "addons\\Killers\\Каннибал (Cannibal)\\pics\\3.png",
-            "AddonDescription": "Попадание пилой наносит урон в 1 состояние здоровья.\r\nНа 100% больше очков.\r\n"
+            "AddonDescription": "Попадание пилой наносит урон в 1 состояние здоровья.\r\nНа 100% больше очков.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Каннибал (Cannibal)\\pics\\4.png",
-            "AddonDescription": "Длительность гнева -0,5 с.\r\n"
+            "AddonDescription": "Длительность гнева -0,5 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 1,
             "AddonImagePath": "addons\\Killers\\Каннибал (Cannibal)\\pics\\5.png",
-            "AddonDescription": "Уровень перегрева пилы +1.\r\n"
+            "AddonDescription": "Уровень перегрева пилы +1.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Каннибал (Cannibal)\\pics\\6.png",
-            "AddonDescription": "Длительность восстановления заряда -1 с.\r\n"
+            "AddonDescription": "Длительность восстановления заряда -1 с.\r\n",
+            "Tips": ""
           },
           {
-            "Stars": 1,
+            "Stars": 0,
             "AddonImagePath": "addons\\Killers\\Каннибал (Cannibal)\\pics\\7.png",
-            "AddonDescription": "*Скорость движения с пилой +0,09 м/с.\r\n*Длительность заведения пилы +0,24 с.\r\n"
+            "AddonDescription": "*Скорость движения с пилой +0,09 м/с.\r\n*Длительность заведения пилы +0,24 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Каннибал (Cannibal)\\pics\\8.png",
-            "AddonDescription": "Длительность гнева -1 с.\r\n"
+            "AddonDescription": "Длительность гнева -1 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Каннибал (Cannibal)\\pics\\9.png",
-            "AddonDescription": "Длительность одного заряда +0,25 с.\r\n"
+            "AddonDescription": "Длительность одного заряда +0,25 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 5,
             "AddonImagePath": "addons\\Killers\\Каннибал (Cannibal)\\pics\\10.png",
-            "AddonDescription": "Попадание пилой по выжившему восстанавливает все заряды.\r\n"
+            "AddonDescription": "Попадание пилой по выжившему восстанавливает все заряды.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 1,
             "AddonImagePath": "addons\\Killers\\Каннибал (Cannibal)\\pics\\11.png",
-            "AddonDescription": "Уровень перегрева пилы +2.\r\n"
+            "AddonDescription": "Уровень перегрева пилы +2.\r\n",
+            "Tips": ""
           },
           {
-            "Stars": 1,
+            "Stars": 0,
             "AddonImagePath": "addons\\Killers\\Каннибал (Cannibal)\\pics\\12.png",
-            "AddonDescription": "*Скорость движения с пилой +0,14 м/с.\r\n*Длительность заведения пилы +0,24 с.\r\n"
+            "AddonDescription": "*Скорость движения с пилой +0,14 м/с.\r\n*Длительность заведения пилы +0,24 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Каннибал (Cannibal)\\pics\\13.png",
-            "AddonDescription": "Аура выжившего, упавшего от пилы, будет скрыта от других на 20 секунд, если в радиусе террора больше никого не было.\r\n"
+            "AddonDescription": "Аура выжившего, упавшего от пилы, будет скрыта от других на 20 секунд, если в радиусе террора больше никого не было.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Каннибал (Cannibal)\\pics\\14.png",
-            "AddonDescription": "Накладывает эффект \"Травма\" на поражённого пилой.\r\n"
+            "AddonDescription": "Накладывает эффект \"Травма\" на поражённого пилой.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Каннибал (Cannibal)\\pics\\15.png",
-            "AddonDescription": "Поражённый пилой роняет предмет.\r\n"
+            "AddonDescription": "Поражённый пилой роняет предмет.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Каннибал (Cannibal)\\pics\\16.png",
-            "AddonDescription": "Накладывает эффект \"Ослабление\" на 90 секунд при поражении пилой.\r\n"
+            "AddonDescription": "Накладывает эффект \"Ослабление\" на 90 секунд при поражении пилой.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 5,
             "AddonImagePath": "addons\\Killers\\Каннибал (Cannibal)\\pics\\17.png",
-            "AddonDescription": "Раскрывает ауры выживших в радиусе 8 метров при заведении пилы.\r\n"
+            "AddonDescription": "Раскрывает ауры выживших в радиусе 8 метров при заведении пилы.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Каннибал (Cannibal)\\pics\\18.png",
-            "AddonDescription": "Количество зарядов +1.\r\n*Длительность заведения пилы +0,44 с.\r\n*Скорость движения с пилой -0,2 м/с.\r\n"
+            "AddonDescription": "Количество зарядов +1.\r\n*Длительность заведения пилы +0,44 с.\r\n*Скорость движения с пилой -0,2 м/с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 5,
             "AddonImagePath": "addons\\Killers\\Каннибал (Cannibal)\\pics\\19.png",
-            "AddonDescription": "Длительность одного заряда +0,5 с.\r\n"
+            "AddonDescription": "Длительность одного заряда +0,5 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 5,
             "AddonImagePath": "addons\\Killers\\Каннибал (Cannibal)\\pics\\20.png",
-            "AddonDescription": "Автоматически использует сразу все заряды, совмещая их.\r\nДлительность одного заряда +0,5 с.\r\n*Длительность восстановления заряда +0,11 с.\r\n*Скорость движения с пилой -0,2 м/с.\r\n"
+            "AddonDescription": "Автоматически использует сразу все заряды, совмещая их.\r\nДлительность одного заряда +0,5 с.\r\n*Длительность восстановления заряда +0,11 с.\r\n*Скорость движения с пилой -0,2 м/с.\r\n",
+            "Tips": ""
           }
         ]
     },
@@ -970,102 +1150,122 @@
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Кошмар (Nightmare)\\pics\\1.png",
-            "AddonDescription": "Штраф за проваленные проверки реакции при починке/лечении/саботаже +4%.\r\n"
+            "AddonDescription": "Штраф за проваленные проверки реакции при починке/лечении/саботаже +4%.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Кошмар (Nightmare)\\pics\\2.png",
-            "AddonDescription": "Взаимодействие с ловушкой накладывает эффект \"Слепота\" на 30 с.\r\n"
+            "AddonDescription": "Взаимодействие с ловушкой накладывает эффект \"Слепота\" на 30 с.\r\n",
+            "Tips": ""
           },
           {
-            "Stars": 1,
+            "Stars": 0,
             "AddonImagePath": "addons\\Killers\\Кошмар (Nightmare)\\pics\\3.png",
-            "AddonDescription": "Ослабляет замедление на 10%.\r\nНа 200 очков больше за активацию ловушки.\r\n"
+            "AddonDescription": "Ослабляет замедление на 10%.\r\nНа 200 очков больше за активацию ловушки.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Кошмар (Nightmare)\\pics\\4.png",
-            "AddonDescription": "Заменяет ловушки на 7 ложных досок.\r\nЭти доски видны в мире снов и не оглушают Кошмара.\r\n"
+            "AddonDescription": "Заменяет ловушки на 7 ложных досок.\r\nЭти доски видны в мире снов и не оглушают Кошмара.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Кошмар (Nightmare)\\pics\\5.png",
-            "AddonDescription": "Заменяет ловушки на 7 ложных досок.\r\nЭти доски видны в мире снов и не оглушают Кошмара.\r\nАура сбросившего видна 4 секунды.\r\n"
+            "AddonDescription": "Заменяет ловушки на 7 ложных досок.\r\nЭти доски видны в мире снов и не оглушают Кошмара.\r\nАура сбросившего видна 4 секунды.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Кошмар (Nightmare)\\pics\\6.png",
-            "AddonDescription": "Радиус слышимости починки генератора спящим +8 м.\r\n"
+            "AddonDescription": "Радиус слышимости починки генератора спящим +8 м.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Кошмар (Nightmare)\\pics\\7.png",
-            "AddonDescription": "Ускорение перезарядки за каждого спящего +2%.\r\n"
+            "AddonDescription": "Ускорение перезарядки за каждого спящего +2%.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Кошмар (Nightmare)\\pics\\8.png",
-            "AddonDescription": "Штраф за проваленные проверки реакции при починке/лечении/саботаже +4%.\r\nАура провалившего раскрывается на 3 с.\r\n"
+            "AddonDescription": "Штраф за проваленные проверки реакции при починке/лечении/саботаже +4%.\r\nАура провалившего раскрывается на 3 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 1,
             "AddonImagePath": "addons\\Killers\\Кошмар (Nightmare)\\pics\\9.png",
-            "AddonDescription": "Взаимодействие раненного выжившего с ловушкой накладывает эффект \"Кровотечение\" на 60 с.\r\n"
+            "AddonDescription": "Взаимодействие раненного выжившего с ловушкой накладывает эффект \"Кровотечение\" на 60 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 5,
             "AddonImagePath": "addons\\Killers\\Кошмар (Nightmare)\\pics\\10.png",
-            "AddonDescription": "Выжившие сразу в спящем состоянии.\r\nПровал проверки реакции не пробуждает.\r\n"
+            "AddonDescription": "Выжившие сразу в спящем состоянии.\r\nПровал проверки реакции не пробуждает.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Кошмар (Nightmare)\\pics\\11.png",
-            "AddonDescription": "Взаимодействие с ловушкой накладывает эффект \"Слепота\" на 60 с.\r\n"
+            "AddonDescription": "Взаимодействие с ловушкой накладывает эффект \"Слепота\" на 60 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Кошмар (Nightmare)\\pics\\12.png",
-            "AddonDescription": "Заменяет ловушки на 7 ложных досок.\r\nЭти доски видны в мире снов и не оглушают Кошмара.\r\nАура сбросившего видна 6 секунд.\r\n"
+            "AddonDescription": "Заменяет ловушки на 7 ложных досок.\r\nЭти доски видны в мире снов и не оглушают Кошмара.\r\nАура сбросившего видна 6 секунд.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Кошмар (Nightmare)\\pics\\13.png",
-            "AddonDescription": "Ускорение перезарядки за каждого спящего +3%.\r\n"
+            "AddonDescription": "Ускорение перезарядки за каждого спящего +3%.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Кошмар (Nightmare)\\pics\\14.png",
-            "AddonDescription": "Стоны раненных выживших в мире снов слышны на 50% громче.\r\n"
+            "AddonDescription": "Стоны раненных выживших в мире снов слышны на 50% громче.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Кошмар (Nightmare)\\pics\\15.png",
-            "AddonDescription": "Штраф за проваленные проверки реакции при починке/лечении/саботаже +4%.\r\nАура провалившего раскрывается на 4 с.\r\n"
+            "AddonDescription": "Штраф за проваленные проверки реакции при починке/лечении/саботаже +4%.\r\nАура провалившего раскрывается на 4 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Кошмар (Nightmare)\\pics\\16.png",
-            "AddonDescription": "Частичная видимость от 12 до 24 м.\r\nПолная невидимость дальше 24 м.\r\nНевидимость при поднятии выжившего для всех неспящих выживших.\r\n"
+            "AddonDescription": "Частичная видимость от 12 до 24 м.\r\nПолная невидимость дальше 24 м.\r\nНевидимость при поднятии выжившего для всех неспящих выживших.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Кошмар (Nightmare)\\pics\\17.png",
-            "AddonDescription": "Звуки шагов выживших в мире снов на 50% громче.\r\n"
+            "AddonDescription": "Звуки шагов выживших в мире снов на 50% громче.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Кошмар (Nightmare)\\pics\\18.png",
-            "AddonDescription": "При телепортации все генераторы кровоточат.\r\nТело Кошмара не появляется во время телепортации.\r\nТелепортацию невозможно отменить.\r\n"
+            "AddonDescription": "При телепортации все генераторы кровоточат.\r\nТело Кошмара не появляется во время телепортации.\r\nТелепортацию невозможно отменить.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Кошмар (Nightmare)\\pics\\19.png",
-            "AddonDescription": "Взаимодействие выжившего с ловушкой накладывает эффект \"Кровотечение\" на 60 с.\r\nЭффект накладывается даже на здорового выжившего.\r\n"
+            "AddonDescription": "Взаимодействие выжившего с ловушкой накладывает эффект \"Кровотечение\" на 60 с.\r\nЭффект накладывается даже на здорового выжившего.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Кошмар (Nightmare)\\pics\\20.png",
-            "AddonDescription": "Для спящих выход блокируется на 15 секунд после открытия ворот.\r\n"
+            "AddonDescription": "Для спящих выход блокируется на 15 секунд после открытия ворот.\r\n",
+            "Tips": ""
           }
         ]
     },
@@ -1077,102 +1277,122 @@
           {
             "Stars": 1,
             "AddonImagePath": "addons\\Killers\\Свинья (Pig)\\pics\\1.png",
-            "AddonDescription": "Шанс проверки реакции +1%.\r\n"
+            "AddonDescription": "Шанс проверки реакции +1%.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Свинья (Pig)\\pics\\2.png",
-            "AddonDescription": "*Задержка после промаха -0,4 с.\r\n"
+            "AddonDescription": "*Задержка после промаха -0,4 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Свинья (Pig)\\pics\\3.png",
-            "AddonDescription": "*Длительность подготовки атаки из укрытия -0,375 с.\r\n"
+            "AddonDescription": "*Длительность подготовки атаки из укрытия -0,375 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Свинья (Pig)\\pics\\4.png",
-            "AddonDescription": "Длительность смены состояния (пригнуться) -0,3 с.\r\n"
+            "AddonDescription": "Длительность смены состояния (пригнуться) -0,3 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Свинья (Pig)\\pics\\5.png",
-            "AddonDescription": "*Длительность подготовки атаки из укрытия -0,375 с.\r\n*Задержка после промаха -0,4 с.\r\n"
+            "AddonDescription": "*Длительность подготовки атаки из укрытия -0,375 с.\r\n*Задержка после промаха -0,4 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 1,
             "AddonImagePath": "addons\\Killers\\Свинья (Pig)\\pics\\6.png",
-            "AddonDescription": "Выживший с обратным капканом подвержен эффекту \"Кровотечение\".\r\n"
+            "AddonDescription": "Выживший с обратным капканом подвержен эффекту \"Кровотечение\".\r\n",
+            "Tips": ""
           },
           {
             "Stars": 1,
             "AddonImagePath": "addons\\Killers\\Свинья (Pig)\\pics\\7.png",
-            "AddonDescription": "Шанс проверки реакции +2%.\r\n"
+            "AddonDescription": "Шанс проверки реакции +2%.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Свинья (Pig)\\pics\\8.png",
-            "AddonDescription": "Количество обратных капканов +1.\r\n"
+            "AddonDescription": "Количество обратных капканов +1.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Свинья (Pig)\\pics\\9.png",
-            "AddonDescription": "Выживший с обратным капканом подвержен эффекту \"Слепота\".\r\nАуры коробок Пилы при этом будут видны.\r\n"
+            "AddonDescription": "Выживший с обратным капканом подвержен эффекту \"Слепота\".\r\nАуры коробок Пилы при этом будут видны.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Свинья (Pig)\\pics\\10.png",
-            "AddonDescription": "Выживший не видит ауры коробок Пилы до активации обратного капкана.\r\n"
+            "AddonDescription": "Выживший не видит ауры коробок Пилы до активации обратного капкана.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 5,
             "AddonImagePath": "addons\\Killers\\Свинья (Pig)\\pics\\11.png",
-            "AddonDescription": "Выживший с обратным капканом подвержен эффекту \"Усталость\".\r\n"
+            "AddonDescription": "Выживший с обратным капканом подвержен эффекту \"Усталость\".\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Свинья (Pig)\\pics\\12.png",
-            "AddonDescription": "Выживший с обратным капканом подвержен эффекту \"Травма\" до исцеления.\r\n"
+            "AddonDescription": "Выживший с обратным капканом подвержен эффекту \"Травма\" до исцеления.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Свинья (Pig)\\pics\\13.png",
-            "AddonDescription": "Количество коробок Пилы +1.\r\nДлительность активного таймера +20 с.\r\n"
+            "AddonDescription": "Количество коробок Пилы +1.\r\nДлительность активного таймера +20 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Свинья (Pig)\\pics\\14.png",
-            "AddonDescription": "Штраф за провал проверки реакции при обыске +50%.\r\n"
+            "AddonDescription": "Штраф за провал проверки реакции при обыске +50%.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Свинья (Pig)\\pics\\15.png",
-            "AddonDescription": "*Длительность поиска ключа +1,7 с.\r\n*Установка обратного капкана -0,5 с.\r\n"
+            "AddonDescription": "*Длительность поиска ключа +1,7 с.\r\n*Установка обратного капкана -0,5 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 5,
             "AddonImagePath": "addons\\Killers\\Свинья (Pig)\\pics\\16.png",
-            "AddonDescription": "Длительность активного таймера -30 с.\r\n"
+            "AddonDescription": "Длительность активного таймера -30 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 5,
             "AddonImagePath": "addons\\Killers\\Свинья (Pig)\\pics\\17.png",
-            "AddonDescription": "Количество коробок Пилы +1.\r\n"
+            "AddonDescription": "Количество коробок Пилы +1.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Свинья (Pig)\\pics\\18.png",
-            "AddonDescription": "*Длительность поиска ключа +3,6 с.\r\n*Установка обратного капкана -1 с.\r\n"
+            "AddonDescription": "*Длительность поиска ключа +3,6 с.\r\n*Установка обратного капкана -1 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Свинья (Pig)\\pics\\19.png",
-            "AddonDescription": "Даёт оповещение, когда выживший снимает обратный капкан, и раскрывает его ауру на 6 с.\r\nСвинья не видит ауры коробок Пилы.\r\n"
+            "AddonDescription": "Даёт оповещение, когда выживший снимает обратный капкан, и раскрывает его ауру на 6 с.\r\nСвинья не видит ауры коробок Пилы.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 5,
             "AddonImagePath": "addons\\Killers\\Свинья (Pig)\\pics\\20.png",
-            "AddonDescription": "Ауры выживших видны в радиусе 12 м в положении пригнувшись.\r\nКоличество обратных капканов -3.\r\nКоличество коробок Пилы -2.\r\n"
+            "AddonDescription": "Ауры выживших видны в радиусе 12 м в положении пригнувшись.\r\nКоличество обратных капканов -3.\r\nКоличество коробок Пилы -2.\r\n",
+            "Tips": ""
           }
         ]
     },
@@ -1184,102 +1404,122 @@
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Клоун (Clown)\\pics\\1.png",
-            "AddonDescription": "Цвета облаков тоника и антидота меняются местами.\r\n"
+            "AddonDescription": "Цвета облаков тоника и антидота меняются местами.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Клоун (Clown)\\pics\\2.png",
-            "AddonDescription": "*Задержка после броска -0,3 с.\r\n"
+            "AddonDescription": "*Задержка после броска -0,3 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 1,
             "AddonImagePath": "addons\\Killers\\Клоун (Clown)\\pics\\3.png",
-            "AddonDescription": "На 100 очков больше за попадание бутылкой по выжившему.\r\n"
+            "AddonDescription": "На 100 очков больше за попадание бутылкой по выжившему.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 1,
             "AddonImagePath": "addons\\Killers\\Клоун (Clown)\\pics\\4.png",
-            "AddonDescription": "Изменяет траекторию полёта бутылки:\r\nбутыль летит ниже,\r\nно со скоростью 10,5-17,5 м/с.\r\n"
+            "AddonDescription": "Изменяет траекторию полёта бутылки:\r\nбутыль летит ниже,\r\nно со скоростью 10,5-17,5 м/с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Клоун (Clown)\\pics\\5.png",
-            "AddonDescription": "Длительность перезарядки -0,5 с.\r\n"
+            "AddonDescription": "Длительность перезарядки -0,5 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Клоун (Clown)\\pics\\6.png",
-            "AddonDescription": "Количество бутылок +1.\r\n"
+            "AddonDescription": "Количество бутылок +1.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Клоун (Clown)\\pics\\7.png",
-            "AddonDescription": "*Задержка после броска -0,5 с.\r\n"
+            "AddonDescription": "*Задержка после броска -0,5 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Клоун (Clown)\\pics\\8.png",
-            "AddonDescription": "Длительность ускорения +1 с.\r\n"
+            "AddonDescription": "Длительность ускорения +1 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Клоун (Clown)\\pics\\9.png",
-            "AddonDescription": "При отравлении накладывает эффект \"Слепота\" на 30 секунд.\r\n"
+            "AddonDescription": "При отравлении накладывает эффект \"Слепота\" на 30 секунд.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Клоун (Clown)\\pics\\10.png",
-            "AddonDescription": "Ауры отравленных/ускоренных выживших видны в течение 6 с.\r\n"
+            "AddonDescription": "Ауры отравленных/ускоренных выживших видны в течение 6 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Клоун (Clown)\\pics\\11.png",
-            "AddonDescription": "При отравлении накладывает эффект \"Травма\" до исцеления.\r\n"
+            "AddonDescription": "При отравлении накладывает эффект \"Травма\" до исцеления.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Клоун (Clown)\\pics\\12.png",
-            "AddonDescription": "Область облака антидота +20%.\r\nСкорость распространения облака антидота +20%.\r\n"
+            "AddonDescription": "Область облака антидота +20%.\r\nСкорость распространения облака антидота +20%.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Клоун (Clown)\\pics\\13.png",
-            "AddonDescription": "*Скорость во время перезарядки +1,06 м/с.\r\n"
+            "AddonDescription": "*Скорость во время перезарядки +1,06 м/с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 5,
             "AddonImagePath": "addons\\Killers\\Клоун (Clown)\\pics\\14.png",
-            "AddonDescription": "Замедление сильнее на 5%.\r\n"
+            "AddonDescription": "Замедление сильнее на 5%.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Клоун (Clown)\\pics\\15.png",
-            "AddonDescription": "Область облака тоника +20%.\r\nСкорость распространения облака тоника +20%.\r\n"
+            "AddonDescription": "Область облака тоника +20%.\r\nСкорость распространения облака тоника +20%.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Клоун (Clown)\\pics\\16.png",
-            "AddonDescription": "Длительность ускорения +2 с.\r\n"
+            "AddonDescription": "Длительность ускорения +2 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 5,
             "AddonImagePath": "addons\\Killers\\Клоун (Clown)\\pics\\17.png",
-            "AddonDescription": "Длительность замедления +1 с.\r\n"
+            "AddonDescription": "Длительность замедления +1 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Клоун (Clown)\\pics\\18.png",
-            "AddonDescription": "Под действием антидота ауры всех игроков видны в радиусе 16 м.\r\nТак же работает на выживших.\r\n"
+            "AddonDescription": "Под действием антидота ауры всех игроков видны в радиусе 16 м.\r\nТак же работает на выживших.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Клоун (Clown)\\pics\\19.png",
-            "AddonDescription": "Количество бутылок +2.\r\n"
+            "AddonDescription": "Количество бутылок +2.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 5,
             "AddonImagePath": "addons\\Killers\\Клоун (Clown)\\pics\\20.png",
-            "AddonDescription": "При попадании тоником (самой бутылкой) по выжившему на него накладывается эффект \"Уязвимость\" на время действия отравления.\r\n"
+            "AddonDescription": "При попадании тоником (самой бутылкой) по выжившему на него накладывается эффект \"Уязвимость\" на время действия отравления.\r\n",
+            "Tips": ""
           }
         ]
     },
@@ -1291,102 +1531,122 @@
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Дух (Spirit)\\pics\\1.png",
-            "AddonDescription": "*Скорость в фазе +0,22 м/с.\r\n"
+            "AddonDescription": "*Скорость в фазе +0,22 м/с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Дух (Spirit)\\pics\\2.png",
-            "AddonDescription": "Длительность фазы +0,5 с.\r\n"
+            "AddonDescription": "Длительность фазы +0,5 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Дух (Spirit)\\pics\\3.png",
-            "AddonDescription": "Скорость восстановления зарядов +0,03 з/с.\r\n"
+            "AddonDescription": "Скорость восстановления зарядов +0,03 з/с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Дух (Spirit)\\pics\\4.png",
-            "AddonDescription": "*Подготовка -0,2 с.\r\n"
+            "AddonDescription": "*Подготовка -0,2 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Дух (Spirit)\\pics\\5.png",
-            "AddonDescription": "*Подготовка -0,25 с.\r\n"
+            "AddonDescription": "*Подготовка -0,25 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Дух (Spirit)\\pics\\6.png",
-            "AddonDescription": "Скорость восстановления зарядов +0,05 з/с.\r\n"
+            "AddonDescription": "Скорость восстановления зарядов +0,05 з/с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Дух (Spirit)\\pics\\7.png",
-            "AddonDescription": "*Скорость в фазе +0,44 м/с.\r\n"
+            "AddonDescription": "*Скорость в фазе +0,44 м/с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Дух (Spirit)\\pics\\8.png",
-            "AddonDescription": "Длительность фазы +1 с.\r\n"
+            "AddonDescription": "Длительность фазы +1 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Дух (Spirit)\\pics\\9.png",
-            "AddonDescription": "Периодичность пассивного мерцания -1 с.\r\n"
+            "AddonDescription": "Периодичность пассивного мерцания -1 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 5,
             "AddonImagePath": "addons\\Killers\\Дух (Spirit)\\pics\\10.png",
-            "AddonDescription": "*Скорость в фазе +1,76 м/с.\r\nВ фазе не видны следы-трещины.\r\n"
+            "AddonDescription": "*Скорость в фазе +1,76 м/с.\r\nВ фазе не видны следы-трещины.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Дух (Spirit)\\pics\\11.png",
-            "AddonDescription": "Скорость восстановления зарядов +0,08 з/с.\r\n"
+            "AddonDescription": "Скорость восстановления зарядов +0,08 з/с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Дух (Spirit)\\pics\\12.png",
-            "AddonDescription": "Длительность фазы +1,5 с.\r\n"
+            "AddonDescription": "Длительность фазы +1,5 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Дух (Spirit)\\pics\\13.png",
-            "AddonDescription": "Длительность ускорения после выхода из фазы +0,2 с.\r\n*Скорость при появлении +0,22 м/с.\r\n"
+            "AddonDescription": "Длительность ускорения после выхода из фазы +0,2 с.\r\n*Скорость при появлении +0,22 м/с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Дух (Spirit)\\pics\\14.png",
-            "AddonDescription": "*Скорость в фазе +0,66 м/с.\r\n"
+            "AddonDescription": "*Скорость в фазе +0,66 м/с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Дух (Spirit)\\pics\\15.png",
-            "AddonDescription": "*Подготовка -0,35 с.\r\n"
+            "AddonDescription": "*Подготовка -0,35 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Дух (Spirit)\\pics\\16.png",
-            "AddonDescription": "Длительность фазы +3,5 с.\r\n*Скорость в фазе -0,66 м/с.\r\n"
+            "AddonDescription": "Длительность фазы +3,5 с.\r\n*Скорость в фазе -0,66 м/с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Дух (Spirit)\\pics\\17.png",
-            "AddonDescription": "Длительность ускорения после выхода из фазы +0,3 с.\r\n*Скорость при появлении +0,4 м/с.\r\n"
+            "AddonDescription": "Длительность ускорения после выхода из фазы +0,3 с.\r\n*Скорость при появлении +0,4 м/с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Дух (Spirit)\\pics\\18.png",
-            "AddonDescription": "Шипение фазы слышно всем вне радиуса террора.\r\n"
+            "AddonDescription": "Шипение фазы слышно всем вне радиуса террора.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Дух (Spirit)\\pics\\19.png",
-            "AddonDescription": "Периодичность пассивного мерцания -1 с.\r\nДлительность мерцания +0,75 с.\r\n"
+            "AddonDescription": "Периодичность пассивного мерцания -1 с.\r\nДлительность мерцания +0,75 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Дух (Spirit)\\pics\\20.png",
-            "AddonDescription": "В фазе видны следы крови.\r\n"
+            "AddonDescription": "В фазе видны следы крови.\r\n",
+            "Tips": ""
           }
         ]
     },
@@ -1398,102 +1658,122 @@
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Легион (Legion)\\pics\\1.png",
-            "AddonDescription": "Удар по подсвеченному инстинктом убийцы накладывает эффект \"Слепота\" на 60 с.\r\n"
+            "AddonDescription": "Удар по подсвеченному инстинктом убийцы накладывает эффект \"Слепота\" на 60 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Легион (Legion)\\pics\\2.png",
-            "AddonDescription": "Перезарядка бешенства -2 с.\r\n"
+            "AddonDescription": "Перезарядка бешенства -2 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Легион (Legion)\\pics\\3.png",
-            "AddonDescription": "Длительность бешенства +1 с.\r\n"
+            "AddonDescription": "Длительность бешенства +1 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 1,
             "AddonImagePath": "addons\\Killers\\Легион (Legion)\\pics\\4.png",
-            "AddonDescription": "Радиус срабатывания инстинкта убийцы +4 м.\r\n"
+            "AddonDescription": "Радиус срабатывания инстинкта убийцы +4 м.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 1,
             "AddonImagePath": "addons\\Killers\\Легион (Legion)\\pics\\5.png",
-            "AddonDescription": "Радиус срабатывания инстинкта убийцы +8 м.\r\n"
+            "AddonDescription": "Радиус срабатывания инстинкта убийцы +8 м.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Легион (Legion)\\pics\\6.png",
-            "AddonDescription": "Длительность бешенства +1,5 с.\r\n"
+            "AddonDescription": "Длительность бешенства +1,5 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Легион (Legion)\\pics\\7.png",
-            "AddonDescription": "Усталость после бешенства -0,2 с.\r\n"
+            "AddonDescription": "Усталость после бешенства -0,2 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Легион (Legion)\\pics\\8.png",
-            "AddonDescription": "Перезарядка бешенства -3,5 с.\r\n"
+            "AddonDescription": "Перезарядка бешенства -3,5 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Легион (Legion)\\pics\\9.png",
-            "AddonDescription": "Удар по подсвеченному инстинктом убийцы накладывает эффект \"Травма\" до исцеления.\r\n"
+            "AddonDescription": "Удар по подсвеченному инстинктом убийцы накладывает эффект \"Травма\" до исцеления.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 5,
             "AddonImagePath": "addons\\Killers\\Легион (Legion)\\pics\\10.png",
-            "AddonDescription": "Во время бешенства радиус террора покрывает всю карту.\r\nПосле прыжка через доску она автоматически ломается.\r\n"
+            "AddonDescription": "Во время бешенства радиус террора покрывает всю карту.\r\nПосле прыжка через доску она автоматически ломается.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Легион (Legion)\\pics\\11.png",
-            "AddonDescription": "Удар по подсвеченному инстинктом убийцы накладывает эффект \"Ослабление\" на 60 с.\r\n"
+            "AddonDescription": "Удар по подсвеченному инстинктом убийцы накладывает эффект \"Ослабление\" на 60 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Легион (Legion)\\pics\\12.png",
-            "AddonDescription": "Радиус срабатывания инстинкта убийцы +16 м.\r\n"
+            "AddonDescription": "Радиус срабатывания инстинкта убийцы +16 м.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 5,
             "AddonImagePath": "addons\\Killers\\Легион (Legion)\\pics\\13.png",
-            "AddonDescription": "Длительность бешенства +2,5 с.\r\n"
+            "AddonDescription": "Длительность бешенства +2,5 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Легион (Legion)\\pics\\14.png",
-            "AddonDescription": "Длительность латания глубокой раны +1,5 с.\r\n"
+            "AddonDescription": "Длительность латания глубокой раны +1,5 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Легион (Legion)\\pics\\15.png",
-            "AddonDescription": "Усталость после бешенства -0,4 с.\r\n"
+            "AddonDescription": "Усталость после бешенства -0,4 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 1,
             "AddonImagePath": "addons\\Killers\\Легион (Legion)\\pics\\16.png",
-            "AddonDescription": "Длительность таймера глубокой раны -3 с.\r\n"
+            "AddonDescription": "Длительность таймера глубокой раны -3 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 1,
             "AddonImagePath": "addons\\Killers\\Легион (Legion)\\pics\\17.png",
-            "AddonDescription": "Длительность глубокой раны при повторном ударе -5 с.\r\n"
+            "AddonDescription": "Длительность глубокой раны при повторном ударе -5 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Легион (Legion)\\pics\\18.png",
-            "AddonDescription": "Длительность латания глубокой раны +2,5 с.\r\n"
+            "AddonDescription": "Длительность латания глубокой раны +2,5 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 5,
             "AddonImagePath": "addons\\Killers\\Легион (Legion)\\pics\\19.png",
-            "AddonDescription": "Задержка после отмены бешенства -0,6 с.\r\n"
+            "AddonDescription": "Задержка после отмены бешенства -0,6 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Легион (Legion)\\pics\\20.png",
-            "AddonDescription": "Во время бешенства можно определить прогресс генератора по его цвету.\r\n"
+            "AddonDescription": "Во время бешенства можно определить прогресс генератора по его цвету.\r\n",
+            "Tips": ""
           }
         ]
     },
@@ -1505,102 +1785,122 @@
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Чума (Plague)\\pics\\1.png",
-            "AddonDescription": "*Поглощение скверны из купели -0,25 с.\r\n*Скорость при удержании очищения от скверны +0,1 м/с.\r\n"
+            "AddonDescription": "*Поглощение скверны из купели -0,25 с.\r\n*Скорость при удержании очищения от скверны +0,1 м/с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Чума (Plague)\\pics\\2.png",
-            "AddonDescription": "*Скорость при подготовке очищения от мерзости +0,3 м/с.\r\n"
+            "AddonDescription": "*Скорость при подготовке очищения от мерзости +0,3 м/с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Чума (Plague)\\pics\\3.png",
-            "AddonDescription": "Длительность заражения объектов +5 с.\r\n"
+            "AddonDescription": "Длительность заражения объектов +5 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Чума (Plague)\\pics\\4.png",
-            "AddonDescription": "Задержка после очищения от мерзости -0,25 с.\r\n"
+            "AddonDescription": "Задержка после очищения от мерзости -0,25 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Чума (Plague)\\pics\\5.png",
-            "AddonDescription": "Длительность очищения от скверны +4 с.\r\n"
+            "AddonDescription": "Длительность очищения от скверны +4 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Чума (Plague)\\pics\\6.png",
-            "AddonDescription": "Задержка после рвоты -0,4 с.\r\n"
+            "AddonDescription": "Задержка после рвоты -0,4 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Чума (Plague)\\pics\\7.png",
-            "AddonDescription": "Длительность заражения объектов +10 с.\r\n"
+            "AddonDescription": "Длительность заражения объектов +10 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Чума (Plague)\\pics\\8.png",
-            "AddonDescription": "*Заражение за заряд +0,31%.\r\n"
+            "AddonDescription": "*Заражение за заряд +0,31%.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Чума (Plague)\\pics\\9.png",
-            "AddonDescription": "Начальное количество осквернённых купелей +1.\r\n"
+            "AddonDescription": "Начальное количество осквернённых купелей +1.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 5,
             "AddonImagePath": "addons\\Killers\\Чума (Plague)\\pics\\10.png",
-            "AddonDescription": "Активация очищения от скверны после починки генератора.\r\nДлительность очищения от скверны -20 с.\r\n*Скорость при удержании очищения от скверны -0,3 м/с.\r\n"
+            "AddonDescription": "Активация очищения от скверны после починки генератора.\r\nДлительность очищения от скверны -20 с.\r\n*Скорость при удержании очищения от скверны -0,3 м/с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 5,
             "AddonImagePath": "addons\\Killers\\Чума (Plague)\\pics\\11.png",
-            "AddonDescription": "*Очищение от мерзости заряжается в 2 раза быстрее.\r\n"
+            "AddonDescription": "*Очищение от мерзости заряжается в 2 раза быстрее.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Чума (Plague)\\pics\\12.png",
-            "AddonDescription": "*Заражение за заряд +0,625%.\r\n"
+            "AddonDescription": "*Заражение за заряд +0,625%.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Чума (Plague)\\pics\\13.png",
-            "AddonDescription": "*Скорость при подготовке очищения от мерзости +0,3 м/с.\r\nЗадержка после рвоты -0,4 с.\r\n"
+            "AddonDescription": "*Скорость при подготовке очищения от мерзости +0,3 м/с.\r\nЗадержка после рвоты -0,4 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Чума (Plague)\\pics\\14.png",
-            "AddonDescription": "Длительность очищения от скверны +6 с.\r\n"
+            "AddonDescription": "Длительность очищения от скверны +6 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Чума (Plague)\\pics\\15.png",
-            "AddonDescription": "Начальное количество осквернённых купелей +1.\r\nДлительность заражения объектов +5 с.\r\n"
+            "AddonDescription": "Начальное количество осквернённых купелей +1.\r\nДлительность заражения объектов +5 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Чума (Plague)\\pics\\16.png",
-            "AddonDescription": "*Поглощение скверны из купели -0,5 с.\r\n*Скорость при удержании очищения от скверны +0,3 м/с.\r\n"
+            "AddonDescription": "*Поглощение скверны из купели -0,5 с.\r\n*Скорость при удержании очищения от скверны +0,3 м/с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 5,
             "AddonImagePath": "addons\\Killers\\Чума (Plague)\\pics\\17.png",
-            "AddonDescription": "*Заражение за заряд +0,94%.\r\n"
+            "AddonDescription": "*Заражение за заряд +0,94%.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Чума (Plague)\\pics\\18.png",
-            "AddonDescription": "*Заражение при взаимодействии с объектами +0,5%/с.\r\n"
+            "AddonDescription": "*Заражение при взаимодействии с объектами +0,5%/с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 5,
             "AddonImagePath": "addons\\Killers\\Чума (Plague)\\pics\\19.png",
-            "AddonDescription": "Длительность очищения от скверны +8 с.\r\n"
+            "AddonDescription": "Длительность очищения от скверны +8 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 5,
             "AddonImagePath": "addons\\Killers\\Чума (Plague)\\pics\\20.png",
-            "AddonDescription": "Ауры выживших видны 6 секунд, когда они блюют.\r\n"
+            "AddonDescription": "Ауры выживших видны 6 секунд, когда они блюют.\r\n",
+            "Tips": ""
           }
         ]
     },
@@ -1612,102 +1912,122 @@
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Гост Фейс (Ghost Face)\\pics\\1.png",
-            "AddonDescription": "Длительность слежки без укрытия -0,25 с.\r\n"
+            "AddonDescription": "Длительность слежки без укрытия -0,25 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Гост Фейс (Ghost Face)\\pics\\2.png",
-            "AddonDescription": "Перезарядка савана -4 с.\r\n"
+            "AddonDescription": "Перезарядка савана -4 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 1,
             "AddonImagePath": "addons\\Killers\\Гост Фейс (Ghost Face)\\pics\\3.png",
-            "AddonDescription": "*Скорость при слежке (стоя/пригнувшись) +0,46/0,36 м/с.\r\n"
+            "AddonDescription": "*Скорость при слежке (стоя/пригнувшись) +0,46/0,36 м/с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Гост Фейс (Ghost Face)\\pics\\4.png",
-            "AddonDescription": "Длительность метки +5 с.\r\n"
+            "AddonDescription": "Длительность метки +5 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Гост Фейс (Ghost Face)\\pics\\5.png",
-            "AddonDescription": "Длительность слежки без укрытия -0,25 с.\r\nДлительность метки +5 с.\r\n"
+            "AddonDescription": "Длительность слежки без укрытия -0,25 с.\r\nДлительность метки +5 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 1,
             "AddonImagePath": "addons\\Killers\\Гост Фейс (Ghost Face)\\pics\\6.png",
-            "AddonDescription": "*Скорость пригнувшись +0,1 м/с.\r\n"
+            "AddonDescription": "*Скорость пригнувшись +0,1 м/с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Гост Фейс (Ghost Face)\\pics\\7.png",
-            "AddonDescription": "*Скорость при слежке (стоя/пригнувшись) +0,92/0,72 м/с.\r\n"
+            "AddonDescription": "*Скорость при слежке (стоя/пригнувшись) +0,92/0,72 м/с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Гост Фейс (Ghost Face)\\pics\\8.png",
-            "AddonDescription": "Перезарядка савана -6 с.\r\n"
+            "AddonDescription": "Перезарядка савана -6 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Гост Фейс (Ghost Face)\\pics\\9.png",
-            "AddonDescription": "Длительность инстинкта убийцы +1 с.\r\n"
+            "AddonDescription": "Длительность инстинкта убийцы +1 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Гост Фейс (Ghost Face)\\pics\\10.png",
-            "AddonDescription": "Длительность слежки без укрытия +0,75 с.\r\nДлительность слежки из-за укрытия -1 с.\r\n"
+            "AddonDescription": "Длительность слежки без укрытия +0,75 с.\r\nДлительность слежки из-за укрытия -1 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Гост Фейс (Ghost Face)\\pics\\11.png",
-            "AddonDescription": "*Скорость при слежке (стоя/пригнувшись) +1,38/1,08 м/с.\r\n"
+            "AddonDescription": "*Скорость при слежке (стоя/пригнувшись) +1,38/1,08 м/с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 1,
             "AddonImagePath": "addons\\Killers\\Гост Фейс (Ghost Face)\\pics\\12.png",
-            "AddonDescription": "*Скорость пригнувшись +0,2 м/с.\r\n"
+            "AddonDescription": "*Скорость пригнувшись +0,2 м/с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Гост Фейс (Ghost Face)\\pics\\13.png",
-            "AddonDescription": "Длительность метки +10 с.\r\n"
+            "AddonDescription": "Длительность метки +10 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Гост Фейс (Ghost Face)\\pics\\14.png",
-            "AddonDescription": "Длительность слежки без укрытия -0,5 с.\r\n"
+            "AddonDescription": "Длительность слежки без укрытия -0,5 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 5,
             "AddonImagePath": "addons\\Killers\\Гост Фейс (Ghost Face)\\pics\\15.png",
-            "AddonDescription": "Перезарядка савана -8 с.\r\n"
+            "AddonDescription": "Перезарядка савана -8 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Гост Фейс (Ghost Face)\\pics\\16.png",
-            "AddonDescription": "Длительность инстинкта убийцы +1,5 с.\r\nМаксимальная дистанция развоплощения -4 м.\r\n"
+            "AddonDescription": "Длительность инстинкта убийцы +1,5 с.\r\nМаксимальная дистанция развоплощения -4 м.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Гост Фейс (Ghost Face)\\pics\\17.png",
-            "AddonDescription": "Длительность слежки без укрытия -0,75 с.\r\n"
+            "AddonDescription": "Длительность слежки без укрытия -0,75 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Гост Фейс (Ghost Face)\\pics\\18.png",
-            "AddonDescription": "*Скорость пригнувшись +0,3 м/с.\r\n"
+            "AddonDescription": "*Скорость пригнувшись +0,3 м/с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Гост Фейс (Ghost Face)\\pics\\19.png",
-            "AddonDescription": "Максимальная дистанция развоплощения -8 м.\r\n"
+            "AddonDescription": "Максимальная дистанция развоплощения -8 м.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Гост Фейс (Ghost Face)\\pics\\20.png",
-            "AddonDescription": "Ауры выживших вне радиуса террора видны 4 секунды, когда помеченный выживший переходит в предсмертное состояние.\r\n"
+            "AddonDescription": "Ауры выживших вне радиуса террора видны 4 секунды, когда помеченный выживший переходит в предсмертное состояние.\r\n",
+            "Tips": ""
           }
         ]
     },
@@ -1717,104 +2037,124 @@
         "KillerDescription": "Скорость - 4,6 м/с.\r\nРадиус террора - 32 м.\r\nСкорость при подготовке разрыва - 3,86 м/с.\r\nСкорость разрыва - 18,4 м/с.\r\nМинимальная длительность подготовки разрыва - 0,65 с.\r\nМаксимальная длительность подготовки разрыва - 1 с.\r\nЗадержка после отмены разрыва - 0,45 с.\r\nЗадержка после поломки доски разрывом - 2 с.\r\nЗадержка после промаха/попадания разрывом - 2,25/3 с.\r\nДлительность прыжка - 0,6 с.\r\nКоличество порталов - 6.\r\nСкорость при телепортации - 20 м/с.\r\nДлительность \"Незаметности\" после телепортации - 3 с.\r\nПерезарядка телепортации - 10 с.\r\nДлительность запечатывания портала - 12 с.\r\nУстановка портала - 1 с.\r\nДлительность входа в портал - 1,5 с.\r\nРадиус эффекта портала (обнаружение+забывчивость) - 4 м.",
         "AddonInfo": [
           {
-            "Stars": 1,
+            "Stars": 0,
             "AddonImagePath": "addons\\Killers\\Демогоргон (Demogorgon)\\pics\\1.png",
-            "AddonDescription": "Телепортация разрушает входной портал.\r\nНа 200 очков больше за телепортацию.\r\n"
+            "AddonDescription": "Телепортация разрушает входной портал.\r\nНа 200 очков больше за телепортацию.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Демогоргон (Demogorgon)\\pics\\2.png",
-            "AddonDescription": "*Задержка после попадания разрывом -0,45 с.\r\n"
+            "AddonDescription": "*Задержка после попадания разрывом -0,45 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Демогоргон (Demogorgon)\\pics\\3.png",
-            "AddonDescription": "*Скорость при подготовке разрыва +0,16 м/с.\r\n"
+            "AddonDescription": "*Скорость при подготовке разрыва +0,16 м/с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Демогоргон (Demogorgon)\\pics\\4.png",
-            "AddonDescription": "*Длительность входа в портал -0,4 с.\r\n"
+            "AddonDescription": "*Длительность входа в портал -0,4 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Демогоргон (Demogorgon)\\pics\\5.png",
-            "AddonDescription": "Радиус обнаружения около активного портала +2,5 м.\r\n"
+            "AddonDescription": "Радиус обнаружения около активного портала +2,5 м.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Демогоргон (Demogorgon)\\pics\\6.png",
-            "AddonDescription": "*Длительность запечатывания портала +1,7 с.\r\n"
+            "AddonDescription": "*Длительность запечатывания портала +1,7 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Демогоргон (Demogorgon)\\pics\\7.png",
-            "AddonDescription": "*Скорость при телепортации +3 м/с.\r\n"
+            "AddonDescription": "*Скорость при телепортации +3 м/с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Демогоргон (Demogorgon)\\pics\\8.png",
-            "AddonDescription": "Задержка после промаха разрывом -0,25 с.\r\nКоличество порталов +1.\r\n"
+            "AddonDescription": "Задержка после промаха разрывом -0,25 с.\r\nКоличество порталов +1.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Демогоргон (Demogorgon)\\pics\\9.png",
-            "AddonDescription": "*Задержка после поломки доски разрывом -0,3 с.\r\n"
+            "AddonDescription": "*Задержка после поломки доски разрывом -0,3 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 5,
             "AddonImagePath": "addons\\Killers\\Демогоргон (Demogorgon)\\pics\\10.png",
-            "AddonDescription": "Показывает ауры выживших во время телепортации и 3 секунды после выхода.\r\n"
+            "AddonDescription": "Показывает ауры выживших во время телепортации и 3 секунды после выхода.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Демогоргон (Demogorgon)\\pics\\11.png",
-            "AddonDescription": "Во время телепортации подсвечивает жёлтым генераторы, которые чинятся.\r\n"
+            "AddonDescription": "Во время телепортации подсвечивает жёлтым генераторы, которые чинятся.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Демогоргон (Demogorgon)\\pics\\12.png",
-            "AddonDescription": "*Длительность запечатывания портала +1,2 с.\r\nРадиус обнаружения около активного портала +1 м.\r\n"
+            "AddonDescription": "*Длительность запечатывания портала +1,2 с.\r\nРадиус обнаружения около активного портала +1 м.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Демогоргон (Demogorgon)\\pics\\13.png",
-            "AddonDescription": "Накладывает эффект \"Слепота\" на выживших, взаимодействоваших с порталом, на 60 с.\r\n"
+            "AddonDescription": "Накладывает эффект \"Слепота\" на выживших, взаимодействоваших с порталом, на 60 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Демогоргон (Demogorgon)\\pics\\14.png",
-            "AddonDescription": "Длительность \"Незаметности\" после телепортации +0,5 с.\r\n"
+            "AddonDescription": "Длительность \"Незаметности\" после телепортации +0,5 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Демогоргон (Demogorgon)\\pics\\15.png",
-            "AddonDescription": "*Скорость при телепортации +6 м/с.\r\nКоличество порталов -2.\r\n"
+            "AddonDescription": "*Скорость при телепортации +6 м/с.\r\nКоличество порталов -2.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Демогоргон (Demogorgon)\\pics\\16.png",
-            "AddonDescription": "Подсвечивает выживших возле активного портала инстинктом убийцы без использования разрыва.\r\nРадиус обнаружения около активного портала -1 м.\r\n"
+            "AddonDescription": "Подсвечивает выживших возле активного портала инстинктом убийцы без использования разрыва.\r\nРадиус обнаружения около активного портала -1 м.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Демогоргон (Demogorgon)\\pics\\17.png",
-            "AddonDescription": "Длительность \"Незаметности\" после телепортации +3 с.\r\n"
+            "AddonDescription": "Длительность \"Незаметности\" после телепортации +3 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Демогоргон (Demogorgon)\\pics\\18.png",
-            "AddonDescription": "*Длительность запечатывания портала +3,4 с.\r\n"
+            "AddonDescription": "*Длительность запечатывания портала +3,4 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Демогоргон (Demogorgon)\\pics\\19.png",
-            "AddonDescription": "Перезарядка телепортации -1,5 с.\r\n"
+            "AddonDescription": "Перезарядка телепортации -1,5 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 5,
             "AddonImagePath": "addons\\Killers\\Демогоргон (Demogorgon)\\pics\\20.png",
-            "AddonDescription": "Выход из портала происходит бесшумно, но медленнее.\r\nДлительность \"Незаметности\" после телепортации +8 с.\r\n"
+            "AddonDescription": "Выход из портала происходит бесшумно, но медленнее.\r\nДлительность \"Незаметности\" после телепортации +8 с.\r\n",
+            "Tips": ""
           }
         ]
     },
@@ -1826,102 +2166,122 @@
           {
             "Stars": 1,
             "AddonImagePath": "addons\\Killers\\Они (Oni)\\pics\\1.png",
-            "AddonDescription": "Скорость движения ШК при поглощении +4 м/с.\r\n"
+            "AddonDescription": "Скорость движения ШК при поглощении +4 м/с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 1,
             "AddonImagePath": "addons\\Killers\\Они (Oni)\\pics\\2.png",
-            "AddonDescription": "Дальность видимости ауры ШК +2 м.\r\n"
+            "AddonDescription": "Дальность видимости ауры ШК +2 м.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Они (Oni)\\pics\\3.png",
-            "AddonDescription": "Активация кровавой ярости -0,5 с.\r\nЗадержка по окончании кровавой ярости -0,5 с.\r\n"
+            "AddonDescription": "Активация кровавой ярости -0,5 с.\r\nЗадержка по окончании кровавой ярости -0,5 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Они (Oni)\\pics\\4.png",
-            "AddonDescription": "Скорость при поглощении ШК +0,3 м/с.\r\n"
+            "AddonDescription": "Скорость при поглощении ШК +0,3 м/с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 1,
             "AddonImagePath": "addons\\Killers\\Они (Oni)\\pics\\5.png",
-            "AddonDescription": "Пассивное накопление способности +0,1 зар/с.\r\n"
+            "AddonDescription": "Пассивное накопление способности +0,1 зар/с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Они (Oni)\\pics\\6.png",
-            "AddonDescription": "Активация кровавой ярости -0,5 с.\r\nЗадержка по окончании кровавой ярости -0,5 с.\r\nШтраф за попадание по выжившему меньше на 2 с.\r\n"
+            "AddonDescription": "Активация кровавой ярости -0,5 с.\r\nЗадержка по окончании кровавой ярости -0,5 с.\r\nШтраф за попадание по выжившему меньше на 2 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 5,
             "AddonImagePath": "addons\\Killers\\Они (Oni)\\pics\\7.png",
-            "AddonDescription": "Длительность кровавой ярости +6 с.\r\n"
+            "AddonDescription": "Длительность кровавой ярости +6 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 1,
             "AddonImagePath": "addons\\Killers\\Они (Oni)\\pics\\8.png",
-            "AddonDescription": "Дальность видимости ауры ШК +3 м.\r\n"
+            "AddonDescription": "Дальность видимости ауры ШК +3 м.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Они (Oni)\\pics\\9.png",
-            "AddonDescription": "Скорость при поглощении ШК +0,6 м/с.\r\n"
+            "AddonDescription": "Скорость при поглощении ШК +0,6 м/с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Они (Oni)\\pics\\10.png",
-            "AddonDescription": "Выжившие видят ШК.\r\nРаскрывает ауру выжившего, столкнувшегося с ШК, на 2 с.\r\nЭффект накапливается.\r\n"
+            "AddonDescription": "Выжившие видят ШК.\r\nРаскрывает ауру выжившего, столкнувшегося с ШК, на 2 с.\r\nЭффект накапливается.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 5,
             "AddonImagePath": "addons\\Killers\\Они (Oni)\\pics\\11.png",
-            "AddonDescription": "Длительность кровавой ярости +8 с.\r\n"
+            "AddonDescription": "Длительность кровавой ярости +8 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Они (Oni)\\pics\\12.png",
-            "AddonDescription": "Период пассивного выпадения ШК у раненных выживших -0,5 с.\r\nЗа особые действия оставляют на 1 ШК больше.\r\n"
+            "AddonDescription": "Период пассивного выпадения ШК у раненных выживших -0,5 с.\r\nЗа особые действия оставляют на 1 ШК больше.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Они (Oni)\\pics\\13.png",
-            "AddonDescription": "Пассивное накопление способности +0,2 зар/с.\r\n"
+            "AddonDescription": "Пассивное накопление способности +0,2 зар/с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 5,
             "AddonImagePath": "addons\\Killers\\Они (Oni)\\pics\\14.png",
-            "AddonDescription": "Подготовка рывка демона -1 с.\r\n"
+            "AddonDescription": "Подготовка рывка демона -1 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Они (Oni)\\pics\\15.png",
-            "AddonDescription": "Скорость рывка демона +0,64 м/с.\r\n"
+            "AddonDescription": "Скорость рывка демона +0,64 м/с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Они (Oni)\\pics\\16.png",
-            "AddonDescription": "Штраф за попадание по выжившему меньше на 4 с.\r\n"
+            "AddonDescription": "Штраф за попадание по выжившему меньше на 4 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Они (Oni)\\pics\\17.png",
-            "AddonDescription": "Период пассивного выпадения ШК у раненных выживших -1 с.\r\nЗа особые действия оставляют на 1 ШК больше.\r\n"
+            "AddonDescription": "Период пассивного выпадения ШК у раненных выживших -1 с.\r\nЗа особые действия оставляют на 1 ШК больше.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 5,
             "AddonImagePath": "addons\\Killers\\Они (Oni)\\pics\\18.png",
-            "AddonDescription": "Длительность кровавой ярости +10 с.\r\n"
+            "AddonDescription": "Длительность кровавой ярости +10 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Они (Oni)\\pics\\19.png",
-            "AddonDescription": "Скорость рывка демона +1 м/с.\r\n"
+            "AddonDescription": "Скорость рывка демона +1 м/с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Они (Oni)\\pics\\20.png",
-            "AddonDescription": "Раскрывает ауры всех выживших в радиусе 12 метров при промахе ударом демона.\r\n"
+            "AddonDescription": "Раскрывает ауры всех выживших в радиусе 12 метров при промахе ударом демона.\r\n",
+            "Tips": ""
           }
         ]
     },
@@ -1933,102 +2293,122 @@
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Стрелок (Deathslinger)\\pics\\1.png",
-            "AddonDescription": "Задержка после промаха -0,25 с.\r\n"
+            "AddonDescription": "Задержка после промаха -0,25 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Стрелок (Deathslinger)\\pics\\2.png",
-            "AddonDescription": "Скорость притягивания +0,1 м/с.\r\n"
+            "AddonDescription": "Скорость притягивания +0,1 м/с.\r\n",
+            "Tips": ""
           },
           {
-            "Stars": 1,
+            "Stars": 0,
             "AddonImagePath": "addons\\Killers\\Стрелок (Deathslinger)\\pics\\3.png",
-            "AddonDescription": "Скорость поломки цепи больше на 5 зарядов/с.\r\nНа 50% очков больше.\r\n"
+            "AddonDescription": "Скорость поломки цепи больше на 5 зарядов/с.\r\nНа 50% очков больше.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Стрелок (Deathslinger)\\pics\\4.png",
-            "AddonDescription": "Длительность перезарядки -0,25 с.\r\n"
+            "AddonDescription": "Длительность перезарядки -0,25 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Стрелок (Deathslinger)\\pics\\5.png",
-            "AddonDescription": "Удар по притянутому выжившему накладывает эффект \"Травма\" до исцеления.\r\n"
+            "AddonDescription": "Удар по притянутому выжившему накладывает эффект \"Травма\" до исцеления.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Стрелок (Deathslinger)\\pics\\6.png",
-            "AddonDescription": "Длительность латания глубокой раны +1,5 с.\r\n"
+            "AddonDescription": "Длительность латания глубокой раны +1,5 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 1,
             "AddonImagePath": "addons\\Killers\\Стрелок (Deathslinger)\\pics\\7.png",
-            "AddonDescription": "Радиус террора во время прицеливания -4 м.\r\n*Скорость во время прицеливания -0,22 м/с.\r\n"
+            "AddonDescription": "Радиус террора во время прицеливания -4 м.\r\n*Скорость во время прицеливания -0,22 м/с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Стрелок (Deathslinger)\\pics\\8.png",
-            "AddonDescription": "*Скорость во время прицеливания +0,22 м/с.\r\n"
+            "AddonDescription": "*Скорость во время прицеливания +0,22 м/с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Стрелок (Deathslinger)\\pics\\9.png",
-            "AddonDescription": "Длительность оглушения -0,5 с.\r\n"
+            "AddonDescription": "Длительность оглушения -0,5 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Стрелок (Deathslinger)\\pics\\10.png",
-            "AddonDescription": "При попадании гарпуном по выжившему дальше 15 метров накладывается эффект \"Уязвимость\" на время притягивания.\r\n"
+            "AddonDescription": "При попадании гарпуном по выжившему дальше 15 метров накладывается эффект \"Уязвимость\" на время притягивания.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Стрелок (Deathslinger)\\pics\\11.png",
-            "AddonDescription": "Длительность перезарядки -0,5 с.\r\n"
+            "AddonDescription": "Длительность перезарядки -0,5 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Стрелок (Deathslinger)\\pics\\12.png",
-            "AddonDescription": "*Скорость во время прицеливания +0,44 м/с.\r\n"
+            "AddonDescription": "*Скорость во время прицеливания +0,44 м/с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Стрелок (Deathslinger)\\pics\\13.png",
-            "AddonDescription": "Задержка после промаха -0,5 с.\r\n"
+            "AddonDescription": "Задержка после промаха -0,5 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Стрелок (Deathslinger)\\pics\\14.png",
-            "AddonDescription": "На выживших, сорвавшихся с цепи, накладывается эффект \"Травма\" до исцеления.\r\n"
+            "AddonDescription": "На выживших, сорвавшихся с цепи, накладывается эффект \"Травма\" до исцеления.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Стрелок (Deathslinger)\\pics\\15.png",
-            "AddonDescription": "Скорость притягивания +0,2 м/с.\r\n"
+            "AddonDescription": "Скорость притягивания +0,2 м/с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 5,
             "AddonImagePath": "addons\\Killers\\Стрелок (Deathslinger)\\pics\\16.png",
-            "AddonDescription": "Прочность цепи +10 зарядов.\r\n"
+            "AddonDescription": "Прочность цепи +10 зарядов.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 1,
             "AddonImagePath": "addons\\Killers\\Стрелок (Deathslinger)\\pics\\17.png",
-            "AddonDescription": "Радиус террора во время прицеливания -8 м.\r\n*Скорость во время прицеливания -0,44 м/с.\r\n"
+            "AddonDescription": "Радиус террора во время прицеливания -8 м.\r\n*Скорость во время прицеливания -0,44 м/с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Стрелок (Deathslinger)\\pics\\18.png",
-            "AddonDescription": "Длительность оглушения -1 с.\r\n"
+            "AddonDescription": "Длительность оглушения -1 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Стрелок (Deathslinger)\\pics\\19.png",
-            "AddonDescription": "Длительность латания глубокой раны +3,5 с.\r\n"
+            "AddonDescription": "Длительность латания глубокой раны +3,5 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Стрелок (Deathslinger)\\pics\\20.png",
-            "AddonDescription": "При попадании гарпуном по выжившему ауры других выживших в радиусе террора раскрываются на 6 секунд.\r\n"
+            "AddonDescription": "При попадании гарпуном по выжившему ауры других выживших в радиусе террора раскрываются на 6 секунд.\r\n",
+            "Tips": ""
           }
         ]
     },
@@ -2040,102 +2420,122 @@
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Палач (Executioner)\\pics\\1.png",
-            "AddonDescription": "Длительность существования борозд +10 с.\r\n"
+            "AddonDescription": "Длительность существования борозд +10 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Палач (Executioner)\\pics\\2.png",
-            "AddonDescription": "Перезарядка обрядов осуждения -2 с.\r\n"
+            "AddonDescription": "Перезарядка обрядов осуждения -2 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Палач (Executioner)\\pics\\3.png",
-            "AddonDescription": "Длительность обрядов осуждения +1 с.\r\n"
+            "AddonDescription": "Длительность обрядов осуждения +1 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Палач (Executioner)\\pics\\4.png",
-            "AddonDescription": "Дальность кары обречённых +0,5 м.\r\n"
+            "AddonDescription": "Дальность кары обречённых +0,5 м.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 5,
             "AddonImagePath": "addons\\Killers\\Палач (Executioner)\\pics\\5.png",
-            "AddonDescription": "Дальность кары обречённых +1 м.\r\n"
+            "AddonDescription": "Дальность кары обречённых +1 м.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Палач (Executioner)\\pics\\6.png",
-            "AddonDescription": "Длительность обрядов осуждения +1,5 с.\r\n"
+            "AddonDescription": "Длительность обрядов осуждения +1,5 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Палач (Executioner)\\pics\\7.png",
-            "AddonDescription": "Длительность инстинкта убийцы +0,5 с.\r\n"
+            "AddonDescription": "Длительность инстинкта убийцы +0,5 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Палач (Executioner)\\pics\\8.png",
-            "AddonDescription": "Перезарядка обрядов осуждения -3 с.\r\n"
+            "AddonDescription": "Перезарядка обрядов осуждения -3 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Палач (Executioner)\\pics\\9.png",
-            "AddonDescription": "Длительность существования борозд +15 с.\r\n"
+            "AddonDescription": "Длительность существования борозд +15 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Палач (Executioner)\\pics\\10.png",
-            "AddonDescription": "Накладывает эффект \"Незаметность\", пока Палач стоит на борозде обрядов осуждения.\r\n"
+            "AddonDescription": "Накладывает эффект \"Незаметность\", пока Палач стоит на борозде обрядов осуждения.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Палач (Executioner)\\pics\\11.png",
-            "AddonDescription": "Перезарядка обрядов осуждения -4 с.\r\n"
+            "AddonDescription": "Перезарядка обрядов осуждения -4 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Палач (Executioner)\\pics\\12.png",
-            "AddonDescription": "Длительность обрядов осуждения +2 с.\r\n"
+            "AddonDescription": "Длительность обрядов осуждения +2 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Палач (Executioner)\\pics\\13.png",
-            "AddonDescription": "Длительность инстинкта убийцы +1 с.\r\n"
+            "AddonDescription": "Длительность инстинкта убийцы +1 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Палач (Executioner)\\pics\\14.png",
-            "AddonDescription": "Длительность существования борозд +20 с.\r\n"
+            "AddonDescription": "Длительность существования борозд +20 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 5,
             "AddonImagePath": "addons\\Killers\\Палач (Executioner)\\pics\\15.png",
-            "AddonDescription": "Дальность кары обречённых +1,5 м.\r\n"
+            "AddonDescription": "Дальность кары обречённых +1,5 м.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Палач (Executioner)\\pics\\16.png",
-            "AddonDescription": "Длительность инстинкта убийцы +1,5 с.\r\n"
+            "AddonDescription": "Длительность инстинкта убийцы +1,5 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Палач (Executioner)\\pics\\17.png",
-            "AddonDescription": "Выживший под эффектом обрядов осуждения получает эффект \"Слепота\" на 60 с.\r\n"
+            "AddonDescription": "Выживший под эффектом обрядов осуждения получает эффект \"Слепота\" на 60 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Палач (Executioner)\\pics\\18.png",
-            "AddonDescription": "Выживший под эффектом обрядов осуждения получает эффект \"Забывчивость\" на 15 с.\r\n"
+            "AddonDescription": "Выживший под эффектом обрядов осуждения получает эффект \"Забывчивость\" на 15 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Палач (Executioner)\\pics\\19.png",
-            "AddonDescription": "Раненный выживший под эффектом обрядов осуждения получает эффект \"Кровотечение\" до исцеления.\r\n"
+            "AddonDescription": "Раненный выживший под эффектом обрядов осуждения получает эффект \"Кровотечение\" до исцеления.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Палач (Executioner)\\pics\\20.png",
-            "AddonDescription": "Ауры выживших под эффектом обрядов осуждения раскрываются на 6 секунд, когда Палач отправляет выжившего в клетку искупления.\r\n"
+            "AddonDescription": "Ауры выживших под эффектом обрядов осуждения раскрываются на 6 секунд, когда Палач отправляет выжившего в клетку искупления.\r\n",
+            "Tips": ""
           }
         ]
     },
@@ -2145,104 +2545,124 @@
         "KillerDescription": "Скорость - 4,6 м/с.\r\nРадиус террора - 32 м.\r\nСкорость при ускорении - 9,2 м/с.\r\nКоличество зарядов - 5.\r\nДлительность восстановления заряда - 2 с.\r\nДлительность интервала между ускорениями - 1,25 с.\r\nДлительность ускорения - до 3 с.\r\nДлительность ускорения с ударом - до 4 с.\r\nДлительность усталости - 2,5 с.\r\nДлительность усталости после удара по выжившему - 3 с.\r\nСкорость поворота во время ускорения - 9 град/с.\r\nСкорость поворота при смертельном ускорении - 16 град/с.",
         "AddonInfo": [
           {
-            "Stars": 1,
+            "Stars": 0,
             "AddonImagePath": "addons\\Killers\\Мор (Blight)\\pics\\1.png",
-            "AddonDescription": "*Скорость при ускорении -1,38 м/с.\r\nНа 100% очков больше.\r\n"
+            "AddonDescription": "*Скорость при ускорении -1,38 м/с.\r\nНа 100% очков больше.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Мор (Blight)\\pics\\2.png",
-            "AddonDescription": "Длительность усталости -0,25 с.\r\n"
+            "AddonDescription": "Длительность усталости -0,25 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Мор (Blight)\\pics\\3.png",
-            "AddonDescription": "После столкновения автоматически поворачивает в сторону ближайшего выжившего в радиусе 16 м.\r\n"
+            "AddonDescription": "После столкновения автоматически поворачивает в сторону ближайшего выжившего в радиусе 16 м.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 1,
             "AddonImagePath": "addons\\Killers\\Мор (Blight)\\pics\\4.png",
-            "AddonDescription": "Показывает потенциальное место столкновения.\r\n"
+            "AddonDescription": "Показывает потенциальное место столкновения.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Мор (Blight)\\pics\\5.png",
-            "AddonDescription": "Длительность восстановления заряда -0,33 с.\r\nКоличество зарядов -1.\r\n"
+            "AddonDescription": "Длительность восстановления заряда -0,33 с.\r\nКоличество зарядов -1.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 1,
             "AddonImagePath": "addons\\Killers\\Мор (Blight)\\pics\\6.png",
-            "AddonDescription": "Длительность интервала между ускорениями +0,75 с.\r\n"
+            "AddonDescription": "Длительность интервала между ускорениями +0,75 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Мор (Blight)\\pics\\7.png",
-            "AddonDescription": "Скорость поворота во время ускорения +1 град/с.\r\n"
+            "AddonDescription": "Скорость поворота во время ускорения +1 град/с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Мор (Blight)\\pics\\8.png",
-            "AddonDescription": "Длительность усталости -0,5 с.\r\n"
+            "AddonDescription": "Длительность усталости -0,5 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Мор (Blight)\\pics\\9.png",
-            "AddonDescription": "*Скорость за каждое последующее ускорение +4%.\r\n(+0/+0,37/+0,74/+1,1/+1,5/+1,8/+2,2 м/с)\r\n"
+            "AddonDescription": "*Скорость за каждое последующее ускорение +4%.\r\n(+0/+0,37/+0,74/+1,1/+1,5/+1,8/+2,2 м/с)\r\n",
+            "Tips": ""
           },
           {
             "Stars": 5,
             "AddonImagePath": "addons\\Killers\\Мор (Blight)\\pics\\10.png",
-            "AddonDescription": "После использования всех жетонов удар на последнем ускорении переводит в предсмертное состояние.\r\n"
+            "AddonDescription": "После использования всех жетонов удар на последнем ускорении переводит в предсмертное состояние.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Мор (Blight)\\pics\\11.png",
-            "AddonDescription": "Скорость поворота во время ускорения +1,5 град/с.\r\n"
+            "AddonDescription": "Скорость поворота во время ускорения +1,5 град/с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 1,
             "AddonImagePath": "addons\\Killers\\Мор (Blight)\\pics\\12.png",
-            "AddonDescription": "Длительность интервала между ускорениями +1 с.\r\n"
+            "AddonDescription": "Длительность интервала между ускорениями +1 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 5,
             "AddonImagePath": "addons\\Killers\\Мор (Blight)\\pics\\13.png",
-            "AddonDescription": "Во время столкновения ауры выживших в радиусе 8 метров раскрываются на 3,5 с.\r\n"
+            "AddonDescription": "Во время столкновения ауры выживших в радиусе 8 метров раскрываются на 3,5 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 5,
             "AddonImagePath": "addons\\Killers\\Мор (Blight)\\pics\\14.png",
-            "AddonDescription": "*Скорость за каждое последующее ускорение +6%.\r\n(+0/+0,55/+1,1/+1,64/+2,2/+2,76/+3,3 м/с)\r\n"
+            "AddonDescription": "*Скорость за каждое последующее ускорение +6%.\r\n(+0/+0,55/+1,1/+1,64/+2,2/+2,76/+3,3 м/с)\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Мор (Blight)\\pics\\15.png",
-            "AddonDescription": "Длительность восстановления заряда -0,75 с.\r\nУгол обзора во время ускорения +50%.\r\nКоличество зарядов +2.\r\nСкорость поворота во время ускорения -8 град/с.\r\n"
+            "AddonDescription": "Длительность восстановления заряда -0,75 с.\r\nУгол обзора во время ускорения +50%.\r\nКоличество зарядов +2.\r\nСкорость поворота во время ускорения -8 град/с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Мор (Blight)\\pics\\16.png",
-            "AddonDescription": "Эффект \"Незаметность\" во время ускорения.\r\n"
+            "AddonDescription": "Эффект \"Незаметность\" во время ускорения.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Мор (Blight)\\pics\\17.png",
-            "AddonDescription": "Удар по выжившему во время ускорения блокирует доски в радиусе 12 м на 6 с.\r\n"
+            "AddonDescription": "Удар по выжившему во время ускорения блокирует доски в радиусе 12 м на 6 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Мор (Blight)\\pics\\18.png",
-            "AddonDescription": "Выжившие получают сложную проверку реакции каждый раз, когда Мор вбегает в радиусе 16 м.\r\nПри этом Мор должен быть вне этого радиуса в начале ускорения.\r\n"
+            "AddonDescription": "Выжившие получают сложную проверку реакции каждый раз, когда Мор вбегает в радиусе 16 м.\r\nПри этом Мор должен быть вне этого радиуса в начале ускорения.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 5,
             "AddonImagePath": "addons\\Killers\\Мор (Blight)\\pics\\19.png",
-            "AddonDescription": "Моментальное восстановление зарядов после удара по выжившему во время ускорения.\r\n"
+            "AddonDescription": "Моментальное восстановление зарядов после удара по выжившему во время ускорения.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 5,
             "AddonImagePath": "addons\\Killers\\Мор (Blight)\\pics\\20.png",
-            "AddonDescription": "После столкновения на выживших в радиусе 16 м накладывается 15% замедление на 3 с.\r\nДоски и ломаемые стены ломаются от столкновения.\r\nПри этом задержка - 1,5 с.\r\n"
+            "AddonDescription": "После столкновения на выживших в радиусе 16 м накладывается 15% замедление на 3 с.\r\nДоски и ломаемые стены ломаются от столкновения.\r\nПри этом задержка - 1,5 с.\r\n",
+            "Tips": ""
           }
         ]
     },
@@ -2254,102 +2674,122 @@
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Близнецы (Twins)\\pics\\1.png",
-            "AddonDescription": "Длительность подготовки прыжка Виктора -0,25 с.\r\n"
+            "AddonDescription": "Длительность подготовки прыжка Виктора -0,25 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Близнецы (Twins)\\pics\\2.png",
-            "AddonDescription": "Длительность активации Виктора -0,5 с.\r\n"
+            "AddonDescription": "Длительность активации Виктора -0,5 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Близнецы (Twins)\\pics\\3.png",
-            "AddonDescription": "Радиус воплей Виктора +2 м.\r\n"
+            "AddonDescription": "Радиус воплей Виктора +2 м.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Близнецы (Twins)\\pics\\4.png",
-            "AddonDescription": "Показывает место прыжка Виктора.\r\n"
+            "AddonDescription": "Показывает место прыжка Виктора.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Близнецы (Twins)\\pics\\5.png",
-            "AddonDescription": "Радиус воплей Виктора +4 м.\r\n"
+            "AddonDescription": "Радиус воплей Виктора +4 м.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Близнецы (Twins)\\pics\\6.png",
-            "AddonDescription": "Время необходимое, чтобы раздавить Виктора +0,15 с.\r\n"
+            "AddonDescription": "Время необходимое, чтобы раздавить Виктора +0,15 с.\r\n",
+            "Tips": ""
           },
           {
-            "Stars": 1,
+            "Stars": 0,
             "AddonImagePath": "addons\\Killers\\Близнецы (Twins)\\pics\\7.png",
-            "AddonDescription": "Вопли Виктора прекращаются при готовом наскоке.\r\n"
+            "AddonDescription": "Вопли Виктора прекращаются при готовом наскоке.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Близнецы (Twins)\\pics\\8.png",
-            "AddonDescription": "Длительность переключения на Шарлотту -0,5 с.\r\n"
+            "AddonDescription": "Длительность переключения на Шарлотту -0,5 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Близнецы (Twins)\\pics\\9.png",
-            "AddonDescription": "На выжившего, снявшего Виктора, накладывается эффект \"Слепота\" на 15 с.\r\n"
+            "AddonDescription": "На выжившего, снявшего Виктора, накладывается эффект \"Слепота\" на 15 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 5,
             "AddonImagePath": "addons\\Killers\\Близнецы (Twins)\\pics\\10.png",
-            "AddonDescription": "Накладывает эффект \"Незаметность\" на 20 секунд, когда Шарлотта получает контроль.\r\n"
+            "AddonDescription": "Накладывает эффект \"Незаметность\" на 20 секунд, когда Шарлотта получает контроль.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Близнецы (Twins)\\pics\\11.png",
-            "AddonDescription": "На выжившего, снявшего Виктора, накладывается эффект \"Ослабление\" на 20 с.\r\n"
+            "AddonDescription": "На выжившего, снявшего Виктора, накладывается эффект \"Ослабление\" на 20 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Близнецы (Twins)\\pics\\12.png",
-            "AddonDescription": "Задержка после наскока Виктора -0,5 с.\r\n"
+            "AddonDescription": "Задержка после наскока Виктора -0,5 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Близнецы (Twins)\\pics\\13.png",
-            "AddonDescription": "Длительность снятия Виктора +2 с.\r\n"
+            "AddonDescription": "Длительность снятия Виктора +2 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Близнецы (Twins)\\pics\\14.png",
-            "AddonDescription": "На выжившего, снявшего Виктора, накладывается эффект \"Кровотечение\" до исцеления.\r\n"
+            "AddonDescription": "На выжившего, снявшего Виктора, накладывается эффект \"Кровотечение\" до исцеления.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Близнецы (Twins)\\pics\\15.png",
-            "AddonDescription": "Скорость Виктора +0,4 м/с.\r\n"
+            "AddonDescription": "Скорость Виктора +0,4 м/с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Близнецы (Twins)\\pics\\16.png",
-            "AddonDescription": "Раскрывает ауру выжившего, раздавившего Виктора, на 6 с.\r\n"
+            "AddonDescription": "Раскрывает ауру выжившего, раздавившего Виктора, на 6 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Близнецы (Twins)\\pics\\17.png",
-            "AddonDescription": "Выживший роняет предмет, когда на него напрыгивает Виктор.\r\n"
+            "AddonDescription": "Выживший роняет предмет, когда на него напрыгивает Виктор.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 5,
             "AddonImagePath": "addons\\Killers\\Близнецы (Twins)\\pics\\18.png",
-            "AddonDescription": "Скорость Виктора +0,6 м/с.\r\n"
+            "AddonDescription": "Скорость Виктора +0,6 м/с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Близнецы (Twins)\\pics\\19.png",
-            "AddonDescription": "Накладывает на выживших в радиусе воплей Виктора эффект \"Забывчивость\".\r\n"
+            "AddonDescription": "Накладывает на выживших в радиусе воплей Виктора эффект \"Забывчивость\".\r\n",
+            "Tips": ""
           },
           {
             "Stars": 5,
             "AddonImagePath": "addons\\Killers\\Близнецы (Twins)\\pics\\20.png",
-            "AddonDescription": "На выжившего, раздавившего Виктора, накладывается эффект \"Уязвимость\" на 30 с.\r\n"
+            "AddonDescription": "На выжившего, раздавившего Виктора, накладывается эффект \"Уязвимость\" на 30 с.\r\n",
+            "Tips": ""
           }
         ]
     },
@@ -2361,102 +2801,122 @@
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Трюкач (Trickster)\\pics\\1.png",
-            "AddonDescription": "Количество ножей +4.\r\n"
+            "AddonDescription": "Количество ножей +4.\r\n",
+            "Tips": ""
           },
           {
-            "Stars": 1,
+            "Stars": 0,
             "AddonImagePath": "addons\\Killers\\Трюкач (Trickster)\\pics\\2.png",
-            "AddonDescription": "Количество порезов для ранения +1.\r\nНа 100% очков больше.\r\n"
+            "AddonDescription": "Количество порезов для ранения +1.\r\nНа 100% очков больше.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Трюкач (Trickster)\\pics\\3.png",
-            "AddonDescription": "Скорость во время метания ножей +0,04 м/с.\r\n"
+            "AddonDescription": "Скорость во время метания ножей +0,04 м/с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Трюкач (Trickster)\\pics\\4.png",
-            "AddonDescription": "Длительность удержания Кульминации +2 с.\r\n"
+            "AddonDescription": "Длительность удержания Кульминации +2 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Трюкач (Trickster)\\pics\\5.png",
-            "AddonDescription": "Длительность удержания Кульминации +5 с.\r\n"
+            "AddonDescription": "Длительность удержания Кульминации +5 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Трюкач (Trickster)\\pics\\6.png",
-            "AddonDescription": "Время, через которое порезы начинают пропадать, +2 с.\r\n"
+            "AddonDescription": "Время, через которое порезы начинают пропадать, +2 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Трюкач (Trickster)\\pics\\7.png",
-            "AddonDescription": "Длительность Кульминации за каждое попадание ножом +0,2 с.\r\n"
+            "AddonDescription": "Длительность Кульминации за каждое попадание ножом +0,2 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Трюкач (Trickster)\\pics\\8.png",
-            "AddonDescription": "Начальный счётчик брошенных ножей - 1.\r\n"
+            "AddonDescription": "Начальный счётчик брошенных ножей - 1.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Трюкач (Trickster)\\pics\\9.png",
-            "AddonDescription": "Скорость во время метания ножей +0,1 м/с.\r\n"
+            "AddonDescription": "Скорость во время метания ножей +0,1 м/с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 5,
             "AddonImagePath": "addons\\Killers\\Трюкач (Trickster)\\pics\\10.png",
-            "AddonDescription": "На выжившего, имеющего 4 или 5 порезов, накладывается эффект \"Уязвимость\".\r\n"
+            "AddonDescription": "На выжившего, имеющего 4 или 5 порезов, накладывается эффект \"Уязвимость\".\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Трюкач (Trickster)\\pics\\11.png",
-            "AddonDescription": "*Длительность перезарядки в шкафу -0,8 с.\r\n"
+            "AddonDescription": "*Длительность перезарядки в шкафу -0,8 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Трюкач (Trickster)\\pics\\12.png",
-            "AddonDescription": "Длительность Кульминации за каждое попадание ножом +0,3 с.\r\n"
+            "AddonDescription": "Длительность Кульминации за каждое попадание ножом +0,3 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Трюкач (Trickster)\\pics\\13.png",
-            "AddonDescription": "Время, через которое порезы начинают пропадать, +3 с.\r\n"
+            "AddonDescription": "Время, через которое порезы начинают пропадать, +3 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Трюкач (Trickster)\\pics\\14.png",
-            "AddonDescription": "Начальный счётчик брошенных ножей - 2.\r\n"
+            "AddonDescription": "Начальный счётчик брошенных ножей - 2.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Трюкач (Trickster)\\pics\\15.png",
-            "AddonDescription": "Количество ножей +8.\r\n"
+            "AddonDescription": "Количество ножей +8.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Трюкач (Trickster)\\pics\\16.png",
-            "AddonDescription": "Ножи дважды отскакивают от окружения.\r\n"
+            "AddonDescription": "Ножи дважды отскакивают от окружения.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 5,
             "AddonImagePath": "addons\\Killers\\Трюкач (Trickster)\\pics\\17.png",
-            "AddonDescription": "Ножи разбиваются на осколки, нанося 0,5 порезов ближайшим выжившим.\r\n"
+            "AddonDescription": "Ножи разбиваются на осколки, нанося 0,5 порезов ближайшим выжившим.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Трюкач (Trickster)\\pics\\18.png",
-            "AddonDescription": "Аура выжившего, имеющего 5 порезов, раскрывается на 6 с.\r\n"
+            "AddonDescription": "Аура выжившего, имеющего 5 порезов, раскрывается на 6 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 5,
             "AddonImagePath": "addons\\Killers\\Трюкач (Trickster)\\pics\\19.png",
-            "AddonDescription": "Ножи проходят сквозь выживших.\r\nТакой нож нанесёт 0,5 порезов.\r\n"
+            "AddonDescription": "Ножи проходят сквозь выживших.\r\nТакой нож нанесёт 0,5 порезов.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Трюкач (Trickster)\\pics\\20.png",
-            "AddonDescription": "Окончание Кульминации восполняет весь запас ножей.\r\n"
+            "AddonDescription": "Окончание Кульминации восполняет весь запас ножей.\r\n",
+            "Tips": ""
           }
         ]
     },
@@ -2468,102 +2928,122 @@
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Немезис (Nemesis)\\pics\\1.png",
-            "AddonDescription": "Радиус обнаружения зомби +2 м.\r\nУгол обнаружения зомби +10 град.\r\n"
+            "AddonDescription": "Радиус обнаружения зомби +2 м.\r\nУгол обнаружения зомби +10 град.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Немезис (Nemesis)\\pics\\2.png",
-            "AddonDescription": "Раскрывает ауру зомби, который ударил выжившего, на 6 с.\r\n"
+            "AddonDescription": "Раскрывает ауру зомби, который ударил выжившего, на 6 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Немезис (Nemesis)\\pics\\3.png",
-            "AddonDescription": "Длительность введения вакцины +2 с.\r\nДлительность инстинкта убийцы +1,5 с.\r\n"
+            "AddonDescription": "Длительность введения вакцины +2 с.\r\nДлительность инстинкта убийцы +1,5 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Немезис (Nemesis)\\pics\\4.png",
-            "AddonDescription": "Скорость зомби +0,25 м/с.\r\n"
+            "AddonDescription": "Скорость зомби +0,25 м/с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Немезис (Nemesis)\\pics\\5.png",
-            "AddonDescription": "Удар щупальцем по зомби даёт +1,5 заряда (вместо +1).\r\n"
+            "AddonDescription": "Удар щупальцем по зомби даёт +1,5 заряда (вместо +1).\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Немезис (Nemesis)\\pics\\6.png",
-            "AddonDescription": "Скорость зомби +0,5 м/с.\r\n"
+            "AddonDescription": "Скорость зомби +0,5 м/с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 5,
             "AddonImagePath": "addons\\Killers\\Немезис (Nemesis)\\pics\\7.png",
-            "AddonDescription": "Удар щупальцем по выжившему даёт +4/+2 заряда (вместо +3/+1).\r\n"
+            "AddonDescription": "Удар щупальцем по выжившему даёт +4/+2 заряда (вместо +3/+1).\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Немезис (Nemesis)\\pics\\8.png",
-            "AddonDescription": "Длительность инстинкта убийцы +3 с.\r\n"
+            "AddonDescription": "Длительность инстинкта убийцы +3 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Немезис (Nemesis)\\pics\\9.png",
-            "AddonDescription": "Радиус обнаружения зомби +4 м.\r\nУгол обнаружения зомби +17,5 град.\r\n"
+            "AddonDescription": "Радиус обнаружения зомби +4 м.\r\nУгол обнаружения зомби +17,5 град.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Немезис (Nemesis)\\pics\\10.png",
-            "AddonDescription": "После заведённого генератора скорость зомби +1 м/с в течение 60 с.\r\n"
+            "AddonDescription": "После заведённого генератора скорость зомби +1 м/с в течение 60 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Немезис (Nemesis)\\pics\\11.png",
-            "AddonDescription": "Удар щупальцем по зомби даёт +1,5 заряда (вместо +1).\r\nВосстановление зомби после уничтожения -5 с.\r\n"
+            "AddonDescription": "Удар щупальцем по зомби даёт +1,5 заряда (вместо +1).\r\nВосстановление зомби после уничтожения -5 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Немезис (Nemesis)\\pics\\12.png",
-            "AddonDescription": "Удар щупальцем по зомби даёт +2 заряда (вместо +1).\r\n"
+            "AddonDescription": "Удар щупальцем по зомби даёт +2 заряда (вместо +1).\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Немезис (Nemesis)\\pics\\13.png",
-            "AddonDescription": "Накладывает эффект \"Незаметность\" после уничтожения зомби на 15 с.\r\n"
+            "AddonDescription": "Накладывает эффект \"Незаметность\" после уничтожения зомби на 15 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Немезис (Nemesis)\\pics\\14.png",
-            "AddonDescription": "Длительность открытия ящика с вакциной +4 с.\r\n"
+            "AddonDescription": "Длительность открытия ящика с вакциной +4 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Немезис (Nemesis)\\pics\\15.png",
-            "AddonDescription": "Длительность замедления после заражения +0,15 с.\r\n"
+            "AddonDescription": "Длительность замедления после заражения +0,15 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Немезис (Nemesis)\\pics\\16.png",
-            "AddonDescription": "Накладывает на выжившего, получившего заражение, эффект \"Забывчивость\" на 60 с.\r\n"
+            "AddonDescription": "Накладывает на выжившего, получившего заражение, эффект \"Забывчивость\" на 60 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Немезис (Nemesis)\\pics\\17.png",
-            "AddonDescription": "Раскрывает ауру выжившего, открывшего сундук с вакциной, на 12 с.\r\n"
+            "AddonDescription": "Раскрывает ауру выжившего, открывшего сундук с вакциной, на 12 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 5,
             "AddonImagePath": "addons\\Killers\\Немезис (Nemesis)\\pics\\18.png",
-            "AddonDescription": "Восстановление зомби после уничтожения -5 с.\r\nСкорость зомби +0,5 м/с.\r\nПосле починки всех генераторов уничтоженные зомби появляются за воротами.\r\n"
+            "AddonDescription": "Восстановление зомби после уничтожения -5 с.\r\nСкорость зомби +0,5 м/с.\r\nПосле починки всех генераторов уничтоженные зомби появляются за воротами.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Немезис (Nemesis)\\pics\\19.png",
-            "AddonDescription": "Количество ящиков с вакциной -1.\r\n"
+            "AddonDescription": "Количество ящиков с вакциной -1.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Немезис (Nemesis)\\pics\\20.png",
-            "AddonDescription": "На вакцинированного выжившего накладывается эффект \"Уязвимость\" на 30 с.\r\n"
+            "AddonDescription": "На вакцинированного выжившего накладывается эффект \"Уязвимость\" на 30 с.\r\n",
+            "Tips": ""
           }
         ]
     },
@@ -2575,102 +3055,122 @@
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Сенобит (Cenobite)\\pics\\1.png",
-            "AddonDescription": "Перезарядка Зова боли -0,15 с.\r\n"
+            "AddonDescription": "Перезарядка Зова боли -0,15 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Сенобит (Cenobite)\\pics\\2.png",
-            "AddonDescription": "Скорость поворота цепи +10 град/с.\r\n"
+            "AddonDescription": "Скорость поворота цепи +10 град/с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 1,
             "AddonImagePath": "addons\\Killers\\Сенобит (Cenobite)\\pics\\3.png",
-            "AddonDescription": "Длительность подготовки Цепной охоты -5 с.\r\n"
+            "AddonDescription": "Длительность подготовки Цепной охоты -5 с.\r\n",
+            "Tips": ""
           },
           {
-            "Stars": 1,
+            "Stars": 0,
             "AddonImagePath": "addons\\Killers\\Сенобит (Cenobite)\\pics\\4.png",
-            "AddonDescription": "Дополнительных цепей при попадании -1.\r\nНа 100% очков больше.\r\n"
+            "AddonDescription": "Дополнительных цепей при попадании -1.\r\nНа 100% очков больше.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Сенобит (Cenobite)\\pics\\5.png",
-            "AddonDescription": "Скорость поворота цепи +15 град/с.\r\n"
+            "AddonDescription": "Скорость поворота цепи +15 град/с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 1,
             "AddonImagePath": "addons\\Killers\\Сенобит (Cenobite)\\pics\\6.png",
-            "AddonDescription": "Максимальная дальность полёта цепи +2 м.\r\n"
+            "AddonDescription": "Максимальная дальность полёта цепи +2 м.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Сенобит (Cenobite)\\pics\\7.png",
-            "AddonDescription": "Перезарядка Зова боли -0,45 с.\r\n"
+            "AddonDescription": "Перезарядка Зова боли -0,45 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Сенобит (Cenobite)\\pics\\8.png",
-            "AddonDescription": "Длительность решения куба +2 с.\r\n"
+            "AddonDescription": "Длительность решения куба +2 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Сенобит (Cenobite)\\pics\\9.png",
-            "AddonDescription": "Максимальная дальность размещения портала +4 м.\r\n"
+            "AddonDescription": "Максимальная дальность размещения портала +4 м.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 5,
             "AddonImagePath": "addons\\Killers\\Сенобит (Cenobite)\\pics\\10.png",
-            "AddonDescription": "Выжившие не видят ауру Конфигурации плача дальше 16 м, когда Цепная охота не активна.\r\n"
+            "AddonDescription": "Выжившие не видят ауру Конфигурации плача дальше 16 м, когда Цепная охота не активна.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 1,
             "AddonImagePath": "addons\\Killers\\Сенобит (Cenobite)\\pics\\11.png",
-            "AddonDescription": "Длительность подготовки Цепной охоты -10 с.\r\n"
+            "AddonDescription": "Длительность подготовки Цепной охоты -10 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Сенобит (Cenobite)\\pics\\12.png",
-            "AddonDescription": "Накладывает на выжившего, держащего Конфигурацию плача, эффект \"Усталость\".\r\n"
+            "AddonDescription": "Накладывает на выжившего, держащего Конфигурацию плача, эффект \"Усталость\".\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Сенобит (Cenobite)\\pics\\13.png",
-            "AddonDescription": "Длительность решения куба +4 с.\r\n"
+            "AddonDescription": "Длительность решения куба +4 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 1,
             "AddonImagePath": "addons\\Killers\\Сенобит (Cenobite)\\pics\\14.png",
-            "AddonDescription": "Максимальная дальность полёта цепи +4 м.\r\n"
+            "AddonDescription": "Максимальная дальность полёта цепи +4 м.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Сенобит (Cenobite)\\pics\\15.png",
-            "AddonDescription": "Максимальная дальность размещения портала +8 м.\r\n"
+            "AddonDescription": "Максимальная дальность размещения портала +8 м.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 5,
             "AddonImagePath": "addons\\Killers\\Сенобит (Cenobite)\\pics\\16.png",
-            "AddonDescription": "Выживший, разорвавший цепь Зова боли, получает глубокую рану.\r\n"
+            "AddonDescription": "Выживший, разорвавший цепь Зова боли, получает глубокую рану.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Сенобит (Cenobite)\\pics\\17.png",
-            "AddonDescription": "Если выживший разрывает цепь Зова боли об окружение, его поражает дополнительная цепь.\r\n"
+            "AddonDescription": "Если выживший разрывает цепь Зова боли об окружение, его поражает дополнительная цепь.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 5,
             "AddonImagePath": "addons\\Killers\\Сенобит (Cenobite)\\pics\\18.png",
-            "AddonDescription": "Раскрывает ауру выжившего, поражённого цепью Зова боли, на 6 с.\r\n"
+            "AddonDescription": "Раскрывает ауру выжившего, поражённого цепью Зова боли, на 6 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Сенобит (Cenobite)\\pics\\19.png",
-            "AddonDescription": "Аура Конфигурации плача видна Сенобиту.\r\nЕё поднятие не активирует Цепную охоту, но накладывает эффект \"Незаметность\" на 12 с.\r\n"
+            "AddonDescription": "Аура Конфигурации плача видна Сенобиту.\r\nЕё поднятие не активирует Цепную охоту, но накладывает эффект \"Незаметность\" на 12 с.\r\n",
+            "Tips": ""
           },
           {
             "Stars": 5,
             "AddonImagePath": "addons\\Killers\\Сенобит (Cenobite)\\pics\\20.png",
-            "AddonDescription": "Цепь Зова боли наносит урон здоровым выжившим, но не цепляет его и не создаёт дополнительные цепи.\r\nПри этом задержка возвращения управления +0,25 с.\r\n"
+            "AddonDescription": "Цепь Зова боли наносит урон здоровым выжившим, но не цепляет его и не создаёт дополнительные цепи.\r\nПри этом задержка возвращения управления +0,25 с.\r\n",
+            "Tips": ""
           }
         ]
     }

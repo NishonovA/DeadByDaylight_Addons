@@ -6,45 +6,101 @@
         xmlns:local="clr-namespace:DeadByDaylight_Addons"
         mc:Ignorable="d"
         WindowStartupLocation="Manual" Top="0" 
-        Title="Addons (Patch %PATCH%)" Width="1000" MinWidth="1000">
-    <Grid x:Name="MainGrid">
-        <Grid x:Name="Header" Height="230" VerticalAlignment="Top">
-            <Grid.ColumnDefinitions>
-                <ColumnDefinition Width="170"/>
-                <ColumnDefinition Width="*"/>
-            </Grid.ColumnDefinitions>
-            <Image x:Name="Icon" Grid.Column="0" HorizontalAlignment="Left" VerticalAlignment="Top" Height="208" Width="150" Margin="10, 10, 0, 0"/>
-            <Grid x:Name="MainDescription" Grid.Column="1">
+        Title="Addons (Patch %PATCH%)" Width="1030">
+    <Window.Resources>
+        <ControlTemplate x:Key="ComboBoxToggleButton" TargetType="ToggleButton">
+            <Grid>
                 <Grid.ColumnDefinitions>
-                    <ColumnDefinition Width="*"/>
-                    <ColumnDefinition Width="30"/>
-                    <ColumnDefinition Width="*"/>
-                    <ColumnDefinition Width="10"/>
+                    <ColumnDefinition />
+                    <ColumnDefinition Width="20"/>
                 </Grid.ColumnDefinitions>
-                <Grid.RowDefinitions>
-                    <RowDefinition Height="10"/>
-                    <RowDefinition Height="25"/>
-                    <RowDefinition Height="10"/>
-                    <RowDefinition Height="*"/>
-                    <RowDefinition Height="10"/>
-                </Grid.RowDefinitions>
-                <ComboBox x:Name="KillerName" Grid.Column="0" Grid.Row="1" Width="200" Height="25" HorizontalAlignment="Left" SelectionChanged="KillerName_SelectionChanged" SelectedIndex="0"/>
-                <TextBlock x:Name="Description_1" Grid.Column="0" Grid.Row="3" TextWrapping="WrapWithOverflow"/>
-                <TextBlock x:Name="Description_2" Grid.Column="2" Grid.Row="3" TextWrapping="WrapWithOverflow"/>
-                <Button x:Name="NotesButton" Grid.Column="1" Grid.Row="1" Click="NotesButton_Click" BorderThickness="0" Background="White" HorizontalAlignment="Center" Width="25">
-                    <Image Source="addons/NotesIcon.png" Stretch="Uniform" HorizontalAlignment="Center" VerticalAlignment="Center"/>
-                </Button>
-                <Label x:Name="NotesLabel" Grid.Column="2" Grid.Row="1" Content="Общие заметки" />
+                <Border x:Name="Border" Grid.ColumnSpan="2" CornerRadius="2" Background="Transparent" BorderThickness="1" BorderBrush="Gray"/>
+                <Border Grid.Column="0" CornerRadius="2,0,0,2" Margin="1" Background="Transparent" BorderThickness="0,0,1,0" BorderBrush="Gray"/>
+                <Path x:Name="Arrow" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center" Data="M 0 0 L 4 4 L 8 0 Z" Fill="White"/>
             </Grid>
-        </Grid>
-        <Grid x:Name="AddonSlots" VerticalAlignment="Bottom">
-            <Grid.ColumnDefinitions>
-                <ColumnDefinition Width="10"/>
-                <ColumnDefinition Width="*"/>
-                <ColumnDefinition Width="20"/>
-                <ColumnDefinition Width="*"/>
-                <ColumnDefinition Width="10"/>
-            </Grid.ColumnDefinitions>
-        </Grid>
+        </ControlTemplate>
+
+        <Style x:Key="{x:Type ComboBox}" TargetType="ComboBox">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="ComboBox">
+                        <Grid>
+                            <ToggleButton Name="ToggleButton" Template="{StaticResource ComboBoxToggleButton}" Grid.Column="2" Focusable="false"
+                                          IsChecked="{Binding Path=IsDropDownOpen,Mode=TwoWay,RelativeSource={RelativeSource TemplatedParent}}" ClickMode="Press"/>
+                            <ContentPresenter Name="ContentSite" IsHitTestVisible="False" VerticalAlignment="Center" HorizontalAlignment="Left" ContentTemplate="{TemplateBinding SelectionBoxItemTemplate}"
+                                          ContentTemplateSelector="{TemplateBinding ItemTemplateSelector}" Content="{TemplateBinding SelectionBoxItem}" Margin="10,0,0,0"/>
+                            <Popup Name="Popup" Placement="Bottom" IsOpen="{TemplateBinding IsDropDownOpen}" AllowsTransparency="True" Focusable="False" PopupAnimation="Slide">
+                                <Grid Name="DropDown" SnapsToDevicePixels="True" MinWidth="{TemplateBinding ActualWidth}" MaxHeight="{TemplateBinding MaxDropDownHeight}">
+                                    <Border x:Name="DropDownBorder" Background="#161616" BorderThickness="1"/>
+                                    <ScrollViewer SnapsToDevicePixels="True">
+                                        <StackPanel IsItemsHost="True" KeyboardNavigation.DirectionalNavigation="Contained"/>
+                                    </ScrollViewer>
+                                </Grid>
+                            </Popup>
+                        </Grid>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Window.Resources>
+    
+    <Grid>
+        <ScrollViewer x:Name="mainScroll" VerticalScrollBarVisibility="Auto">
+            <Grid x:Name="MainGrid" MinWidth="1000">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="230"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <Grid x:Name="Header" Grid.Row="0" VerticalAlignment="Top">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="170"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                    <Image x:Name="Icon" Grid.Column="0" HorizontalAlignment="Left" VerticalAlignment="Top" Height="208" Width="150" Margin="10, 10, 0, 0"/>
+                    <Grid x:Name="MainDescription" Grid.Column="1">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="30"/>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="10"/>
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="10"/>
+                            <RowDefinition Height="25"/>
+                            <RowDefinition Height="10"/>
+                            <RowDefinition Height="*"/>
+                            <RowDefinition Height="10"/>
+                        </Grid.RowDefinitions>
+                        <ComboBox x:Name="KillerName" Grid.Column="0" Grid.Row="1" Width="200" HorizontalAlignment="Left"
+                                  SelectionChanged="KillerName_SelectionChanged" SelectedIndex="0"/>
+                        <TextBlock x:Name="Description_1" Grid.Column="0" Grid.Row="3" TextWrapping="WrapWithOverflow"/>
+                        <TextBlock x:Name="Description_2" Grid.Column="2" Grid.Row="3" TextWrapping="WrapWithOverflow"/>
+                        <Button x:Name="NotesButton" Grid.Column="1" Grid.Row="1" Click="NotesButton_Click" BorderThickness="0" HorizontalAlignment="Center" Width="25">
+                            <Image Source="addons/NotesIcon.png" Stretch="Uniform" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Button>
+                        <Grid x:Name="Notes_Sort" Grid.Row="1" Grid.Column="2">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="100"/>
+                                <ColumnDefinition Width="30"/>
+                                <ColumnDefinition Width="80"/>
+                                <ColumnDefinition Width="*"/>
+                            </Grid.ColumnDefinitions>
+                            <Label x:Name="NotesLabel" Grid.Column="0" Grid.Row="0" Content="Общие заметки"/>
+                            <Label x:Name="Sorting" Grid.Column="2" Grid.Row="0" Content="Сортировка"/>
+                            <ComboBox x:Name="SortAddons" Grid.Column="3" SelectedIndex="0"/>
+                        </Grid>
+                    </Grid>
+                </Grid>
+                <Grid x:Name="AddonSlots" Grid.Row="1">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="10"/>
+                        <ColumnDefinition x:Name="Column1" />
+                        <ColumnDefinition Width="20"/>
+                        <ColumnDefinition x:Name="Column2" />
+                        <ColumnDefinition Width="10"/>
+                    </Grid.ColumnDefinitions>
+                </Grid>
+            </Grid>
+        </ScrollViewer>
     </Grid>
 </Window>

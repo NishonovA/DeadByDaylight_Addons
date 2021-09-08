@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:DeadByDaylight_Addons"
         mc:Ignorable="d"
         WindowStartupLocation="Manual" Top="30"
-        Title="Заметки" Height="720" Width="700" MinHeight="720" MinWidth="700">
+        Title="Заметки" Width="720">
     <Grid x:Name="CustomGrid">
         <Grid x:Name="MessageGrid">
             <Grid.ColumnDefinitions>
@@ -21,7 +21,9 @@
                 <RowDefinition Height="30"/>
                 <RowDefinition Height="10"/>
             </Grid.RowDefinitions>
-            <TextBlock x:Name="notesText" Grid.Column="1" Grid.Row="1" TextWrapping="WrapWithOverflow"/>
+            <ScrollViewer x:Name="textScroll" Grid.Row="1" Grid.Column="1" VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto">
+                <TextBlock x:Name="notesText" TextWrapping="WrapWithOverflow"/>
+            </ScrollViewer>
             <Button x:Name="OK" Grid.Column="1" Grid.Row="3" Content="Понятно" Width="80" HorizontalAlignment="Right" Click="OK_Click"/>
         </Grid>
     </Grid>
