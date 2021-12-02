@@ -1373,7 +1373,7 @@
           {
             "Stars": 5,
             "AddonImagePath": "addons\\Killers\\Свинья (Pig)\\pics\\17.png",
-            "AddonDescription": "Количество обратных капканов +1.\r\nПодсвечивает ауру чинящего генератор выжившего, если на нём обратный капкан.",
+            "AddonDescription": "Количество обратных капканов +1.\r\nПодсвечивает ауру генератора, если его чинит выживший с обратным капканом.",
             "Tips": "Больший контроль генраша."
           },
           {
@@ -1748,7 +1748,7 @@
           {
             "Stars": 1,
             "AddonImagePath": "addons\\Killers\\Легион (Legion)\\pics\\16.png",
-            "AddonDescription": "Длительность таймера глубокой раны -3 с.",
+            "AddonDescription": "Длительность таймера глубокой раны -5 с.",
             "Tips": ""
           },
           {
@@ -3097,7 +3097,7 @@
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Сенобит (Cenobite)\\pics\\8.png",
-            "AddonDescription": "Длительность решения куба +2 с.",
+            "AddonDescription": "Длительность решения куба +1 с.",
             "Tips": ""
           },
           {
@@ -3109,13 +3109,13 @@
           {
             "Stars": 5,
             "AddonImagePath": "addons\\Killers\\Сенобит (Cenobite)\\pics\\10.png",
-            "AddonDescription": "Выжившие не видят ауру Конфигурации плача дальше 16 м, когда Цепная охота не активна.",
+            "AddonDescription": "Выжившие не видят ауру Конфигурации плача дальше 24 м, когда Цепная охота не активна.",
             "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Сенобит (Cenobite)\\pics\\11.png",
-            "AddonDescription": "Длительность подготовки Цепной охоты -10 с.",
+            "AddonDescription": "Длительность подготовки Цепной охоты -6 с.",
             "Tips": ""
           },
           {
@@ -3127,7 +3127,7 @@
           {
             "Stars": 5,
             "AddonImagePath": "addons\\Killers\\Сенобит (Cenobite)\\pics\\13.png",
-            "AddonDescription": "Длительность решения куба +4 с.",
+            "AddonDescription": "Длительность решения куба +2 с.",
             "Tips": ""
           },
           {
@@ -3163,13 +3163,140 @@
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Сенобит (Cenobite)\\pics\\19.png",
-            "AddonDescription": "Аура Конфигурации плача видна Сенобиту.\r\nЕё поднятие не активирует Цепную охоту, но накладывает эффект \"Незаметность\" на 12 с.",
+            "AddonDescription": "Аура Конфигурации плача видна Сенобиту.\r\nЕё поднятие не активирует Цепную охоту, но накладывает эффект \"Незаметность\" на 25 с.",
             "Tips": ""
           },
           {
             "Stars": 5,
             "AddonImagePath": "addons\\Killers\\Сенобит (Cenobite)\\pics\\20.png",
-            "AddonDescription": "Цепь Зова боли наносит урон здоровым выжившим, но не цепляет его и не создаёт дополнительные цепи.\r\nПри этом задержка возвращения управления +0,25 с.",
+            "AddonDescription": "Цепь Зова боли наносит урон здоровым выжившим, но не цепляет его и не создаёт дополнительные цепи.\r\nПри этом задержка возвращения управления +0,25 с.\r\nТолько 1 дополнительная цепь.",
+            "Tips": ""
+          }
+        ]
+    },
+    {
+        "KillerName": "Художница (Artist)",
+        "KillerImagePath": "addons\\Killers\\Художница (Artist)\\icon.png",
+        "KillerDescription": "Скорость - 4,6 м/с.\r\nРадиус террора - 32 м.\r\nСкорость во время использования ворон - 3,68 м/с.\r\nСкорость полёта ворон - 35 м/с.\r\nДлительность существования вороны - 10 с.\r\nЗадержка наложения нового эффекта на выжившего от прошлой вороны - 0,75 с.\r\nКоличество ворон - 3.\r\nДлительность призыва вороны - 3 с.\r\nЗадержка между призывами - 0,5 с.\r\nПерезарядка после выпущенных 0/1/2/3/4 ворон - 2/5/9/12/14 с.\r\nДальность прямого урона - 8 м.\r\nДлительность избавления от ворон - 8 с.\r\nВидимость ауры после начала избавления - 2,5 с.\r\nДлительность инстинкта убийцы - 3 с.\r\nЗамедление после запуска ворон в полёт - 1,5 с.",
+        "AddonInfo": [
+          {
+            "Stars": 2,
+            "AddonImagePath": "addons\\Killers\\Художница (Artist)\\pics\\1.png",
+            "AddonDescription": "Длительность инстинкта убийцы +1,5 с.",
+            "Tips": ""
+          },
+          {
+            "Stars": 3,
+            "AddonImagePath": "addons\\Killers\\Художница (Artist)\\pics\\2.png",
+            "AddonDescription": "Длительность избавления от ворон +0,5 с.",
+            "Tips": ""
+          },
+          {
+            "Stars": 2,
+            "AddonImagePath": "addons\\Killers\\Художница (Artist)\\pics\\3.png",
+            "AddonDescription": "Дальность срабатывания инстинкта убийцы +1,5 м.",
+            "Tips": ""
+          },
+          {
+            "Stars": 2,
+            "AddonImagePath": "addons\\Killers\\Художница (Artist)\\pics\\4.png",
+            "AddonDescription": "Длительность существования вороны +2 с.",
+            "Tips": ""
+          },
+          {
+            "Stars": 2,
+            "AddonImagePath": "addons\\Killers\\Художница (Artist)\\pics\\5.png",
+            "AddonDescription": "Длительность видимости ауры стаи +1,5 с.",
+            "Tips": ""
+          },
+          {
+            "Stars": 3,
+            "AddonImagePath": "addons\\Killers\\Художница (Artist)\\pics\\6.png",
+            "AddonDescription": "На выжившего, получившего эффект стаи, накладывается ??% замедление на 1,5 с.",
+            "Tips": ""
+          },
+          {
+            "Stars": 2,
+            "AddonImagePath": "addons\\Killers\\Художница (Artist)\\pics\\7.png",
+            "AddonDescription": "Длительность существования вороны +4 с.",
+            "Tips": ""
+          },
+          {
+            "Stars": 4,
+            "AddonImagePath": "addons\\Killers\\Художница (Artist)\\pics\\8.png",
+            "AddonDescription": "Перезарядка после запуска ворон в полёт -0,5 с.",
+            "Tips": ""
+          },
+          {
+            "Stars": 1,
+            "AddonImagePath": "addons\\Killers\\Художница (Artist)\\pics\\9.png",
+            "AddonDescription": "Перезарядка после уничтожения ворон из-за неактивности -1,5 с.",
+            "Tips": ""
+          },
+          {
+            "Stars": 5,
+            "AddonImagePath": "addons\\Killers\\Художница (Artist)\\pics\\10.png",
+            "AddonDescription": "Накладывает эффект \"Незаметность\", когда способность на перезарядке, а ворон нет.\r\nКоличество ворон -1.",
+            "Tips": ""
+          },
+          {
+            "Stars": 3,
+            "AddonImagePath": "addons\\Killers\\Художница (Artist)\\pics\\11.png",
+            "AddonDescription": "На выживших, получивших урон от вороны, накладываются эффекты \"Травма\" и \"Кровотечение\".",
+            "Tips": ""
+          },
+          {
+            "Stars": 3,
+            "AddonImagePath": "addons\\Killers\\Художница (Artist)\\pics\\12.png",
+            "AddonDescription": "На выжившего, получившего эффект стаи, накладывается эффект \"Забывчивость\".",
+            "Tips": ""
+          },
+          {
+            "Stars": 5,
+            "AddonImagePath": "addons\\Killers\\Художница (Artist)\\pics\\13.png",
+            "AddonDescription": "На выжившего, получившего эффект стаи, накладывается эффект \"Усталость\".",
+            "Tips": ""
+          },
+          {
+            "Stars": 1,
+            "AddonImagePath": "addons\\Killers\\Художница (Artist)\\pics\\14.png",
+            "AddonDescription": "На выжившего, получившего эффект стаи, накладывается эффект \"Слепота\".\r\nЭффукт сохраняется 15 с после избавления.",
+            "Tips": ""
+          },
+          {
+            "Stars": 1,
+            "AddonImagePath": "addons\\Killers\\Художница (Artist)\\pics\\15.png",
+            "AddonDescription": "Ауры летящих ворон больше не видны.\r\nАуры призванных ворон видны 0,5 с.",
+            "Tips": ""
+          },
+          {
+            "Stars": 4,
+            "AddonImagePath": "addons\\Killers\\Художница (Artist)\\pics\\16.png",
+            "AddonDescription": "Длительность замедления после запуска ворон -0,5 с.",
+            "Tips": ""
+          },
+          {
+            "Stars": 4,
+            "AddonImagePath": "addons\\Killers\\Художница (Artist)\\pics\\17.png",
+            "AddonDescription": "Эффект стаи также накладывается на выживших рядом с тем, в кого попала ворона.",
+            "Tips": ""
+          },
+          {
+            "Stars": 5,
+            "AddonImagePath": "addons\\Killers\\Художница (Artist)\\pics\\18.png",
+            "AddonDescription": "Раскрывает ауру выжившего, находящегося рядом с призванной вороной в 5 м, на 3 с.",
+            "Tips": ""
+          },
+          {
+            "Stars": 3,
+            "AddonImagePath": "addons\\Killers\\Художница (Artist)\\pics\\19.png",
+            "AddonDescription": "Количество ворон +1.\r\nДлительность существования вороны -4 с.",
+            "Tips": ""
+          },
+          {
+            "Stars": 4,
+            "AddonImagePath": "addons\\Killers\\Художница (Artist)\\pics\\20.png",
+            "AddonDescription": "На выжившего, избавившегося от стаи, накладывается эффект \"Уязвимость\" на 4 с.",
             "Tips": ""
           }
         ]
