@@ -406,13 +406,13 @@
           {
             "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Медсестра (Nurse)\\pics\\4.png",
-            "AddonDescription": "Успешная атака после скачка на 100% увеличивает громкость стонов раненного выжившего в течение 60 с.",
+            "AddonDescription": "Успешная атака после скачка на 50% увеличивает громкость стонов раненного выжившего в течение 60 с.",
             "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Медсестра (Nurse)\\pics\\5.png",
-            "AddonDescription": "*Длительность интервала между скачками +0,2 с.",
+            "AddonDescription": "Длительность интервала между скачками +0,2 с.",
             "Tips": ""
           },
           {
@@ -424,13 +424,13 @@
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Медсестра (Nurse)\\pics\\7.png",
-            "AddonDescription": "Перезарядка скачка -0,4 с.",
+            "AddonDescription": "Скорость между скачками +0,4 м/с.",
             "Tips": ""
           },
           {
             "Stars": 5,
             "AddonImagePath": "addons\\Killers\\Медсестра (Nurse)\\pics\\8.png",
-            "AddonDescription": "Усталость после цепочки скачков -1 с.",
+            "AddonDescription": "Усталость после цепочки скачков -0,65 с.",
             "Tips": ""
           },
           {
@@ -442,7 +442,7 @@
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Медсестра (Nurse)\\pics\\10.png",
-            "AddonDescription": "Количество скачков +1.\r\n*Длительность перезарядки скачка +1,5 секунды.",
+            "AddonDescription": "Количество скачков +1.\r\n*Длительность перезарядки скачка +1 секунда.",
             "Tips": "Даёт возможность сделать серию скачков более прицельной и сыграть на эффекте неожиданности."
           },
           {
@@ -454,19 +454,19 @@
           {
             "Stars": 5,
             "AddonImagePath": "addons\\Killers\\Медсестра (Nurse)\\pics\\12.png",
-            "AddonDescription": "Дальность скачка +4 м.\r\n*Время для полной зарядки +0,4 с.",
+            "AddonDescription": "Дальность выпада после второго скачка +2 м.",
             "Tips": ""
           },
           {
-            "Stars": 5,
+            "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Медсестра (Nurse)\\pics\\13.png",
-            "AddonDescription": "Перезарядка скачка -0,6 с.",
+            "AddonDescription": "Удар после скачка накладывает эффект \"Травма\".",
             "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Медсестра (Nurse)\\pics\\14.png",
-            "AddonDescription": "Длительность усталости -0,25 с.",
+            "AddonDescription": "Длительность усталости -0,14 с.",
             "Tips": ""
           },
           {
@@ -476,33 +476,33 @@
             "Tips": ""
           },
           {
-            "Stars": 5,
+            "Stars": 1,
             "AddonImagePath": "addons\\Killers\\Медсестра (Nurse)\\pics\\16.png",
-            "AddonDescription": "Дальность скачка +6 м.\r\n*Время для полной зарядки +0,6 с.",
+            "AddonDescription": "Наклдаывает эффект \"Слепота\" на всех выживших в радиусе 8 м при усталости после скачка.",
             "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Медсестра (Nurse)\\pics\\17.png",
-            "AddonDescription": "Между прыжками появляется возможность вернуться в изначальное положение при нажатии кнопки активной способности.",
+            "AddonDescription": "После всех прыжков появляется возможность вернуться в изначальное положение при нажатии кнопки активной способности.\r\nВсе заряды будут восстановлены.",
             "Tips": ""
           },
           {
             "Stars": 4,
             "AddonImagePath": "addons\\Killers\\Медсестра (Nurse)\\pics\\18.png",
-            "AddonDescription": "После полностью заряженного скачка происходит половинный скачок в направлении взгляда.",
+            "AddonDescription": "После полностью заряженного скачка сразу происходит дополнительный скачок в направлении взгляда, если оставался ещё один заряд.",
             "Tips": ""
           },
           {
             "Stars": 3,
             "AddonImagePath": "addons\\Killers\\Медсестра (Nurse)\\pics\\19.png",
-            "AddonDescription": "Эффект \"Незаметность\" на 16 секунд после успешного удара со скачком.\r\nПерезарядка 60 с.",
+            "AddonDescription": "Эффект \"Незаметность\" на 25 секунд после успешного удара со скачком.\r\nПерезарядка 45 с.",
             "Tips": ""
           },
           {
             "Stars": 1,
             "AddonImagePath": "addons\\Killers\\Медсестра (Nurse)\\pics\\20.png",
-            "AddonDescription": "Базовая скорость - 4,2 м/с.\r\nКоличество скачков -1.",
+            "AddonDescription": "Базовая скорость - 4,4 м/с.\r\nКоличество скачков -1.\r\nНельзя совмещать с другими аддонами на заряды.",
             "Tips": "Теряется точность скачков.\r\nНезначительная прибавка к скорости не компенсирует этот большой недостаток."
           }
         ]
@@ -2018,7 +2018,7 @@
             "Tips": ""
           },
           {
-            "Stars": 2,
+            "Stars": 5,
             "AddonImagePath": "addons\\Killers\\Гост Фейс (Ghost Face)\\pics\\19.png",
             "AddonDescription": "Наложение метки на выжившего, чинящего генератор, генератор взрывается, теряя 20% прогресса, и блокируется на 15 с.",
             "Tips": ""
@@ -3538,7 +3538,7 @@
         {
           "Stars": 5,
           "AddonImagePath": "addons\\Killers\\Грязь (Dredge)\\pics\\18.png",
-          "AddonDescription": "Ночь активируется в самом начале и после каждого прочиненного генератора.\r\nВыживший, коснувшиеся оболочки, получают эффект \"Усталость\" на 15 с.",
+          "AddonDescription": "Ночь активируется в самом начале и после пятого прочиненного генератора.\r\nВыживший, коснувшиеся оболочки, получают эффект \"Усталость\" на 15 с.",
           "Tips": ""
         },
         {
@@ -3551,6 +3551,260 @@
           "Stars": 5,
           "AddonImagePath": "addons\\Killers\\Грязь (Dredge)\\pics\\20.png",
           "AddonDescription": "Выжившие получают эффект \"Уязвимость\" в последние 12 с ночи.",
+          "Tips": ""
+        }
+      ]
+    },
+    {
+      "KillerName": "Кукловод (Mastermind)",
+      "KillerImagePath": "addons\\Killers\\Кукловод (Mastermind)\\icon.png",
+      "KillerDescription": "Скорость - 4,6 м/с.\r\nРадиус террора - 40 м.\r\nСкорость рывка - 14 м/с.\r\nСкорость до и после рывка - 3,68 м/с.\r\nВремя зарядки - 1,5 с.\r\nДлительность первого рывка - 0,5 с.\r\nДлительность второго рывка - 1 с.\r\nДлительность окна между рывками- 2 с.\r\nДлительность восстановления рывка - 6 с.\r\nДлительность рывка при захвате - 0,86 с.\r\nЗаражение при захвате - 20 зар.\r\nПассивное заражение - 0,8 зар/с.\r\nПолное заражение при 100 зар.\r\nДлительность снятия заражения - 5 с.\r\nЗамедление выжившего при полном заражении - 8%.\r\nДлительность инстинкта убийцы после снятия заражения - 4 с.",
+      "AddonInfo": [
+        {
+          "Stars": 0,
+          "AddonImagePath": "addons\\Killers\\Кукловод (Mastermind)\\pics\\1.png",
+          "AddonDescription": "Уменьшает длительность захвата выжившего на 0,43 с.\r\nУвеличивает количество очков за применение способности.",
+          "Tips": ""
+        },
+        {
+          "Stars": 3,
+          "AddonImagePath": "addons\\Killers\\Кукловод (Mastermind)\\pics\\2.png",
+          "AddonDescription": "Увеличивает дистанцию первого рывка на 1,4 м.\r\nУменьшает дистанцию второго рывка на 2,8 м.",
+          "Tips": ""
+        },
+        {
+          "Stars": 3,
+          "AddonImagePath": "addons\\Killers\\Кукловод (Mastermind)\\pics\\3.png",
+          "AddonDescription": "Уменьшает дистанцию первого рывка на 1,4 м.\r\nУвеличивает дистанцию второго рывка на 2,8 м.",
+          "Tips": ""
+        },
+        {
+          "Stars": 2,
+          "AddonImagePath": "addons\\Killers\\Кукловод (Mastermind)\\pics\\4.png",
+          "AddonDescription": "Увеличивает скорость во время зарядки рывка на 0,2 м/с.",
+          "Tips": ""
+        },
+        {
+          "Stars": 2,
+          "AddonImagePath": "addons\\Killers\\Кукловод (Mastermind)\\pics\\5.png",
+          "AddonDescription": "Увеличивает скорость между рывками на 0,32 м/с.",
+          "Tips": ""
+        },
+        {
+          "Stars": 3,
+          "AddonImagePath": "addons\\Killers\\Кукловод (Mastermind)\\pics\\6.png",
+          "AddonDescription": "Уменьшает длительность восстановления рывка на 0,6 с.",
+          "Tips": ""
+        },
+        {
+          "Stars": 4,
+          "AddonImagePath": "addons\\Killers\\Кукловод (Mastermind)\\pics\\7.png",
+          "AddonDescription": "Увеличивает дальность броска выжившего на 30%.",
+          "Tips": ""
+        },
+        {
+          "Stars": 5,
+          "AddonImagePath": "addons\\Killers\\Кукловод (Mastermind)\\pics\\8.png",
+          "AddonDescription": "Увеличивает длительность захвата выжившего на 0,43 с.",
+          "Tips": ""
+        },
+        {
+          "Stars": 2,
+          "AddonImagePath": "addons\\Killers\\Кукловод (Mastermind)\\pics\\9.png",
+          "AddonDescription": "Накладывает на выживших эффект \"Забывчивость\" на 30 с после применения спрея.",
+          "Tips": ""
+        },
+        {
+          "Stars": 4,
+          "AddonImagePath": "addons\\Killers\\Кукловод (Mastermind)\\pics\\10.png",
+          "AddonDescription": "Столкновение с доской или ломаемой стеной разрушает их во время рывка.\r\nУбирает возможность перепрыгивать сброшенные доски.",
+          "Tips": ""
+        },
+        {
+          "Stars": 4,
+          "AddonImagePath": "addons\\Killers\\Кукловод (Mastermind)\\pics\\11.png",
+          "AddonDescription": "Накладывает на выживших эффект \"Кровотечение\" при нанесении урона рывком.",
+          "Tips": ""
+        },
+        {
+          "Stars": 2,
+          "AddonImagePath": "addons\\Killers\\Кукловод (Mastermind)\\pics\\12.png",
+          "AddonDescription": "Увеличивает длительность снятия заражения на 2 с.",
+          "Tips": ""
+        },
+        {
+          "Stars": 1,
+          "AddonImagePath": "addons\\Killers\\Кукловод (Mastermind)\\pics\\13.png",
+          "AddonDescription": "Накладывает на выжившего эффект \"Слепота\" на 60 с при получении полного заражения.",
+          "Tips": ""
+        },
+        {
+          "Stars": 3,
+          "AddonImagePath": "addons\\Killers\\Кукловод (Mastermind)\\pics\\14.png",
+          "AddonDescription": "Увеличивает скорость пассиного заражения на 0,24 зар/с.",
+          "Tips": ""
+        },
+        {
+          "Stars": 2,
+          "AddonImagePath": "addons\\Killers\\Кукловод (Mastermind)\\pics\\15.png",
+          "AddonDescription": "Увеличивает длительность окна между рывками на 1 с.",
+          "Tips": ""
+        },
+        {
+          "Stars": 4,
+          "AddonImagePath": "addons\\Killers\\Кукловод (Mastermind)\\pics\\16.png",
+          "AddonDescription": "Кукловод получает эффект \"Незаметность\" каждый раз, когда выживший достигает максимального заражения.",
+          "Tips": ""
+        },
+        {
+          "Stars": 2,
+          "AddonImagePath": "addons\\Killers\\Кукловод (Mastermind)\\pics\\17.png",
+          "AddonDescription": "Увеличивает уровень заражения при попадании рывком по выжившему на 6.",
+          "Tips": ""
+        },
+        {
+          "Stars": 4,
+          "AddonImagePath": "addons\\Killers\\Кукловод (Mastermind)\\pics\\18.png",
+          "AddonDescription": "Раскрывает ауру выжившего, использовавшего спрей, на 8 с.",
+          "Tips": ""
+        },
+        {
+          "Stars": 5,
+          "AddonImagePath": "addons\\Killers\\Кукловод (Mastermind)\\pics\\19.png",
+          "AddonDescription": "Раскрывает ауру выжившего, достигшего полного заражения, на 4 с.",
+          "Tips": ""
+        },
+        {
+          "Stars": 5,
+          "AddonImagePath": "addons\\Killers\\Кукловод (Mastermind)\\pics\\20.png",
+          "AddonDescription": "Все выжившие изначально заражены.\r\nНакладывает на выжившего эффект \"Уязвимость\" на 30 с после получения полного заражения.",
+          "Tips": ""
+        }
+      ]
+    },
+    {
+      "KillerName": "Рыцарь (Knight)",
+      "KillerImagePath": "addons\\Killers\\Рыцарь (Knight)\\icon.png",
+      "KillerDescription": "Скорость - 4,6 м/с.\r\nРадиус террора - 32 м.\r\nЦепочка призывов - Палач->Головорез->Тюремщик.\r\nСкорость прокладывания пути - 13,8 м/с.\r\nМаксимальная дальность пути - 32 м.\r\nСкорость патрулирования - 3,4/4,1 (тюремщик) м/с.\r\nВремя ломания - 6/2 (палач) с.\r\nПоломка генератора духом - 5%.\r\nДлительность патрулирования - 12/24 (тюремщик) с.\r\nСкорость преследования - 4,1/4,4 (головорез) м/с.\r\nДлительность преследования - 12/24 (палач) с.\r\nРадиус обнаружения - 8/14 (тюремщик) м.\r\nПерезарядка - 3 с.\r\nУскорение при взятии стяга - +2 м/с.\r\nДлительность ускорения и стойкости - 3 с.\r\nДлительность призыва стража - 1,5 с.\r\nДальность приказа - 6 м.\r\nДлительность ускорения после призыва - 2-6 с.\r\nУвеличение скорости на 5%.",
+      "AddonInfo": [
+        {
+          "Stars": 2,
+          "AddonImagePath": "addons\\Killers\\Рыцарь (Knight)\\pics\\1.png",
+          "AddonDescription": "Увеличивает длительность патрулирования стражей на 6 с.",
+          "Tips": ""
+        },
+        {
+          "Stars": 2,
+          "AddonImagePath": "addons\\Killers\\Рыцарь (Knight)\\pics\\2.png",
+          "AddonDescription": "Уменьшает время поломки генератора/доски/ломаемой двери на 0,5 (палач)/1,5 с.",
+          "Tips": ""
+        },
+        {
+          "Stars": 1,
+          "AddonImagePath": "addons\\Killers\\Рыцарь (Knight)\\pics\\3.png",
+          "AddonDescription": "Увеличивает радиус обзора стражей на 4 м.",
+          "Tips": ""
+        },
+        {
+          "Stars": 1,
+          "AddonImagePath": "addons\\Killers\\Рыцарь (Knight)\\pics\\4.png",
+          "AddonDescription": "Увеличивает скорость стражей при патрулировании на 0,37 (тюремщик)/0,3 м/с.",
+          "Tips": ""
+        },
+        {
+          "Stars": 4,
+          "AddonImagePath": "addons\\Killers\\Рыцарь (Knight)\\pics\\5.png",
+          "AddonDescription": "Головорез появляется в цепочке призывов дважды.",
+          "Tips": ""
+        },
+        {
+          "Stars": 3,
+          "AddonImagePath": "addons\\Killers\\Рыцарь (Knight)\\pics\\6.png",
+          "AddonDescription": "Увеличивает длительность погони стража на 4 с.",
+          "Tips": ""
+        },
+        {
+          "Stars": 4,
+          "AddonImagePath": "addons\\Killers\\Рыцарь (Knight)\\pics\\7.png",
+          "AddonDescription": "Тюремщик появляется в цепочке призывов дважды.",
+          "Tips": ""
+        },
+        {
+          "Stars": 3,
+          "AddonImagePath": "addons\\Killers\\Рыцарь (Knight)\\pics\\8.png",
+          "AddonDescription": "Увеличивает дальность прокладываемого пути на 10 м.\r\nУвеличивает скорость при прокладывании пути на 3,45 м/с.",
+          "Tips": ""
+        },
+        {
+          "Stars": 4,
+          "AddonImagePath": "addons\\Killers\\Рыцарь (Knight)\\pics\\9.png",
+          "AddonDescription": "Палач появляется в цепочке призывов дважды.",
+          "Tips": ""
+        },
+        {
+          "Stars": 2,
+          "AddonImagePath": "addons\\Killers\\Рыцарь (Knight)\\pics\\10.png",
+          "AddonDescription": "Каждый четвёртый призыв стража накладывает на выжившего в пределах 12 м от стража эффект \"Уязвимость\" на 8 с.",
+          "Tips": ""
+        },
+        {
+          "Stars": 2,
+          "AddonImagePath": "addons\\Killers\\Рыцарь (Knight)\\pics\\11.png",
+          "AddonDescription": "Каждый третий раз, когда страж не добегает до выжившего, Рыцарь получает эффект \"Незаметность\" на 25 с.",
+          "Tips": ""
+        },
+        {
+          "Stars": 2,
+          "AddonImagePath": "addons\\Killers\\Рыцарь (Knight)\\pics\\12.png",
+          "AddonDescription": "Каждый раз, когда страж не добегает до выжившего, тот получает эффект \"Забывчивость\" на 20 с.",
+          "Tips": ""
+        },
+        {
+          "Stars": 2,
+          "AddonImagePath": "addons\\Killers\\Рыцарь (Knight)\\pics\\13.png",
+          "AddonDescription": "Выживший получает эффект \"Слепота\" на 60 с, когда страж замечает его.",
+          "Tips": ""
+        },
+        {
+          "Stars": 3,
+          "AddonImagePath": "addons\\Killers\\Рыцарь (Knight)\\pics\\14.png",
+          "AddonDescription": "Удар стража накладывает эффект \"Кровотечение\".",
+          "Tips": ""
+        },
+        {
+          "Stars": 3,
+          "AddonImagePath": "addons\\Killers\\Рыцарь (Knight)\\pics\\15.png",
+          "AddonDescription": "Удар стража накладывает эффект \"Травма\".",
+          "Tips": ""
+        },
+        {
+          "Stars": 4,
+          "AddonImagePath": "addons\\Killers\\Рыцарь (Knight)\\pics\\16.png",
+          "AddonDescription": "После призыва тюремщика Рыцарь получает ускорение на 0,46 м/с в течение 6 с.",
+          "Tips": ""
+        },
+        {
+          "Stars": 5,
+          "AddonImagePath": "addons\\Killers\\Рыцарь (Knight)\\pics\\17.png",
+          "AddonDescription": "После призыва головореза показывает местоположение всех выживших в 24 метрах от стража на 5 с.\r\nВыжившие при этом вскрикивают.",
+          "Tips": ""
+        },
+        {
+          "Stars": 5,
+          "AddonImagePath": "addons\\Killers\\Рыцарь (Knight)\\pics\\18.png",
+          "AddonDescription": "После призыва палача показывает ауры всех выживших, находящихся в пределах 24 м от несломанных досок, на 5 с.",
+          "Tips": ""
+        },
+        {
+          "Stars": 3,
+          "AddonImagePath": "addons\\Killers\\Рыцарь (Knight)\\pics\\19.png",
+          "AddonDescription": "Выживший, ушедший от погони стража (кроме взятия стяга), получает эффект \"Усталость\" и замедляется на 0,12 м/с в течение 15 с.",
+          "Tips": ""
+        },
+        {
+          "Stars": 4,
+          "AddonImagePath": "addons\\Killers\\Рыцарь (Knight)\\pics\\20.png",
+          "AddonDescription": "Прокладывание пути через окна блокирует их на 15 с.\r\nДля выжившего, за которым идёт погоня, блокируются выход и перепрыгнутые окна.",
           "Tips": ""
         }
       ]
