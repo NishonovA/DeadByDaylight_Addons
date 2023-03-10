@@ -3808,5 +3808,132 @@
           "Tips": ""
         }
       ]
+    },
+    {
+      "KillerName": "Торговка черепами (Skull Merchant)",
+      "KillerImagePath": "addons\\Killers\\Торговка черепами (Skull Merchant)\\icon.png",
+      "KillerDescription": "Скорость - 4,6 м/с.\r\nРадиус террора - 32 м.\r\nНахождение для получения \"Незаметности\" - 2 с.\r\nДлительность \"Незаметности\" - 2 с.\r\nЗарядов для накопления \"Уязвимости\" - 10 с.\r\nСкорость накопления \"Уязвимости\" - 1 зар/с.\r\nЗадержка опустошения - 10 с.\r\nСкорость опустошения - 0,33 зар/с.\r\nДлительность \"Уязвимости\" - 60 с.\r\nРадиус зоны дронов - 10 м.\r\nКоличество дронов - 4.\r\nПерезарядка ручной активации - 10 с.\r\nДлительность жучка - 45 с.\r\nЗаряд при провале снятия жучка - +25%.\r\nСкорость при использовании радара - 4,4 м/с.\r\nДлительность \"невзламываемости\" при активации - 10 с.\r\nДлительность активного режима - 20 с.\r\nДлительность активации при запуске - 3с.\r\nДлительность дезактивации при взломе - 10 с.",
+      "AddonInfo": [
+        {
+          "Stars": 5,
+          "AddonImagePath": "addons\\Killers\\Торговка черепами (Skull Merchant)\\pics\\1.png",
+          "AddonDescription": "Выживший с жучком, быстро перепрыгнувший доску, ломает её.\r\nЕсли жучок разряжен, он будет сразу снят после прыжка.",
+          "Tips": ""
+        },
+        {
+          "Stars": 1,
+          "AddonImagePath": "addons\\Killers\\Торговка черепами (Skull Merchant)\\pics\\2.png",
+          "AddonDescription": "Выживший в активной зоне дрона получает эффект \"Слепота\".\r\nПосле выхода из зоны эффект остаётся на 15 с.",
+          "Tips": ""
+        },
+        {
+          "Stars": 1,
+          "AddonImagePath": "addons\\Killers\\Торговка черепами (Skull Merchant)\\pics\\3.png",
+          "AddonDescription": "Уменьшает перезарядку ручной активации дрона на 1 с.",
+          "Tips": ""
+        },
+        {
+          "Stars": 1,
+          "AddonImagePath": "addons\\Killers\\Торговка черепами (Skull Merchant)\\pics\\4.png",
+          "AddonDescription": "Уменьшает зону проверки реакции на 20% для выживших, находящихся в активной зоне дрона.\r\nПосле выхода из зоны эффект остаётся на 15 с.",
+          "Tips": ""
+        },
+        {
+          "Stars": 1,
+          "AddonImagePath": "addons\\Killers\\Торговка черепами (Skull Merchant)\\pics\\5.png",
+          "AddonDescription": "Увеличивает длительность \"невзламываемости\" на 1 с.",
+          "Tips": ""
+        },
+        {
+          "Stars": 2,
+          "AddonImagePath": "addons\\Killers\\Торговка черепами (Skull Merchant)\\pics\\6.png",
+          "AddonDescription": "Убирает предупреждение о проверке реакции для выживших, находящихся в активной зоне дрона.\r\nПосле выхода из зоны эффект остаётся на 15 с.",
+          "Tips": ""
+        },
+        {
+          "Stars": 3,
+          "AddonImagePath": "addons\\Killers\\Торговка черепами (Skull Merchant)\\pics\\7.png",
+          "AddonDescription": "Увеличивает длительность жучка на 5,4 с.",
+          "Tips": ""
+        },
+        {
+          "Stars": 2,
+          "AddonImagePath": "addons\\Killers\\Торговка черепами (Skull Merchant)\\pics\\8.png",
+          "AddonDescription": "Увеличивает длительность активного режима на 2 с.",
+          "Tips": ""
+        },
+        {
+          "Stars": 1,
+          "AddonImagePath": "addons\\Killers\\Торговка черепами (Skull Merchant)\\pics\\9.png",
+          "AddonDescription": "Увеличивает длительность остаточной \"Незаметности\" на 0,4 с.",
+          "Tips": ""
+        },
+        {
+          "Stars": 1,
+          "AddonImagePath": "addons\\Killers\\Торговка черепами (Skull Merchant)\\pics\\10.png",
+          "AddonDescription": "Увеличивает скорость на 0,23 м/с внутри зоны дрона, активированного выжившим.\r\nЭффект не складывается\r\nЭффект пропадает после удара по выжившему.",
+          "Tips": ""
+        },
+        {
+          "Stars": 2,
+          "AddonImagePath": "addons\\Killers\\Торговка черепами (Skull Merchant)\\pics\\11.png",
+          "AddonDescription": "Уменьшает длительность накопления \"Уязвимости\" выжившим на 0,9 с.",
+          "Tips": ""
+        },
+        {
+          "Stars": 3,
+          "AddonImagePath": "addons\\Killers\\Торговка черепами (Skull Merchant)\\pics\\12.png",
+          "AddonDescription": "Удар по выжившему с жучком накладывает на него эффекты \"Травма\" и \"Кровотечение\".",
+          "Tips": ""
+        },
+        {
+          "Stars": 5,
+          "AddonImagePath": "addons\\Killers\\Торговка черепами (Skull Merchant)\\pics\\13.png",
+          "AddonDescription": "Выживший получает эффект \"Усталость\" в активной зоне дрона.\r\nПосле выхода из зоны эффект остаётся на 3 с.",
+          "Tips": ""
+        },
+        {
+          "Stars": 3,
+          "AddonImagePath": "addons\\Killers\\Торговка черепами (Skull Merchant)\\pics\\14.png",
+          "AddonDescription": "Раскрывает ауру выжившего, снявшего жучок, на 4 с.",
+          "Tips": ""
+        },
+        {
+          "Stars": 2,
+          "AddonImagePath": "addons\\Killers\\Торговка черепами (Skull Merchant)\\pics\\15.png",
+          "AddonDescription": "Выживший в активной зоне дрона получает эффект \"Забывчивость\"\r\nПосле выхода из зоны эффект остаётся на 15 с.",
+          "Tips": ""
+        },
+        {
+          "Stars": 2,
+          "AddonImagePath": "addons\\Killers\\Торговка черепами (Skull Merchant)\\pics\\16.png",
+          "AddonDescription": "Выживший, вошедший в акутивную зону дрона, получает \"Замедление\" на 5% на 3 с.",
+          "Tips": ""
+        },
+        {
+          "Stars": 4,
+          "AddonImagePath": "addons\\Killers\\Торговка черепами (Skull Merchant)\\pics\\17.png",
+          "AddonDescription": "В активной зоне дронов Торговка получается ускорение на 0,092 м/с, а поломка ускорена на 15%.\r\nПосле выхода из зоны эффект остаётся на 15 с.",
+          "Tips": ""
+        },
+        {
+          "Stars": 5,
+          "AddonImagePath": "addons\\Killers\\Торговка черепами (Skull Merchant)\\pics\\18.png",
+          "AddonDescription": "Все выжившие начинают матч с жучками.\r\nЭти жучки не перезаряжаются и слетают сами при разрядке.\r\nУвеличивает длительность всех жучков на 22,5 с.",
+          "Tips": ""
+        },
+        {
+          "Stars": 5,
+          "AddonImagePath": "addons\\Killers\\Торговка черепами (Skull Merchant)\\pics\\19.png",
+          "AddonDescription": "Раскрывает ауру выжившего, вошедшего в активную зону дрона, на 6 с.",
+          "Tips": ""
+        },
+        {
+          "Stars": 2,
+          "AddonImagePath": "addons\\Killers\\Торговка черепами (Skull Merchant)\\pics\\20.png",
+          "AddonDescription": "Ручная активация дрона создаёт ауру террора в 32 м.\r\nРаботает единожды для каждого дрона.\r\nУвеличивает перезарядку ручной активации на 2,5 с.",
+          "Tips": ""
+        }
+      ]
     }
 ]
