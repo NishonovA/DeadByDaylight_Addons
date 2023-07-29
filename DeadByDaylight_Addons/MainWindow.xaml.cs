@@ -18,10 +18,10 @@ namespace DeadByDaylight_Addons
     public partial class MainWindow : Window
     {
         private readonly string DEFAULT_DESCRIPTION = "Нет данных";
-        private readonly int DEFAULT_HEADER_HEIGHT = 270;
-        private readonly int DEFAULT_ADDONSLOT_HEIGHT = 80;
+        private readonly int DEFAULT_HEADER_HEIGHT = 332;
+        private readonly int DEFAULT_ADDONSLOT_HEIGHT = 70;
         private readonly int DEFAULT_PICSCOUNTER = 20;
-        private readonly int DEFAULT_DESCRIPTION_LINES = 10;
+        private readonly int DEFAULT_DESCRIPTION_LINES = 14;
         private readonly int DEFAULT_ADDON_HEIGHT = 70;
         private readonly int DEFAULT_STARS_WIDTH = 52;
         private readonly int DEFAULT_ADDONICON_WIDTH = 48;

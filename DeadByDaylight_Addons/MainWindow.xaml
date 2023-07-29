@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:DeadByDaylight_Addons"
         mc:Ignorable="d"
         WindowStartupLocation="Manual" Top="0" 
-        Title="Addons (Patch %PATCH%)" Width="1030">
+        Title="Addons (Patch %PATCH%)" Width="1150">
     <Window.Resources>
         <ControlTemplate x:Key="ComboBoxToggleButton" TargetType="ToggleButton">
             <Grid>
@@ -46,17 +46,17 @@
     
     <Grid>
         <ScrollViewer x:Name="mainScroll" VerticalScrollBarVisibility="Auto">
-            <Grid x:Name="MainGrid" MinWidth="1000">
+            <Grid x:Name="MainGrid" MinWidth="1120">
                 <Grid.RowDefinitions>
-                    <RowDefinition Height="230"/>
+                    <RowDefinition Height="292"/>
                     <RowDefinition Height="*"/>
                 </Grid.RowDefinitions>
                 <Grid x:Name="Header" Grid.Row="0" VerticalAlignment="Top">
                     <Grid.ColumnDefinitions>
-                        <ColumnDefinition Width="170"/>
+                        <ColumnDefinition Width="290"/>
                         <ColumnDefinition Width="*"/>
                     </Grid.ColumnDefinitions>
-                    <Image x:Name="Icon" Grid.Column="0" HorizontalAlignment="Left" VerticalAlignment="Top" Height="208" Width="150" Margin="10, 10, 0, 0"/>
+                    <Image x:Name="Icon" Grid.Column="0" HorizontalAlignment="Left" VerticalAlignment="Top" Height="270" Width="270" Margin="10, 10, 0, 0"/>
                     <Grid x:Name="MainDescription" Grid.Column="1">
                         <Grid.ColumnDefinitions>
                             <ColumnDefinition Width="*"/>
