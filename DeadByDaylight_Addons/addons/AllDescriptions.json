@@ -942,9 +942,9 @@
             "Tips": ""
           },
           {
-            "Stars": 4,
+            "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Охотница (Huntress)\\pics\\9.png",
-            "AddonDescription": "Увеличивает количество переносимых топориков на 1.",
+            "AddonDescription": "Успешное попадание топориков увеличивает скорость на 0,09 м/с на 5 с.",
             "Tips": ""
           },
           {
@@ -990,9 +990,9 @@
             "Tips": ""
           },
           {
-            "Stars": 5,
+            "Stars": 2,
             "AddonImagePath": "addons\\Killers\\Охотница (Huntress)\\pics\\17.png",
-            "AddonDescription": "Количество переносимых топориков +2.",
+            "AddonDescription": "Успешное попадание топориков увеличивает скорость на 0,13 м/с на 5 с.",
             "Tips": ""
           },
           {
